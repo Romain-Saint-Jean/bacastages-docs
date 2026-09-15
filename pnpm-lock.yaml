@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      marked:
+        specifier: ^18.0.13
+        version: 18.0.13
       playwright:
         specifier: ^1.63.0
         version: 1.63.0
@@ -186,6 +189,11 @@ packages:
     resolution: {integrity: sha512-Btj2BOOO83o3WyH59e8MgXsxEQVcarkUOpEYrubB0urwnN10yQ364rsiByU11nZlqWYZm05i/of7io4mzihBtQ==}
     engines: {node: '>=8'}
 
+  marked@18.0.13:
+    resolution: {integrity: sha512-xTxVzZsBFwunP6HDmtBkabUQEYArnP7/rMDGmPj9SlrKlQ4i8MdYVow+nJL0eOqwpUqhzBoTBRADGN6uYwPyOw==}
+    engines: {node: '>= 20'}
+    hasBin: true
+
   playwright-core@1.63.0:
     resolution: {integrity: sha512-rYCsBF/M5HjUch52bbtVONEFjv6Xu8sm8h72dNlR5bzIE1fvC/bxgspzkjSfU+MweEMmPM8KJebG6nnyxo5mCg==}
     engines: {node: '>=20'}
@@ -327,6 +335,8 @@ snapshots:
     optional: true
 
   detect-libc@2.1.2: {}
+
+  marked@18.0.13: {}
 
   playwright-core@1.63.0: {}
 
