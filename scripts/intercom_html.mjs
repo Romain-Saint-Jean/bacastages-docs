@@ -8,7 +8,9 @@
 // qu'écrit l'éditeur d'Intercom : l'image dans un `<div class="intercom-container">`.
 //
 // Les images pointent vers leur URL publique sur GitHub : Intercom les télécharge à
-// l'enregistrement de l'article et les sert ensuite depuis ses propres serveurs.
+// l'enregistrement de l'article et les sert ensuite depuis ses propres serveurs. Elles
+// viennent de `main`, ou de la branche `DOCS_REF` pour essayer des captures avant de
+// les fusionner.
 
 import { marked } from 'marked';
 import { readFile } from 'node:fs/promises';
@@ -16,7 +18,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const RAW_BASE = 'https://raw.githubusercontent.com/Romain-Saint-Jean/bacastages-docs/main/';
+const RAW_BASE = `https://raw.githubusercontent.com/Romain-Saint-Jean/bacastages-docs/${process.env.DOCS_REF ?? 'main'}/`;
 
 export async function articleToIntercom(file) {
   const source = await readFile(file, 'utf8');

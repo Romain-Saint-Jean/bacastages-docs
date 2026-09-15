@@ -68,7 +68,9 @@ scripts/captures/env.sh stop
 
 Un scénario par article, qui écrit ses images dans `assets/<collection>/<article>/`.
 `scripts/captures/lib.mjs` porte la connexion par rôle, le masquage des outils de
-développement, l'encadré orange et le recadrage.
+développement et les encadrés numérotés. Une capture montre l'écran entier, à 1680 px de
+large pour que le menu ne tronque aucun libellé ; le numéro d'un encadré est celui de
+l'étape de l'article.
 
 Prérequis :
 
