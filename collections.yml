@@ -1,0 +1,78 @@
+- path: compte-bacastages
+  name: "Compte Bacastages"
+  description: "Guide sur la gestion de son compte"
+  parent: null
+  order: 5
+  intercom_us_id: "18004506"
+- path: conventions
+  name: "Conventions"
+  description: "Guide sur la gestion des conventions avec Bacastages"
+  parent: null
+  order: 2
+  intercom_us_id: "18001024"
+- path: gestion-de-l-etablissement
+  name: "Gestion de l'établissement"
+  description: "Guide pour gérer et configurer son établissement"
+  parent: null
+  order: 3
+  intercom_us_id: "18032428"
+- path: mini-stages
+  name: "Mini-stages"
+  description: "Guide pour gérer ses mini-stages"
+  parent: null
+  order: 1
+  intercom_us_id: "18006183"
+- path: parents-familles
+  name: "Parents & Familles"
+  description: "Guides et tutoriels pour les parents : inscription, recherche de mini-stages, suivi des pré-inscriptions et conventions."
+  parent: null
+  order: 7
+  intercom_us_id: "18317297"
+- path: premiers-pas
+  name: "Premiers pas"
+  description: "Configurez votre compte et commencez à utiliser Bacastages"
+  parent: null
+  order: 0
+  intercom_us_id: "16890507"
+- path: premiers-pas/college-lycee-cio
+  name: "Collège - Lycée - CIO"
+  description: "Guide de configuration pour les nouveaux utilisateurs"
+  parent: premiers-pas
+  order: 1
+  intercom_us_id: "17761927"
+- path: premiers-pas/ddf-atddf-bde-personnel-de-direction
+  name: "DDF - ATDDF - BDE - Personnel de direction"
+  description: "Configurez votre établissement et commencez à publier des offres."
+  parent: premiers-pas
+  order: 0
+  intercom_us_id: "17761908"
+- path: premiers-pas/parents-familles-premiers-pas
+  name: "Parents & Familles (Premiers pas)"
+  description: "Guides de démarrage pour les parents et familles souhaitant inscrire leur enfant à des mini-stages."
+  parent: premiers-pas
+  order: 2
+  intercom_us_id: "18317296"
+- path: professeurs-recevoir-un-mini-stage-dans-sa-classe
+  name: "Professeurs - Recevoir un mini-stage dans sa classe"
+  description: "Guide pour gérer les mini-stages via Bacastages"
+  parent: null
+  order: 4
+  intercom_us_id: "17887892"
+- path: professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur
+  name: "Avec un compte professeur"
+  description: "Guide pour gérer les mini-stages reçus avec un compte professeur"
+  parent: professeurs-recevoir-un-mini-stage-dans-sa-classe
+  order: 1
+  intercom_us_id: "17887899"
+- path: professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte
+  name: "Sans compte"
+  description: "Guide pour gérer les mini-stages reçus en tant que professeur sans compte"
+  parent: professeurs-recevoir-un-mini-stage-dans-sa-classe
+  order: 0
+  intercom_us_id: "17887898"
+- path: resolution-de-problemes
+  name: "Résolution de problèmes"
+  description: "Tutoriels pour résoudre les problèmes fréquents rencontré lors de l'utilisation de la plateforme"
+  parent: null
+  order: 6
+  intercom_us_id: "17817560"
