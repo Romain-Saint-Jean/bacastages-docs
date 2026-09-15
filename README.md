@@ -54,6 +54,30 @@ python3 scripts/import_articles.py ~/.local/share/bacastages/intercom-us/help-ce
 Les URL d'images renvoyées par Intercom sont signées et expirent en une trentaine
 d'heures : la conversion doit suivre l'export de près.
 
+## Captures d'écran
+
+Produites par Playwright sur les données de démo, jamais à la main : une capture se
+régénère d'une commande quand l'interface change.
+
+```bash
+scripts/captures/seed-demo.sh      # le jour même : « aujourd'hui » et « à venir » restent vrais
+scripts/captures/env.sh start      # back sur 8100, front sur 3100
+node scripts/captures/scenarios/<collection>/<article>.mjs
+scripts/captures/env.sh stop
+```
+
+Un scénario par article, qui écrit ses images dans `assets/<collection>/<article>/`.
+`scripts/captures/lib.mjs` porte la connexion par rôle, le masquage des outils de
+développement, l'encadré orange et le recadrage.
+
+Prérequis :
+
+- les worktrees `docs-captures` (`bacastages-roadmap/scripts/worktree.sh docs-captures both`) ;
+- la base `bacastages_docs`, migrée et seedée (`scripts/captures/README.md`) ;
+- deux modifications locales, non commitées, du front de ce worktree : l'API visée en dur
+  passe de `localhost:8000` à `localhost:8100` (`next.config.mjs`,
+  `src/utils/makeApiRequest.ts`), et `devIndicators: false` dans `next.config.mjs`.
+
 ## Captures de l'espace US
 
 Toutes les captures importées de l'espace US montrent des écrans que la refonte a changés
