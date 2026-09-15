@@ -22,15 +22,17 @@ puis passez directement à l'étape 3.
 
 ## Étape 1 : télécharger la convention
 
+<!-- Les images restent en retrait sous leur étape : hors de la liste, elles la coupent et la numérotation repart à 1. -->
+
 1. Dans le menu, ouvrez **Suivi**.
 2. Cherchez l'élève par son nom, puis cliquez sur son nom pour ouvrir son dossier.
 
-![Le tableau Suivi des élèves, avec le nom de l'élève à cliquer pour ouvrir son dossier](../../assets/conventions/ou-deposer-la-convention-signee/1-ouvrir-le-dossier.png)
+   ![Le tableau Suivi des élèves, avec le nom de l'élève à cliquer pour ouvrir son dossier](../../assets/conventions/ou-deposer-la-convention-signee/1-ouvrir-le-dossier.png)
 
 3. En haut du dossier, dans l'encadré **Convention transmise**, cliquez sur
    **Télécharger la convention vierge**.
 
-![L'encadré Convention transmise, avec le bouton Télécharger la convention vierge](../../assets/conventions/ou-deposer-la-convention-signee/2-telecharger-la-convention-vierge.png)
+   ![L'encadré Convention transmise, avec le bouton Télécharger la convention vierge](../../assets/conventions/ou-deposer-la-convention-signee/2-telecharger-la-convention-vierge.png)
 
 ## Étape 2 : la faire signer
 
@@ -48,13 +50,13 @@ Le lycée d'accueil intervient en dernier, lorsqu'il valide la convention.
    ci-dessous. »
 2. Cliquez sur **Déposer la convention signée**.
 
-![La section Gestion de la convention, avec le statut En attente de dépôt et le bouton Déposer la convention signée](../../assets/conventions/ou-deposer-la-convention-signee/3-deposer-la-convention-signee.png)
+   ![La section Gestion de la convention, avec le statut En attente de dépôt et le bouton Déposer la convention signée](../../assets/conventions/ou-deposer-la-convention-signee/3-deposer-la-convention-signee.png)
 
 3. Indiquez votre nom complet.
 4. Choisissez le fichier de la convention signée : PDF, PNG ou JPG, de 10 Mo maximum.
 5. Cliquez sur **Déposer**.
 
-![La fenêtre Déposer la convention signée, avec le nom de la personne qui dépose et le choix du fichier](../../assets/conventions/ou-deposer-la-convention-signee/4-fenetre-de-depot.png)
+   ![La fenêtre Déposer la convention signée, avec le nom de la personne qui dépose et le choix du fichier](../../assets/conventions/ou-deposer-la-convention-signee/4-fenetre-de-depot.png)
 
 ## Après le dépôt
 
