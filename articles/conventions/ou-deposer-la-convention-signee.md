@@ -50,9 +50,9 @@ Le lycée d'accueil intervient en dernier, lorsqu'il valide la convention.
 
 ![La section Gestion de la convention, avec le statut En attente de dépôt et le bouton Déposer la convention signée](../../assets/conventions/ou-deposer-la-convention-signee/3-deposer-la-convention-signee.png)
 
-3. Indiquez votre nom complet et choisissez le fichier de la convention signée : PDF,
-   PNG ou JPG, de 10 Mo maximum.
-4. Cliquez sur **Déposer**.
+3. Indiquez votre nom complet.
+4. Choisissez le fichier de la convention signée : PDF, PNG ou JPG, de 10 Mo maximum.
+5. Cliquez sur **Déposer**.
 
 ![La fenêtre Déposer la convention signée, avec le nom de la personne qui dépose et le choix du fichier](../../assets/conventions/ou-deposer-la-convention-signee/4-fenetre-de-depot.png)
 
