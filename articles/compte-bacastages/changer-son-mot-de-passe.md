@@ -1,71 +1,70 @@
 ---
 title: "Changer son mot de passe"
-description: "Procédure pour modifier votre mot de passe depuis votre profil Bacastages."
+description: "Définir un nouveau mot de passe depuis l'onglet « Sécurité » de votre compte, et connaître la règle complète que Bacastages applique."
 state: draft
 collections: [compte-bacastages]
 intercom_us_id: "13635275"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302981
 ---
-# Objectif
+## Objectif
 
-Modifier le mot de passe de votre compte Bacastages depuis les paramètres de votre profil.
+Remplacer le mot de passe de votre compte Bacastages.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
+- Être connecté
 
-- ✅ Être connecté à votre compte Bacastages
-- ✅ Connaître votre mot de passe actuel
-
----
-
-# Étapes à suivre
-
-# 1\. Accéder à votre profil
-
-Cliquez sur votre **nom** ou votre **avatar** en haut à droite de l'écran, puis sélectionnez **« Profil »**. Vous pouvez également utiliser l'onglet **« Profil »** dans le menu latéral.
-
-# 2\. Ouvrir la section Mot de passe
-
-Sur la page de votre profil, repérez la section **« Mot de passe »**. Cliquez sur le bouton **« Modifier le mot de passe »** pour afficher le formulaire de changement.
-
-# 3\. Saisir votre mot de passe actuel
-
-Dans le champ **« Mot de passe actuel »**, entrez le mot de passe que vous utilisez actuellement pour vous connecter. Cette vérification garantit la sécurité de votre compte.
-
-# 4\. Définir votre nouveau mot de passe
-
-Saisissez votre nouveau mot de passe dans le champ **« Nouveau mot de passe »**, puis confirmez-le dans le champ **« Confirmer le nouveau mot de passe »**.  
-  
-Votre mot de passe doit respecter les critères suivants :
-
-- Au minimum **8 caractères**
-
-# 5\. Enregistrer le nouveau mot de passe
-
-Cliquez sur le bouton **« Enregistrer »**. Un message de confirmation vous indique que votre mot de passe a été modifié avec succès. Lors de votre prochaine connexion, utilisez votre nouveau mot de passe.
+> **Votre mot de passe actuel ne vous sera pas demandé** : puisque vous êtes déjà connecté, Bacastages ne le redemande pas. Si vous ne parvenez plus à vous connecter, voyez **« Réinitialiser un mot de passe oublié »**.
 
 ---
 
-# Résultat attendu
+## La règle, en entier
 
-- Votre mot de passe est modifié immédiatement
-- Vous devrez utiliser le nouveau mot de passe lors de votre prochaine connexion
+Un mot de passe est accepté s'il réunit **tout** ce qui suit :
+
+- **8 caractères au minimum**, 128 au maximum
+- au moins **une minuscule**
+- au moins **une majuscule**
+- au moins **un chiffre**
+- au moins **un caractère spécial** (`!`, `?`, `#`, `-`…)
+- **aucun espace**
+
+> **C'est la cause n°1 des mots de passe refusés.** « 8 caractères » ne suffit pas : c'est un minimum, pas la règle complète. L'écran affiche d'ailleurs la règle entière au-dessus du formulaire.
+
+Les mots de passe trop courants, ou faits de répétitions, sont refusés même s'ils cochent toutes les cases.
 
 ---
 
-# Conseils pratiques
+## 1. Ouvrir votre compte
 
-💡 Choisissez un mot de passe unique que vous n'utilisez pas sur d'autres sites.
+Cliquez sur **« Mon compte »** dans la navigation — en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
 
-💡 Si vous avez oublié votre mot de passe actuel et ne pouvez pas vous connecter, utilisez la fonctionnalité **« Mot de passe oublié »** sur la page de connexion.
+## 2. Ouvrir l'onglet « Sécurité »
+
+C'est le deuxième des quatre onglets : **Informations**, **Sécurité**, **Notifications**, **Établissements**.
+
+## 3. Saisir le nouveau mot de passe
+
+Dans le champ **« Nouveau mot de passe »**.
+
+## 4. Le confirmer
+
+Dans le champ **« Confirmer le mot de passe »**.
+
+## 5. Valider
+
+Cliquez sur **« Mettre à jour le mot de passe »**.
 
 ---
 
-# Besoin d'aide ?
+## Vous y êtes
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Le message **« Nouveau mot de passe enregistré avec succès »** confirme le changement. Utilisez-le à votre prochaine connexion.
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

@@ -1,73 +1,87 @@
 ---
 title: "Réinitialiser un mot de passe oublié"
-description: "Procédure pour réinitialiser votre mot de passe si vous l'avez oublié."
+description: "Recevoir un lien de réinitialisation par e-mail et définir un nouveau mot de passe, quand la connexion est impossible."
 state: draft
 collections: [compte-bacastages]
 intercom_us_id: "13635282"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302984
 ---
-# Objectif
+## Objectif
 
-Réinitialiser votre mot de passe lorsque vous ne vous en souvenez plus et ne pouvez pas vous connecter à Bacastages.
+Reprendre la main sur votre compte quand vous ne vous souvenez plus de votre mot de passe.
 
----
+> **Si vous êtes encore connecté**, vous n'avez pas besoin de cette procédure : voyez **« Changer son mot de passe »**.
 
-# Prérequis
+## Ce qu'il vous faut
 
-- ✅ Disposer de l'adresse email associée à votre compte Bacastages
-- ✅ Avoir accès à votre boîte de réception email
-
----
-
-# Étapes à suivre
-
-# 1\. Accéder à la page de connexion
-
-Rendez-vous sur **bacastages.fr** et cliquez sur **« Se connecter »** pour afficher le formulaire de connexion.
-
-# 2\. Cliquer sur « Mot de passe oublié »
-
-Sous le formulaire de connexion, cliquez sur le lien **« Mot de passe oublié ? »**. Vous êtes redirigé vers la page de réinitialisation.
-
-# 3\. Saisir votre adresse email
-
-Entrez l'adresse email associée à votre compte Bacastages dans le champ prévu, puis cliquez sur **« Envoyer le lien de réinitialisation »**.
-
-# 4\. Consulter votre boîte de réception
-
-Un email contenant un lien de réinitialisation vous est envoyé. Ouvrez cet email et cliquez sur le bouton **« Réinitialiser mon mot de passe »**. Le lien est valable pendant une durée limitée.
-
-# 5\. Définir un nouveau mot de passe
-
-Vous êtes redirigé vers un formulaire où vous pouvez saisir votre **nouveau mot de passe** (minimum 8 caractères), puis le confirmer dans le second champ. Cliquez ensuite sur **« Enregistrer »**.
-
-# 6\. Se connecter avec le nouveau mot de passe
-
-Votre mot de passe est maintenant réinitialisé. Vous êtes automatiquement redirigé vers la plateforme ou pouvez vous connecter en utilisant votre adresse email et votre nouveau mot de passe.
+- L'adresse e-mail de votre compte
+- L'accès à cette boîte
 
 ---
 
-# Résultat attendu
+## 1. Ouvrir la page de connexion
 
-- Votre mot de passe est réinitialisé
-- Vous pouvez vous connecter à Bacastages avec votre nouveau mot de passe
+Sur **bacastages.fr**, cliquez sur **« Se connecter »**.
+
+## 2. Cliquer sur « Mot de passe oublié ? »
+
+Le lien se trouve à droite du champ *Mot de passe*.
+
+## 3. Saisir votre adresse e-mail
+
+Sur la page **« Réinitialiser votre mot de passe »** — *« Entrez l'adresse e-mail associée à votre compte pour recevoir un lien de réinitialisation de mot de passe. »*
+
+## 4. Envoyer
+
+Cliquez sur **« Envoyer »**. Le message **« Lien envoyé ! »** confirme le départ.
+
+## 5. Ouvrir l'e-mail reçu
+
+Il arrive de **team@notif.bacastages.fr**. S'il n'est pas dans votre boîte de réception, regardez votre courrier indésirable.
+
+> **Le lien a une durée de validité limitée.** S'il a expiré, ne cherchez pas à le réparer : reprenez à l'étape 2.
+
+## 6. Saisir le nouveau mot de passe
+
+Dans le champ **« Nouveau mot de passe »**.
+
+## 7. Le confirmer
+
+Dans le champ **« Confirmer le mot de passe »**.
+
+## 8. Valider
+
+Cliquez sur **« Réinitialiser le mot de passe »**.
 
 ---
 
-# Conseils pratiques
+## Ce que Bacastages exige d'un mot de passe
 
-💡 Si vous ne recevez pas l'email de réinitialisation, vérifiez votre dossier **« Courrier indésirable »** (spam). L'email est envoyé depuis l'adresse noreply@bacastages.fr.
+- **8 caractères au minimum**, 128 au maximum
+- au moins **une minuscule**
+- au moins **une majuscule**
+- au moins **un chiffre**
+- au moins **un caractère spécial**
+- **aucun espace**
 
-💡 Le lien de réinitialisation expire après un certain délai. Si le lien a expiré, relancez la procédure depuis la page de connexion.
-
-💡 Si vous ne vous souvenez plus de l'adresse email utilisée lors de l'inscription, contactez le support à support@bacastages.fr.
+> **« Minimum 8 caractères » n'est pas la règle**, seulement son premier point. C'est l'écran de réinitialisation qui rappelle la règle complète, juste au-dessus des champs.
 
 ---
 
-# Besoin d'aide ?
+## Vous y êtes
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Connectez-vous avec votre adresse e-mail et votre nouveau mot de passe.
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+---
+
+## Vous ne recevez pas l'e-mail
+
+Voyez **« Je ne reçois pas les emails de Bacastages »** : l'expéditeur à autoriser est **team@notif.bacastages.fr**.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
