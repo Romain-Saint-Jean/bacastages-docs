@@ -16,6 +16,7 @@ Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lyc�
 ## Ce qu'il vous faut
 
 - Un compte créé et son adresse email confirmée
+- **Un abonnement actif** (voir l'encadré ci-dessous)
 - Le nom et les coordonnées de votre chef d'établissement
 - Le nom d'au moins un professeur
 - Au moins une filière que vous ouvrez aux mini-stagiaires
@@ -24,18 +25,22 @@ Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lyc�
 
 ## Vue d'ensemble
 
-À votre première connexion, un panneau **« Mise en place »** s'ouvre et liste ce qui reste à faire. Pour un lycée, il compte **six étapes** :
+À votre connexion, un panneau **« Mise en place »** s'ouvre en bas à gauche et liste ce qui reste à faire. Pour un lycée abonné, il compte **six étapes** :
 
 1. **Informations de l'établissement**
 2. **Professeurs**
 3. **Filières**
 4. **Choix de la convention**
-5. **Méthode de signature**
-6. **Présentation de l'établissement**
+5. **Méthode de signature** *(optionnel)*
+6. **Présentation de l'établissement** *(optionnel)*
 
-Chaque étape indique en une phrase ce qu'elle attend, et un lien mène directement à l'écran concerné. Le panneau retient ce qui est déjà fait : vous pouvez le quitter et y revenir.
+> **Vous n'en voyez que deux ?** Le panneau affiche ses six étapes une fois votre **abonnement actif**. Avant cela, il n'en demande que deux — *Informations de l'établissement* et *Signataire des conventions* — car les autres ne servent qu'à publier des offres, ce qu'un établissement sans abonnement ne fait pas.
 
-> Une **septième étape, « Zones de signature »**, apparaît uniquement si vous téléversez votre propre modèle de convention. Un lycée qui reste sur le modèle officiel ne la voit jamais.
+Le panneau annonce ce qu'il bloque : *« Vous ne pourrez pas publier d'offre ni inscrire d'élève avant d'avoir terminé les étapes obligatoires. »* Les deux étapes marquées *(optionnel)* n'entrent pas dans ce blocage.
+
+> Chaque étape optionnelle porte un bouton **« Marquer terminée »** : il la range sans rien renseigner, pour faire disparaître le rappel.
+
+> Le panneau se replie par **« Réduire »** et se rouvre par la pastille **« Mise en place »** en bas à gauche. Il retient ce qui est déjà fait.
 
 Cet article couvre les trois premières étapes. Les trois suivantes sont décrites dans *3. Configuration de votre établissement — Partie 2*.
 
@@ -43,55 +48,75 @@ Cet article couvre les trois premières étapes. Les trois suivantes sont décri
 
 ## 1. Ouvrir l'étape « Informations de l'établissement »
 
-Dans le panneau de mise en place, cliquez sur **« Renseigner les informations »**.
+Dans le panneau, cliquez sur **« Renseigner les informations »**.
 
-## 2. Renseigner votre chef d'établissement et vos coordonnées
+## 2. Ouvrir l'étape « Professeurs »
 
-Complétez le nom du chef d'établissement, l'adresse de contact et le téléphone.
+Le lien **« Ajouter un professeur »** mène à la liste de vos professeurs.
 
-> Ces informations **figurent en en-tête des conventions** signées par les familles et les établissements d'origine.
+## 3. Ouvrir l'étape « Filières »
 
-## 3. Enregistrer
+Le lien **« Déclarer une filière »** mène à la liste de vos filières.
 
-Cliquez sur **« Enregistrer »**. L'étape est comptée comme faite dès que les informations sont complètes.
-
----
-
-## 4. Ouvrir l'étape « Professeurs »
-
-De retour dans le panneau, cliquez sur **« Ajouter un professeur »**.
-
-## 5. Créer une première fiche professeur
-
-Cliquez sur **« Ajouter »**, puis renseignez le nom, le prénom et la discipline.
-
-> **Une fiche n'est pas un compte.** La fiche professeur sert à désigner qui encadre un mini-stage ; elle suffit pour publier une offre. Le professeur peut, séparément, disposer d'un compte pour remplir ses comptes rendus — mais ce n'est pas obligatoire à cette étape.
-
-## 6. Enregistrer
-
-L'étape est comptée comme faite dès qu'une fiche existe.
+![Le panneau de mise en place et ses six étapes](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1-le-panneau-de-mise-en-place.png)
 
 ---
 
-## 7. Ouvrir l'étape « Filières »
+## 4. Saisir le nom du chef d'établissement
 
-De retour dans le panneau, cliquez sur **« Déclarer une filière »**.
+## 5. Saisir son prénom
 
-## 8. Déclarer une filière
+## 6. Saisir l'adresse email de contact
 
-Une filière se déclare comme une **combinaison diplôme × domaine** — par exemple *Bac Pro* × *Commerce*, ou *BTS* × *Électrotechnique*.
+## 7. Saisir le numéro de téléphone
 
-Choisissez le diplôme, puis le domaine.
+Puis cliquez sur **« Enregistrer »**.
 
-> **Votre diplôme ou votre domaine ne figure pas dans la liste ?** Vous pouvez le proposer depuis ce même écran. Il est utilisable immédiatement, avec la mention « en attente de validation », et l'équipe Bacastages le confirme ensuite.
+> Ces informations **figurent en en-tête des conventions** signées par les familles et les établissements d'origine, et sur les détails de vos mini-stages.
 
-## 9. Décrire la filière
+> Cet écran porte aussi le **signataire des conventions**, qui relève de l'étape *Méthode de signature* — vous pouvez le remplir dans la foulée, ou y revenir par la partie 2.
 
-La description est lue par les familles sur chaque offre de cette filière. Prenez le temps de l'écrire : c'est elle qui donne envie.
+![L'écran Informations : chef d'établissement et contact](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/2-les-informations-de-l-etablissement.png)
 
-## 10. Enregistrer
+---
 
-L'étape est comptée comme faite dès qu'une filière existe.
+## 8. Ouvrir la fiche d'un nouveau professeur
+
+Sur **Mes professeur(e)s**, cliquez sur **« Ajouter »**.
+
+![La liste des professeurs et le bouton « Ajouter »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/3-la-liste-des-professeurs.png)
+
+## 9. Saisir son nom
+
+## 10. Saisir son prénom
+
+## 11. Saisir son adresse email
+
+## 12. Enregistrer
+
+> **Une fiche n'est pas un compte.** La fiche sert à désigner qui encadre un mini-stage, et elle suffit pour publier une offre. Le panneau le dit : *« Le compte utilisateur n'est pas obligatoire. »* L'écran propose d'ailleurs un **accès sans compte**.
+
+> Vous pouvez aussi lui **assigner des filières** — utile une fois l'étape suivante franchie.
+
+![La fiche d'un nouveau professeur](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/4-la-fiche-professeur.png)
+
+---
+
+## 13. Ouvrir la création d'une filière
+
+Sur **Mes filières**, cliquez sur **« Ajouter »**.
+
+![La liste des filières et le bouton « Ajouter »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/5-la-liste-des-filieres.png)
+
+## 14. Nommer la filière
+
+## 15. Parcourir les quatre étapes
+
+La création d'une filière est un assistant en quatre temps : **Informations**, **Débouchés**, **Préinscriptions**, **Professeurs & Fichiers**. Le premier écran demande le nom, une couleur et une description facultative — *« Cette description sera affichée sur les offres de mini-stages de cette filière »*.
+
+Cliquez sur **« Suivant »** pour passer au suivant.
+
+![Le premier écran de l'assistant, et ses quatre étapes](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/6-declarer-une-filiere.png)
 
 ---
 
