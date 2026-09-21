@@ -49,7 +49,7 @@ export async function withPublicPage(article, scenario) {
   return browse(article, scenario, { account: null });
 }
 
-async function browse(article, scenario, { account, onboarding = 'collapsed' }) {
+async function browse(article, scenario, { account, onboarding = 'collapsed', height = 1050 }) {
   // Les contrôles natifs du navigateur (« Choisir un fichier ») ne suivent pas `locale`.
   // Sous Linux, Chromium lit sa langue dans `LANGUAGE`, et seul le Chromium complet
   // l'applique : le shell headless par défaut reste en anglais malgré les mêmes réglages.
@@ -61,7 +61,12 @@ async function browse(article, scenario, { account, onboarding = 'collapsed' }) 
   try {
     const context = await browser.newContext({
       // En dessous de 1680 px, le menu du haut tronque ses libellés (« S… » pour Suivi).
-      viewport: { width: 1680, height: 1050 },
+      //
+      // La hauteur, elle, se relève au besoin : le panneau de mise en place est ancré en
+      // bas à gauche et mesure près de 360 px, si bien qu'à 1050 px il déborde sous le pli
+      // et ses boutons n'ont pas de place à l'écran — `shoot.screen` ne peut alors rien
+      // encadrer. Les articles qui le décrivent passent `{ height: 1400 }`.
+      viewport: { width: 1680, height },
       deviceScaleFactor: 2,
       locale: 'fr-FR',
       timezoneId: 'Europe/Paris',

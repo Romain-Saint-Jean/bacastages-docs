@@ -393,9 +393,14 @@ const U = {
         id: uuid(14), key: "proviseure-neuf", firstName: "Nathalie", lastName: "Faure",
         email: LYCEE_NEUF.head.email, role: "school_admin", school: LYCEE_NEUF,
     },
-    principalNeuf: {
-        id: uuid(15), key: "principal-neuf", firstName: "Olivier", lastName: "Chevrier",
-        email: COLLEGE_NEUF.head.email, role: "school_admin", school: COLLEGE_NEUF,
+    /*
+      Rôle `college` et non `school_admin` : c'est ce que crée le parcours « Compte
+      Inscription » de la page d'inscription, donc l'état réel d'un collège au lendemain
+      de son arrivée — et le public auquel s'adresse `college-lycee-cio/2`.
+    */
+    inscriptionsNeuf: {
+        id: uuid(15), key: "inscriptions-neuf", firstName: "Olivier", lastName: "Chevrier",
+        email: COLLEGE_NEUF.head.email, role: "college", school: COLLEGE_NEUF,
     },
     admin: { id: uuid(11), key: "admin", firstName: "Équipe", lastName: "Bacastages", email: mail("support"), role: "super_admin", school: HOST, member: false },
     demandeRattachement: {
