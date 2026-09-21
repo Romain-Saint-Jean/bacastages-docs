@@ -1,79 +1,118 @@
 ---
-title: "Créer un compte parent sur Bacastages"
-description: "Guide pas à pas pour créer votre compte parent sur la plateforme Bacastages et accéder aux offres de mini-stages."
+title: "Créer un compte famille sur Bacastages"
+description: "Créer votre compte en trois étapes, et renseigner le bon établissement — celui où votre enfant est scolarisé."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635203"
 intercom_us_url: ""
 intercom_us_updated_at: 1770307632
 ---
-# Objectif
+## Objectif
 
-Créer votre compte parent sur Bacastages afin de pouvoir inscrire votre enfant à des mini-stages.
+Créer votre compte famille pour préinscrire votre enfant à des mini-stages.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
-
-- ✅ Disposer d'une adresse email valide
-- ✅ Connaître l'établissement scolaire de votre enfant
+- Une adresse e-mail que vous consultez régulièrement
+- Le nom de l'établissement **où votre enfant est actuellement scolarisé**
 
 ---
 
-# Étapes à suivre
+## 1. Ouvrir la page d'inscription
 
-# 1\. Accéder au site Bacastages
+Sur **bacastages.fr**, cliquez sur **« Créer un compte gratuit »**.
 
-Rendez-vous sur **bacastages.fr** depuis votre navigateur web (ordinateur, tablette ou smartphone).
+## 2. Choisir la carte « Une famille »
 
-# 2\. Lancer la création de compte
+L'écran **« Étape 1 sur 3 · Votre profil »** propose plusieurs cartes de profil. Prenez **« Une famille »** — *« Préinscrivez votre enfant à un mini-stage et suivez son parcours. »*
 
-Sur la page d'accueil, cliquez sur le bouton **« Créer un compte gratuit »**. Vous serez redirigé vers le formulaire d'inscription.
-
-# 3\. Choisir le type de compte
-
-Sélectionnez le profil **« Famille »** parmi les options proposées. Ce profil vous donnera accès aux fonctionnalités dédiées aux parents.
-
-# 4\. Remplir vos informations personnelles
-
-Complétez le formulaire avec les informations suivantes :  
-• **« Prénom »** : votre prénom  
-• **« Nom »** : votre nom de famille  
-• **« Téléphone »** : votre numéro de téléphone  
-• **« Email »** : votre adresse email (elle servira d'identifiant)  
-• **« Mot de passe »** : choisissez un mot de passe sécurisé
-
-# 5\. Sélectionner l'établissement scolaire
-
-Recherchez et sélectionnez l'établissement scolaire de votre enfant dans le champ **« Établissement »**. Commencez à taper le nom de l'établissement pour afficher les suggestions.
-
-# 6\. Valider et vérifier votre email
-
-Cliquez sur **« Créer mon compte »** pour finaliser l'inscription. Un email de vérification sera envoyé à l'adresse que vous avez renseignée. Ouvrez cet email et cliquez sur le lien de confirmation pour activer votre compte.
+> **La carte « Élève » porte la mention « Bientôt »** et n'ouvre pas de parcours : un élève ne peut pas encore créer son propre compte. C'est bien depuis votre compte famille que se font les demandes.
 
 ---
 
-# Résultat attendu
+## Étape 1 — Profil
 
-- Votre compte parent est créé et activé
-- Vous pouvez vous connecter à Bacastages avec votre email et mot de passe
-- Vous avez accès aux offres de mini-stages disponibles pour votre enfant
+L'écran s'intitule **« Créez votre compte famille »** — *« Vous pourrez ajouter vos enfants une fois connecté. »*
 
----
+## 3. Renseigner votre prénom
 
-# Conseils pratiques
+## 4. Renseigner votre nom
 
-💡 Vérifiez votre dossier de courriers indésirables (spam) si vous ne recevez pas l'email de confirmation.
+## 5. Renseigner votre téléphone
 
-💡 Utilisez une adresse email que vous consultez régulièrement, car vous recevrez des notifications sur l'état des inscriptions de votre enfant.
-
-💡 Choisissez un mot de passe d'au moins 8 caractères, combinant lettres, chiffres et caractères spéciaux.
+## 6. Continuer
 
 ---
 
-# Besoin d'aide ?
+## Étape 2 — Sécurité
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+L'écran s'intitule **« Sécurisez votre compte »**.
 
-- **Envoyer un email** à [support@bacastages.fr](mailto:support@bacastages.fr)
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+## 7. Renseigner votre adresse e-mail
+
+Elle servira d'identifiant, et recevra les conventions, les rappels et les comptes rendus.
+
+## 8. Choisir un mot de passe
+
+**8 caractères au minimum**, dont **une minuscule, une majuscule, un chiffre et un caractère spécial**, et **aucun espace**.
+
+> C'est la règle complète, et elle est appliquée à la lettre. Un mot de passe de huit lettres sera refusé sans que vous sachiez toujours pourquoi.
+
+## 9. Confirmer le mot de passe
+
+## 10. Continuer
+
+---
+
+## Étape 3 — Établissement
+
+L'écran s'intitule **« L'établissement de votre enfant »**.
+
+## 11. Chercher l'établissement de votre enfant
+
+Le champ s'appelle **« Établissement actuel de votre enfant »**.
+
+> **C'est l'erreur la plus fréquente**, et l'écran vous prévient : *« Renseignez l'établissement où votre enfant est actuellement scolarisé, et non l'établissement dans lequel il souhaite effectuer un mini-stage. »*
+>
+> Autrement dit : **son collège**, pas le lycée qu'il veut visiter.
+
+## 12. Le sélectionner dans la liste
+
+> Si vous ne le trouvez pas, essayez son **code UAI** ou le **code postal** de la commune — voyez **« Mon établissement n'apparaît pas dans la recherche »**.
+
+## 13. Créer le compte
+
+Cliquez sur **« Créer mon compte »**.
+
+## 14. Ouvrir l'e-mail de validation
+
+Il arrive de **team@notif.bacastages.fr**. S'il n'est pas dans votre boîte de réception, regardez votre courrier indésirable.
+
+## 15. Cliquer sur le lien de validation
+
+Votre compte est actif.
+
+> **Vous n'avez rien reçu ?** Sur la page de connexion, un bouton **« Renvoyer un lien »** apparaît tant que votre adresse n'est pas validée.
+
+---
+
+## Si votre enfant n'est pas scolarisé
+
+Un bouton **« Mon enfant n'est pas scolarisé »** vous attend à l'étape 3.
+
+> **Attention : ce chemin ne crée pas de compte.** L'écran le dit en gras : *« Aucun compte ne sera créé. »* Vous êtes dirigé vers un formulaire de contact, et l'équipe Bacastages vous rappelle pour étudier votre situation.
+>
+> Un bouton **« Revenir à la recherche d'établissement »** permet de faire machine arrière si vous l'aviez pris par erreur.
+
+---
+
+## Vous y êtes
+
+Connectez-vous : **« Toutes les offres »** vous donne accès aux mini-stages proposés.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

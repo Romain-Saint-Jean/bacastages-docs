@@ -1,69 +1,78 @@
 ---
-title: "Suivre les pré-inscriptions de son enfant"
-description: "Consultez l'état de vos demandes de pré-inscription et comprenez les différents statuts possibles."
+title: "Suivre les préinscriptions de son enfant"
+description: "Voir où en sont vos demandes, comprendre les trois statuts, et savoir quoi faire en cas de refus."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635210"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302946
 ---
-# Objectif
+## Objectif
 
-Suivre l'avancement des pré-inscriptions de votre enfant et comprendre les différents statuts de validation.
+Savoir où en est chaque demande que vous avez envoyée.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
-
-- ✅ Disposer d'un compte parent actif sur Bacastages
-- ✅ Avoir soumis au moins une pré-inscription
+- Un compte famille connecté
+- Au moins une demande envoyée
 
 ---
 
-# Étapes à suivre
+## 1. Ouvrir la rubrique
 
-# 1\. Accéder à la page des pré-inscriptions
+Cliquez sur **« Préinscriptions »** dans la navigation.
 
-Depuis votre espace personnel, cliquez sur **« Pré-inscriptions »** dans le menu de navigation. La page affiche la liste de toutes les pré-inscriptions que vous avez soumises.
+> **Le mot s'écrit sans trait d'union** : « Préinscriptions », et non « Pré-inscriptions ». Si vous cherchez la seconde orthographe dans l'aide ou dans le menu, vous ne la trouverez pas.
 
-# 2\. Comprendre les statuts
+## 2. Lire le statut de chaque demande
 
-Chaque pré-inscription affiche un statut qui indique son état d'avancement :  
-• **« En attente »** : la demande a été envoyée et attend la validation des établissements  
-• **« Validé »** : la pré-inscription a été acceptée par les deux établissements  
-• **« Refusé »** : la pré-inscription a été refusée par l'un des établissements (un motif peut être indiqué)
+Trois statuts, et trois seulement :
 
-# 3\. Consulter les détails d'une pré-inscription
+| Statut | Ce que cela veut dire |
+|---|---|
+| **En attente** | Au moins un des deux établissements n'a pas encore répondu |
+| **Validée** | Les **deux** établissements ont accepté |
+| **Refusée** | L'un des deux a refusé — un motif est souvent joint |
 
-Cliquez sur une pré-inscription pour voir ses détails complets : les informations de l'élève, l'offre concernée, les dates du mini-stage et l'historique des validations.
+> **« En attente » ne dit pas lequel des deux manque.** Ouvrez le détail de la demande pour voir où elle en est.
 
-# 4\. Recevoir les notifications par email
+## 3. Ouvrir le détail d'une demande
 
-Vous recevez automatiquement un email à chaque changement de statut de vos pré-inscriptions. Ces notifications vous informent de la validation ou du refus de la demande, ainsi que de toute information complémentaire transmise par les établissements.
-
----
-
-# Résultat attendu
-
-- Vous avez une vision claire de l'état de chaque pré-inscription
-- Vous comprenez les différents statuts et leur signification
-- Vous êtes informé en temps réel de l'avancement de vos demandes
+Cliquez dessus : vous y trouvez les informations de votre enfant, l'offre concernée, les dates du mini-stage et l'avancement des validations.
 
 ---
 
-# Conseils pratiques
+## Vous êtes prévenu par e-mail
 
-💡 Vérifiez régulièrement votre espace et votre boîte email pour ne manquer aucune mise à jour.
+Un e-mail part à chaque changement de statut, depuis **team@notif.bacastages.fr**.
 
-💡 En cas de refus, vous pouvez soumettre une nouvelle pré-inscription pour une autre offre de mini-stage.
-
-💡 Si le statut reste « En attente » pendant longtemps, n'hésitez pas à contacter l'établissement concerné.
+> Si vous ne recevez rien, vérifiez votre courrier indésirable — et voyez l'article **« Je ne reçois pas les emails de Bacastages »**.
 
 ---
 
-# Besoin d'aide ?
+## En cas de refus
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+**Lisez le motif** : il vient de l'établissement qui a refusé et vous dit souvent quoi faire.
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+Vous pouvez ensuite envoyer une demande sur **une autre offre**. Un refus ne vous ferme aucune porte.
+
+> **Un refus peut être annulé.** Tant que le second établissement n'a pas tranché, le premier peut revenir sur sa décision : si le motif vous paraît reposer sur un malentendu, dites-le à l'établissement concerné.
+
+---
+
+## Si rien ne bouge
+
+Une demande peut rester « En attente » plusieurs jours : deux établissements doivent la voir passer. Au-delà d'une semaine, contactez directement celui de votre enfant — c'est en général le premier à devoir se prononcer.
+
+---
+
+## Une fois la demande validée
+
+Une convention est générée. Voyez **« Déposer la convention signée de votre enfant »**.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

@@ -1,73 +1,80 @@
 ---
 title: "Découvrir et rechercher des mini-stages"
-description: "Apprenez à parcourir les offres de mini-stages disponibles et à utiliser les filtres pour trouver celles qui correspondent à votre enfant."
+description: "Parcourir les offres, filtrer par domaine, région, dates et disponibilité, et lire une fiche d'offre."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635205"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302943
 ---
-# Objectif
+## Objectif
 
-Parcourir les offres de mini-stages publiées sur Bacastages et trouver celles qui correspondent aux intérêts de votre enfant.
+Trouver les mini-stages qui correspondent à ce que cherche votre enfant.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
-
-- ✅ Disposer d'un compte parent actif sur Bacastages
-- ✅ Être connecté à votre espace personnel
+- Un compte famille connecté
 
 ---
 
-# Étapes à suivre
+## 1. Ouvrir la liste des offres
 
-# 1\. Accéder à la liste des offres
+Cliquez sur **« Toutes les offres »** dans la navigation.
 
-Depuis votre espace personnel, cliquez sur **« Offres de mini-stages »** dans le menu de navigation. La page affiche l'ensemble des offres de mini-stages actuellement disponibles.
+> **L'entrée ne s'appelle pas « Offres de mini-stages ».** C'est **« Toutes les offres »**.
 
-# 2\. Utiliser les filtres de recherche
+## 2. Filtrer par domaine
 
-Affinez votre recherche en utilisant les filtres disponibles :  
-• **« Région »** : sélectionnez la région géographique souhaitée  
-• **« Date »** : choisissez la période qui vous convient  
-• **« Secteur »** : filtrez par domaine d'activité ou filière
+Le menu **« Domaine »** regroupe les offres par famille de métiers.
 
-# 3\. Consulter le détail d'une offre
+## 3. Filtrer par région
 
-Cliquez sur une offre pour accéder à sa fiche détaillée. Vous y trouverez :  
-• Les **dates du mini-stage** (début et fin)  
-• Le **nombre de places disponibles** et la capacité totale  
-• La **description détaillée** du contenu du mini-stage  
-• Le nom de l'**enseignant référent** et de l'établissement d'accueil
+## 4. Filtrer par dates
 
-# 4\. Comparer plusieurs offres
+Le menu **« Dates »** vous laisse choisir une période — celle des vacances de votre enfant, par exemple.
 
-Parcourez plusieurs offres pour comparer les dates, les contenus et les lieux. Vous pouvez revenir à la liste à tout moment en cliquant sur **« Retour »**.
+## 5. Ajuster la disponibilité
+
+Le menu **« Disponibilité »** est réglé sur **« Places disponibles »**.
+
+> Passez-le sur **« Toutes les offres »** pour voir aussi les créneaux **complets** : ils apparaissent alors en fin de liste. C'est utile pour repérer les établissements qui proposent ce type de mini-stage, même si ce créneau-ci est plein.
 
 ---
 
-# Résultat attendu
+## Les quatre filtres, et rien d'autre
 
-- Vous avez une vue d'ensemble des mini-stages proposés
-- Vous pouvez identifier les offres correspondant aux intérêts et à la disponibilité de votre enfant
-- Vous êtes prêt à procéder à l'inscription
+**Domaine**, **Région**, **Dates**, **Disponibilité**. Il n'existe pas de filtre « Secteur », ni par type d'établissement, ni par demi-journée.
 
----
-
-# Conseils pratiques
-
-💡 Consultez régulièrement les offres, car de nouvelles opportunités sont publiées fréquemment.
-
-💡 Les places étant limitées, n'attendez pas trop avant de procéder à l'inscription si une offre vous intéresse.
-
-💡 Vérifiez bien les dates du mini-stage par rapport au calendrier scolaire de votre enfant.
+Pour tout le reste — une spécialité précise, un nom d'établissement — utilisez la **recherche par texte**.
 
 ---
 
-# Besoin d'aide ?
+## 6. Ouvrir une offre
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Sa fiche annonce, dans l'encadré de droite :
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+- le nombre de **places restantes**, ou la mention **« Complet »** ;
+- la **date** ;
+- l'**horaire** ;
+- le **lieu** — l'établissement d'accueil, et la salle quand elle est précisée.
+
+Le reste de la page présente le programme du mini-stage, la filière concernée et l'établissement qui accueille.
+
+## 7. Revenir à la liste
+
+Le bouton **« Retour aux offres »** vous y ramène **en conservant vos filtres**.
+
+---
+
+## Vous y êtes
+
+Vous avez repéré une ou plusieurs offres. La suite est dans l'article **« Inscrire son enfant à un mini-stage »**.
+
+> **Les places partent vite.** Une offre repérée aujourd'hui peut être complète la semaine prochaine : si elle convient, ne tardez pas.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
