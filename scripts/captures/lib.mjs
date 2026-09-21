@@ -39,7 +39,17 @@ const HIDDEN_CSS = `
   }
 `;
 
-export async function withSession(account, article, scenario) {
+export async function withSession(account, article, scenario, options = {}) {
+  return browse(article, scenario, { ...options, account });
+}
+
+// Les écrans qu'on atteint sans compte : création de compte, mot de passe oublié.
+// L'article les décrit du point de vue de quelqu'un qui n'en a pas encore.
+export async function withPublicPage(article, scenario) {
+  return browse(article, scenario, { account: null });
+}
+
+async function browse(article, scenario, { account, onboarding = 'collapsed' }) {
   // Les contrôles natifs du navigateur (« Choisir un fichier ») ne suivent pas `locale`.
   // Sous Linux, Chromium lit sa langue dans `LANGUAGE`, et seul le Chromium complet
   // l'applique : le shell headless par défaut reste en anglais malgré les mêmes réglages.
@@ -67,8 +77,11 @@ export async function withSession(account, article, scenario) {
     }, HIDDEN_CSS);
 
     const page = await context.newPage();
-    await login(page, account);
-    console.log(`${article} (${account})`);
+    if (account) {
+      await login(page, account);
+      if (onboarding === 'collapsed') await collapseOnboarding(page);
+    }
+    console.log(`${article}${account ? ` (${account})` : ' (sans compte)'}`);
     await scenario({ page, shoot: capturer(page, article) });
   } finally {
     await browser.close();
@@ -81,6 +94,19 @@ async function login(page, account) {
   await page.fill('#login-password', DEMO_PASSWORD);
   await page.getByRole('button', { name: 'Se connecter' }).last().click();
   await page.waitForURL((url) => !url.pathname.startsWith('/login'), { timeout: 30_000 });
+}
+
+// Le panneau de mise en place flotte en bas à gauche, par-dessus le contenu, tant que
+// l'établissement a une étape en attente. Il masquerait la moitié des écrans à illustrer.
+// On le replie — ce que fait aussi le lecteur — sauf pour les articles qui le décrivent,
+// qui passent `{ onboarding: 'open' }`.
+//
+// Le repli est mémorisé par `localStorage` sous l'identifiant du compte connecté : le
+// poser directement éviterait ce clic, mais l'identifiant n'est connu qu'après la
+// connexion, et le panneau est déjà dessiné. Le clic est plus simple et plus sûr.
+async function collapseOnboarding(page) {
+  const close = page.getByRole('button', { name: 'Fermer la liste de mise en place' });
+  await close.click({ timeout: 5_000 }).catch(() => {});
 }
 
 export async function settle(page) {

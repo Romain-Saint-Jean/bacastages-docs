@@ -70,7 +70,16 @@ start() {
   (
     cd "$FRONT"
     # Pas d'Intercom sur les captures : le widget masquerait l'écran.
+    #
+    # `NEXT_PUBLIC_VERCEL_ENV=production` : le Help Center documente la production.
+    # Sans cette variable, `SHOW_TODO_MARKERS` (`src/utils/todoMarkers.ts`) est vrai —
+    # la refonte affiche alors ses marqueurs de chantier, bordure rouge tiretée et
+    # pastille TODO, sur la recherche d'offres, la fiche d'une offre et la carte. Ce
+    # sont des mots de développeur qui n'ont rien à faire dans un article d'aide.
+    # Quatre marqueurs ne sont pas sous ce drapeau et resteront visibles : c'est
+    # voulu côté produit, et une capture doit donc les montrer.
     PORT=$FRONT_PORT \
+    NEXT_PUBLIC_VERCEL_ENV=production \
     NEXT_PUBLIC_API_URL="http://localhost:$BACK_PORT/api" \
     DEV_API_ORIGIN="http://localhost:$BACK_PORT" \
     NEXT_PUBLIC_SITE_URL="http://localhost:$FRONT_PORT" \

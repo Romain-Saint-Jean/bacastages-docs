@@ -5,9 +5,18 @@ base dédiée `bacastages_docs`. Aucun établissement, élève ou adulte n'exist
 toutes les adresses sont en `@demo.bacastages.fr`, un domaine qui ne reçoit rien.
 
 ```bash
+scripts/captures/prepare-db.sh          # une fois par base : schéma, fonctions, index
 scripts/captures/seed-demo.sh           # nettoie puis recrée l'univers (idempotent)
 scripts/captures/seed-demo.sh --clean   # nettoie seulement
 ```
+
+- **Schéma** : `prepare-db.sh` applique `postgres/init/*.sql` du back **puis** les
+  migrations Prisma. Les migrations seules ne suffisent pas : les fonctions SQL, les
+  déclencheurs et les index du produit vivent dans les scripts d'init, que Postgres
+  n'exécute qu'à la création de sa toute première base. `bacastages_docs`, créée ensuite
+  dans le même serveur, ne les a jamais vus. Sans `search_schools`, par exemple, la
+  dernière étape de la création de compte ne renvoie aucun établissement — sans erreur à
+  l'écran, la liste reste seulement vide.
 
 - **Base** : `seed-demo.sh` dérive l'URL de celle du back (`bacastages` → `bacastages_docs`)
   sans l'afficher, et les deux scripts refusent toute autre base.
