@@ -84,7 +84,7 @@ Ouvrez votre boîte de réception et cliquez sur le **lien de vérification** co
 
 ## Conseils pratiques
 
-💡 Si vous ne trouvez pas l'email de vérification, pensez à vérifier votre dossier **« Courrier indésirable »** (spam). Les emails sont envoyés depuis l'adresse noreply@bacastages.fr.
+💡 Si vous ne trouvez pas l'email de vérification, pensez à vérifier votre dossier **« Courrier indésirable »** (spam). Les emails de Bacastages partent de l'adresse **team@notif.bacastages.fr** : autorisez-la si vos messages sont filtrés.
 
 💡 Notez bien votre adresse email et votre mot de passe : ce sont vos identifiants de connexion.
 
