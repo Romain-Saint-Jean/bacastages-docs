@@ -1,83 +1,128 @@
 ---
-title: "J'ai sélectionné le mauvais rôle ou établissement"
-description: "Que faire si vous avez choisi le mauvais rôle (lycée, collège, famille) ou le mauvais établissement lors de votre inscription."
+title: "J'ai sélectionné le mauvais rôle ou le mauvais établissement"
+description: "Corriger un établissement choisi par erreur à l'inscription, et demander le changement d'un rôle qui ne correspond pas à votre fonction."
 state: draft
 collections: [resolution-de-problemes]
 intercom_us_id: "13635302"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302993
 ---
-# Objectif
+## Objectif
 
-Corriger un mauvais choix de rôle ou d'établissement effectué lors de la création de votre compte Bacastages.
+Corriger un mauvais choix fait au moment de créer votre compte Bacastages.
 
----
+Cet article s'adresse à **tous les utilisateurs** qui viennent de créer un compte, quel que soit leur profil.
 
-# Prérequis
+## Ce qu'il vous faut
 
-- ✅ Être connecté à votre compte Bacastages (ou avoir un compte créé)
-
----
-
-# Étapes à suivre
-
-# 1\. Identifier le problème
-
-Commencez par déterminer la nature de l'erreur :
-
-- **Mauvais rôle** : vous avez sélectionné « Famille » au lieu de « Collège/CIO », ou inversement
-- **Mauvais établissement** : vous vous êtes rattaché au mauvais établissement scolaire
-- **Les deux** : le rôle et l'établissement sont incorrects
-
-# 2\. Corriger un mauvais établissement
-
-Si vous vous êtes rattaché au mauvais établissement, vous pouvez corriger cela directement depuis la plateforme :
-
-- Accédez à votre **« Profil »**
-- Rendez-vous dans la section **« Établissements »**
-- Demandez l'accès au **bon établissement** en cliquant sur **« Demander l'accès à un établissement »**
-- Une fois le nouvel accès validé, vous pourrez basculer vers le bon établissement via le sélecteur dans la barre latérale
-
-# 3\. Corriger un mauvais rôle
-
-Le changement de rôle ne peut pas être effectué directement par l'utilisateur. Vous devez contacter le support Bacastages :
-
-- Envoyez un email à **support@bacastages.fr** en précisant votre adresse email de compte, votre rôle actuel et le rôle souhaité
-- Vous pouvez également utiliser le **chat en ligne** (bulle bleue en bas à droite)
-
-**Important** : le changement de rôle nécessite une validation par un administrateur de la plateforme. Vous serez notifié par email une fois le changement effectué.
-
-# 4\. Vérifier le résultat
-
-Après la correction :
-
-- Déconnectez-vous puis reconnectez-vous pour que les changements prennent effet
-- Vérifiez que votre rôle et votre établissement sont corrects dans votre **« Profil »**
-- Vérifiez que vous accédez bien aux fonctionnalités correspondant à votre rôle
+- Un compte Bacastages créé, dont l'adresse email est validée
+- Le nom ou le code UAI du bon établissement
 
 ---
 
-# Résultat attendu
+## D'abord : de quoi s'agit-il ?
 
-- Votre établissement est corrigé et vous accédez aux bonnes données
-- Votre rôle est mis à jour après validation par un administrateur
-- Vous disposez des fonctionnalités correspondant à votre profil
+Les deux erreurs ne se corrigent pas de la même façon.
 
----
-
-# Conseils pratiques
-
-💡 En cas de doute sur le rôle à choisir : **« DDF »** correspond aux lycées qui proposent des mini-stages, **« Collège / CIO »** correspond aux établissements qui inscrivent des élèves, et **« Famille »** est destiné aux parents.
-
-💡 Le traitement d'une demande de changement de rôle prend généralement entre 24 et 48 heures ouvrées.
-
-💡 Si vous avez créé un compte avec le mauvais rôle et que vous n'avez encore rien utilisé, il peut être plus simple de créer un nouveau compte avec la bonne configuration.
+| Ce qui est faux | Qui corrige | Combien de temps |
+|---|---|---|
+| **L'établissement** — vous êtes rattaché au mauvais | **Vous**, depuis votre profil | Immédiat, ou après validation d'un administrateur |
+| **Le rôle** — vous n'avez pas la bonne fonction | Le **support Bacastages** | 24 à 48 heures ouvrées |
 
 ---
 
-# Besoin d'aide ?
+## Les profils proposés à l'inscription
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Pour savoir si votre rôle est le bon, voici ce que propose réellement l'écran **« Étape 1 sur 3 · Votre profil »** :
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+- **Une famille** — préinscrire son enfant et suivre son parcours
+- **Compte Inscription** — *Collège, Lycée, CIO, 3 PM, etc.* : inscrire un élève ou valider une préinscription
+- **Lycée** — gérer les offres et suivre les mini-stages de son lycée
+- **Autre structure** — gérer une structure éducative et ses mini-stages
+- **Élève** — marqué **« Bientôt »** : ce profil ne se crée pas encore
+
+> **Le choix « Lycée » ouvre un second écran**, intitulé **« Votre rôle au lycée »**, avec trois fonctions : **Professeur encadrant**, **Vie scolaire – Accueil**, et **DDF, ATDDF, BDE, Personnel de direction**.
+
+> **L'erreur la plus fréquente** : un collège ou un CIO qui choisit « Lycée ». Un établissement qui **inscrit** des élèves dans les mini-stages d'un autre prend **« Compte Inscription »**. « Lycée » est réservé à l'établissement qui **accueille** et publie des offres.
+
+---
+
+## Corriger un mauvais établissement
+
+## 1. Ouvrir votre compte
+
+Cliquez sur **« Mon compte »** dans la navigation — en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
+
+## 2. Ouvrir l'onglet « Établissements »
+
+C'est le quatrième onglet, après « Informations », « Sécurité » et « Notifications ».
+
+## 3. Cliquer sur « Ajouter »
+
+Le bouton se trouve en haut à droite de la carte **« Établissements »**. Une fenêtre **« Ajouter un établissement »** s'ouvre.
+
+## 4. Rechercher le bon établissement
+
+Sous **« Rechercher l'établissement »**, saisissez son nom ou son **code UAI**, puis sélectionnez-le dans la liste.
+
+> Si votre établissement ne ressort pas, voyez l'article **« Mon établissement n'apparaît pas dans la recherche »**.
+
+## 5. Valider
+
+Deux cas, et l'écran vous dit lequel est le vôtre :
+
+- **L'établissement n'a pas encore d'administrateur** : le bouton affiche **« Ajouter »**, et le rattachement est immédiat.
+- **L'établissement a déjà un administrateur** : un encadré bleu annonce *« Cette école a déjà un administrateur. Votre demande sera envoyée pour validation. »* Le bouton devient **« Envoyer la demande »**.
+
+## 6. Suivre votre demande, si elle doit être validée
+
+Un encadré **« Demande d'ajout en attente »** s'affiche en haut de l'onglet, avec l'école demandée et la date. Un bouton **« Annuler la demande »** vous permet de revenir en arrière.
+
+## 7. Basculer sur le bon établissement
+
+Une fois le rattachement effectif, ouvrez la **pastille de votre établissement, en haut de l'écran**, et choisissez le bon dans la liste **« Vos établissements »**.
+
+> La bascule recharge votre session : c'est normal, laissez-la se terminer.
+
+## 8. Vous détacher de l'établissement de trop
+
+De retour dans l'onglet **« Établissements »**, la ligne de votre établissement courant porte le bouton **« Actif »**. Sur les **autres** lignes, l'icône de corbeille vous dissocie de l'établissement.
+
+> On ne peut pas se dissocier de l'établissement sur lequel on travaille : basculez d'abord sur le bon, puis retirez l'autre.
+
+---
+
+## Corriger un mauvais rôle
+
+**Le changement de rôle ne se fait pas depuis votre compte.** Il passe par le support.
+
+## 1. Écrire au support
+
+Envoyez un email à [support@bacastages.fr](mailto:support@bacastages.fr), ou passez par le chat (la bulle en bas à droite).
+
+## 2. Préciser trois informations
+
+L'adresse email de votre compte, le rôle que vous avez aujourd'hui, et celui que vous devriez avoir.
+
+## 3. Attendre la confirmation
+
+Vous êtes prévenu par email une fois le changement fait. Comptez 24 à 48 heures ouvrées.
+
+## 4. Vous reconnecter
+
+Déconnectez-vous puis reconnectez-vous : votre nouveau rôle ne s'applique qu'à la session suivante.
+
+---
+
+## Vous y êtes
+
+Votre profil affiche le bon établissement, et les rubriques de la barre de gauche correspondent à votre fonction.
+
+> **Si vous n'avez encore rien saisi dans Bacastages**, créer un nouveau compte avec le bon profil est souvent plus rapide que d'attendre une correction de rôle.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

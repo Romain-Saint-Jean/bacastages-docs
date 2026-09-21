@@ -1,6 +1,6 @@
 ---
 title: "Comment vider le cache de votre navigateur pour résoudre les problèmes de connexion sur Bacastages"
-description: "Résoudre les problèmes de connexion liés à une ancienne version de Bacastages stockée dans votre navigateur, afin de pouvoir accéder normalement à la plateforme."
+description: "Vider le cache de Firefox, Chrome ou Safari quand une ancienne version de Bacastages gardée en mémoire empêche la connexion."
 state: published
 collections: [resolution-de-problemes]
 intercom_us_id: "13352288"
@@ -9,19 +9,26 @@ intercom_us_updated_at: 1768835140
 ---
 ## Objectif
 
-Résoudre les problèmes de connexion liés à une ancienne version de Bacastages stockée dans votre navigateur, afin de pouvoir accéder normalement à la plateforme.
+Vous reconnecter à Bacastages quand une ancienne version du site, gardée en mémoire par votre navigateur, s'interpose.
+
+Cet article s'adresse à **tous les utilisateurs** de Bacastages.
+
+## Ce qu'il vous faut
+
+- Le navigateur avec lequel vous n'arrivez pas à vous connecter
+- Quelques minutes : chaque procédure ci-dessous en prend deux
 
 ---
 
-## Comment savoir si vous rencontrez ce problème ?
+## Êtes-vous concerné ?
 
-Vous êtes concerné si **au moins un** des cas suivants s'applique à vous :
+Videz le cache si **l'un** de ces signes correspond à ce que vous vivez :
 
-- ✅ Vous avez utilisé Bacastages l'année dernière sans problème, mais vous n'arrivez pas à vous connecter cette année
-- ✅ L'encadré jaune "Réinitialiser le mot de passe" n'apparaît **pas** au-dessus du formulaire de connexion
-- ✅ Votre connexion réussit (identifiants acceptés), mais vous êtes immédiatement renvoyé au formulaire de connexion
+- vous utilisiez Bacastages l'an dernier sans difficulté, et cette année la connexion échoue ;
+- vos identifiants sont acceptés, mais vous êtes aussitôt renvoyé vers le formulaire de connexion ;
+- la page de connexion s'affiche de travers, ou un bouton ne réagit pas.
 
-Si vous reconnaissez l'un de ces signes, suivez les instructions ci-dessous adaptées à votre navigateur.
+> **Avant de vider quoi que ce soit**, essayez de vous connecter en **navigation privée**. Si cela fonctionne, le cache est bien en cause et la suite de cet article vous concerne. Sinon, voyez plutôt l'article **« Mot de passe oublié ou connexion impossible »**.
 
 ---
 
@@ -32,9 +39,7 @@ Nous vous recommandons d'utiliser **Firefox, Chrome ou Safari** pour une expéri
 
 ---
 
-## Solution 1 : Vider le cache sur **Mozilla Firefox**
-
-## Étapes à suivre
+## Solution 1 : vider le cache sur **Mozilla Firefox**
 
 1. Cliquez sur le **menu** (trois barres horizontales) en haut à droite de la fenêtre
    <!-- Capture de l'espace US à refaire : resolution-de-problemes/comment-vider-le-cache-de-votre-navigateur-pour-resoudre-les-problemes-de-connex/1925324482.png -->
@@ -51,17 +56,9 @@ Nous vous recommandons d'utiliser **Firefox, Chrome ou Safari** pour une expéri
 8. Fermez complètement Firefox, puis relancez-le
 9. Retournez sur [bacastages.fr](https://bacastages.fr) et reconnectez-vous
 
-## Résultat attendu
-
-L'encadré jaune "Réinitialiser le mot de passe" apparaît au-dessus du formulaire de connexion. Vous pouvez maintenant vous connecter normalement.
-
-<!-- Capture de l'espace US à refaire : resolution-de-problemes/comment-vider-le-cache-de-votre-navigateur-pour-resoudre-les-problemes-de-connex/1925353618.png -->
-
 ---
 
-## Solution 2 : Vider le cache sur **Google Chrome**
-
-## Étapes à suivre
+## Solution 2 : vider le cache sur **Google Chrome**
 
 1. Cliquez sur les **trois points verticaux** en haut à droite de la fenêtre
 2. Sélectionnez **Paramètres**
@@ -69,7 +66,7 @@ L'encadré jaune "Réinitialiser le mot de passe" apparaît au-dessus du formula
 3. Dans le menu de gauche, cliquez sur **Confidentialité et sécurité**
 4. Cliquez sur **Effacer les données de navigation**
    <!-- Capture de l'espace US à refaire : resolution-de-problemes/comment-vider-le-cache-de-votre-navigateur-pour-resoudre-les-problemes-de-connex/1925369659.png -->
-5. Sur la première ligne, sélectionnez **Toute la période** dans le menu déroulant en appuyant sur Plus
+5. Sur la première ligne, ouvrez **Plus** et sélectionnez **Toute la période**
    <!-- Capture de l'espace US à refaire : resolution-de-problemes/comment-vider-le-cache-de-votre-navigateur-pour-resoudre-les-problemes-de-connex/1925376363.png -->
 6. Cochez **uniquement** la case **Images et fichiers en cache**
 7. Cliquez sur **Effacer les données**
@@ -77,17 +74,9 @@ L'encadré jaune "Réinitialiser le mot de passe" apparaît au-dessus du formula
 8. Fermez complètement Chrome, puis relancez-le
 9. Retournez sur [bacastages.fr](https://bacastages.fr) et reconnectez-vous
 
-## Résultat attendu
-
-L'encadré jaune "Réinitialiser le mot de passe" apparaît au-dessus du formulaire de connexion. Vous pouvez maintenant vous connecter normalement.
-
-<!-- Capture de l'espace US à refaire : resolution-de-problemes/comment-vider-le-cache-de-votre-navigateur-pour-resoudre-les-problemes-de-connex/1925354380.png -->
-
 ---
 
-## Solution 3 : Vider le cache sur **Safari**
-
-## Étapes à suivre
+## Solution 3 : vider le cache sur **Safari**
 
 1. Cliquez sur **Safari** dans la barre de menu en haut de l'écran
 2. Sélectionnez **Préférences** (ou **Réglages** selon votre version)
@@ -102,25 +91,23 @@ L'encadré jaune "Réinitialiser le mot de passe" apparaît au-dessus du formula
 8. Fermez complètement Safari, puis relancez-le
 9. Retournez sur [bacastages.fr](https://bacastages.fr) et reconnectez-vous
 
-## Résultat attendu
+---
 
-L'encadré jaune "Réinitialiser le mot de passe" apparaît au-dessus du formulaire de connexion. Vous pouvez maintenant vous connecter normalement.
+## Vous y êtes
 
-<!-- Capture de l'espace US à refaire : resolution-de-problemes/comment-vider-le-cache-de-votre-navigateur-pour-resoudre-les-problemes-de-connex/1925353929.png -->
+La page de connexion s'affiche correctement et vos identifiants sont acceptés : vous arrivez sur votre tableau de bord.
 
 ---
 
 ## 💡 Conseils pratiques
 
-- **Fermez bien votre navigateur** après avoir vidé le cache, puis relancez-le complètement avant de retourner sur Bacastages
-- **N'effacez que le cache**, pas les cookies ni l'historique, pour éviter de perdre vos mots de passe enregistrés
-- Si le problème persiste après avoir vidé le cache, essayez de vous connecter depuis un **autre navigateur** ou en **navigation privée**
+- **Fermez complètement votre navigateur** après avoir vidé le cache, puis relancez-le avant de retourner sur Bacastages : c'est l'étape que l'on saute le plus souvent, et sans elle la manipulation ne sert à rien.
+- **N'effacez que le cache**, pas les cookies ni l'historique : vous conserverez vos mots de passe enregistrés.
+- Si le problème persiste, essayez depuis un **autre navigateur** ou en **navigation privée**.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez encore des difficultés après avoir suivi ce guide :
-
-- **Contactez le support** par email : [support@bacastages.fr](mailto:support@bacastages.fr)
-- **Utilisez le chat en direct** via la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

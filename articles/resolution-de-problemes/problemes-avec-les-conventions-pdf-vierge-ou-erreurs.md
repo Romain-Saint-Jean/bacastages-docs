@@ -1,81 +1,109 @@
 ---
-title: "Problèmes avec les conventions (PDF vierge ou erreurs)"
-description: "Solutions aux problèmes courants liés aux conventions : PDF vierge, erreurs d'affichage, échec de téléchargement."
+title: "Familles, élèves et collèges : la convention est vierge, ne s'imprime pas ou refuse d'être déposée"
+description: "Résoudre les problèmes d'affichage, d'impression et de dépôt d'une convention de mini-stage : PDF vide, mise en page décalée, fichier refusé."
 state: draft
 collections: [resolution-de-problemes]
 intercom_us_id: "13635299"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302992
 ---
-# Objectif
+## Objectif
 
-Résoudre les problèmes techniques liés à la génération, l'affichage et l'impression des conventions de mini-stage.
+Récupérer, imprimer et déposer la convention de mini-stage quand le fichier ne se comporte pas comme prévu.
 
----
+Cet article s'adresse aux **familles**, aux **élèves majeurs** et aux **établissements d'origine** — c'est-à-dire à tous ceux qui téléchargent la convention vierge, la font signer, puis la déposent.
 
-# Prérequis
+> **Vous êtes un lycée et les champs de votre modèle restent vides ?** C'est un autre sujet : voyez l'article **« Lycées : les champs de votre modèle de convention restent vides »**.
 
-- ✅ Avoir un mini-stage avec une convention associée
-- ✅ Utiliser un navigateur récent (Chrome, Firefox, Safari ou Edge)
+## Ce qu'il vous faut
 
----
-
-# Étapes à suivre
-
-# 1\. Le PDF de la convention apparaît vierge ou ne s'affiche pas
-
-Si le PDF généré est vide ou ne s'affiche pas correctement, essayez les solutions suivantes :
-
-- **Essayez un autre navigateur** : certains navigateurs gèrent les PDF différemment. Nous recommandons **Google Chrome** ou **Mozilla Firefox** pour un affichage optimal.
-- **Désactivez les bloqueurs de publicité** : les extensions de type AdBlock peuvent interférer avec la génération du PDF. Désactivez temporairement ces extensions ou ajoutez bacastages.fr à la liste blanche.
-- **Téléchargez le fichier** : plutôt que de visualiser le PDF dans le navigateur, téléchargez-le sur votre ordinateur et ouvrez-le avec un lecteur PDF dédié (Adobe Acrobat Reader, Aperçu sur Mac).
-
-# 2\. Les champs de la convention ne sont pas remplis correctement
-
-Si certains champs de la convention sont vides ou contiennent des informations incorrectes :
-
-- Vérifiez que toutes les **informations de l'élève** sont bien renseignées (nom, prénom, classe, etc.)
-- Vérifiez que les **informations de l'établissement d'accueil** sont complètes (adresse, responsable, etc.)
-- Si vous êtes un lycée, vérifiez la **configuration de votre modèle de convention** dans les paramètres. Certains champs doivent être positionnés correctement sur le modèle.
-
-# 3\. L'envoi ou le téléchargement du fichier échoue
-
-Si vous rencontrez une erreur lors du téléchargement ou de l'envoi d'une convention :
-
-- Vérifiez le **format du fichier** : seuls les formats **PDF**, **JPG** et **PNG** sont acceptés
-- Vérifiez la **taille du fichier** : la taille maximale autorisée est indiquée lors de l'envoi. Réduisez la taille du fichier si nécessaire.
-- Vérifiez votre **connexion internet** : une connexion instable peut interrompre le téléchargement
-
-# 4\. Problèmes d'impression
-
-Si la convention ne s'imprime pas correctement (mise en page décalée, texte coupé, etc.) :
-
-- Utilisez la fonction d'impression directement depuis **Chrome** ou **Firefox** (Ctrl+P ou Cmd+P) plutôt que depuis un logiciel tiers
-- Dans les paramètres d'impression, sélectionnez **« Ajuster à la page »** ou vérifiez que l'échelle est à **100%**
-- Évitez d'imprimer depuis **Adobe Acrobat** si le résultat est décalé : préférez l'impression native du navigateur
-- Vérifiez que le format de papier est bien réglé sur **A4**
+- Un dossier de mini-stage dont la convention a été envoyée
+- Un navigateur récent (Chrome, Firefox, Safari ou Edge)
 
 ---
 
-# Résultat attendu
+## Où se trouve la convention
 
-- La convention s'affiche correctement au format PDF
-- Les champs sont correctement remplis avec les informations du mini-stage
-- Vous pouvez télécharger et imprimer la convention sans problème
+Deux chemins mènent au même endroit :
 
----
+- **Le lien reçu par email.** Les emails de convention ouvrent directement la page du dossier. C'est le chemin le plus court.
+- **Depuis Bacastages.** Entrée **« Suivi »** dans la barre de gauche, puis la ligne de l'élève concerné.
 
-# Conseils pratiques
-
-💡 Pour de meilleurs résultats, utilisez toujours la dernière version de **Google Chrome** ou **Mozilla Firefox**.
-
-💡 Si le problème persiste après avoir essayé toutes ces solutions, faites une capture d'écran du problème et envoyez-la au support à **support@bacastages.fr** pour un diagnostic plus rapide.
+Sur cette page, le bloc **« Gestion de la convention »** porte les actions : **« Télécharger la convention vierge »**, puis **« Déposer la convention signée »**.
 
 ---
 
-# Besoin d'aide ?
+## Le PDF s'ouvre vierge ou ne s'affiche pas
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+## 1. Télécharger le fichier au lieu de le lire dans le navigateur
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+Enregistrez le PDF sur votre ordinateur, puis ouvrez-le avec un lecteur dédié — Adobe Acrobat Reader, ou Aperçu sur Mac.
+
+> C'est la solution qui marche le plus souvent : l'aperçu intégré de certains navigateurs affiche un document vide alors que le fichier, lui, est complet.
+
+## 2. Désactiver les bloqueurs de publicité
+
+Les extensions de type AdBlock peuvent interrompre la génération du fichier. Désactivez-les le temps du téléchargement, ou ajoutez `bacastages.fr` à leur liste blanche.
+
+## 3. Essayer un autre navigateur
+
+Reprenez le téléchargement depuis **Google Chrome** ou **Mozilla Firefox**.
+
+---
+
+## L'impression est décalée ou le texte est coupé
+
+## 1. Imprimer depuis le navigateur
+
+Ouvrez le PDF dans Chrome ou Firefox et utilisez **Ctrl+P** (**Cmd+P** sur Mac), plutôt que le menu d'impression d'un logiciel tiers.
+
+## 2. Régler l'échelle
+
+Dans les options d'impression, choisissez **« Ajuster à la page »**, ou vérifiez que l'échelle est bien à **100 %**.
+
+## 3. Vérifier le format du papier
+
+Le document est prévu pour du **A4**.
+
+---
+
+## Le dépôt de la convention signée échoue
+
+## 1. Vérifier le format du fichier
+
+Seuls le **PDF** et les images **PNG**, **JPG** et **JPEG** sont acceptés. La fenêtre de dépôt le rappelle.
+
+## 2. Vérifier le poids du fichier
+
+La limite est de **10 Mo**.
+
+> **Cette limite n'est pas annoncée avant l'envoi.** Vous ne la découvrez qu'en message d'erreur — *« Le fichier ne doit pas dépasser 10 Mo »* — une fois le fichier choisi. Si vous avez photographié une convention papier, réduisez la définition des images avant de réessayer : une photo de smartphone dépasse facilement cette taille.
+
+## 3. Renseigner votre nom complet
+
+Le champ **« Votre nom complet (Personne déposant la convention) »** est **obligatoire**. Sans lui, le bouton **« Déposer »** ne fait rien.
+
+## 4. Vérifier votre connexion
+
+Une connexion instable interrompt l'envoi en cours de route. Réessayez depuis une connexion stable.
+
+---
+
+## Vous avez déposé une mauvaise version
+
+Rouvrez la page du dossier : le bouton devient **« Déposer une nouvelle version »**. Choisissez le bon fichier et déposez-le à nouveau — c'est la nouvelle version qui sera examinée.
+
+---
+
+## Vous y êtes
+
+La convention s'ouvre, s'imprime et se dépose. Le lycée d'accueil prend le relais pour la vérifier.
+
+---
+
+## Besoin d'aide ?
+
+Si le problème persiste, une **capture d'écran** du message d'erreur accélère beaucoup le diagnostic.
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
