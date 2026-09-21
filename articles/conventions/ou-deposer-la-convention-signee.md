@@ -1,5 +1,5 @@
 ---
-title: "Où déposer la convention signée ?"
+title: "Familles, élèves majeurs et établissements d'origine : où déposer la convention signée ?"
 description: "Télécharger la convention, la faire signer, puis la déposer dans le dossier de l'élève pour que le lycée la valide."
 state: published
 collections: [conventions]
@@ -10,15 +10,22 @@ intercom_us_updated_at: 1768818112
 La convention signée se dépose sur Bacastages, dans le dossier de l'élève. Le lycée
 d'accueil la vérifie ensuite et la valide.
 
-**Qui dépose la convention ?** La famille, ou l'établissement d'origine de l'élève
-(collège, lycée, CIO) avec son Compte Inscriptions. Le lycée d'accueil peut aussi la
-déposer lui-même.
+**Qui dépose la convention ?** La famille — le responsable légal, **ou l'élève lui-même
+s'il est majeur**, avec les mêmes droits et par les mêmes écrans. L'établissement
+d'origine de l'élève (collège, lycée, CIO) le peut aussi, avec son Compte Inscription.
+Le lycée d'accueil peut également la déposer lui-même.
 
 ## Vous avez reçu un e-mail de rappel
 
-Cliquez sur le bouton **Déposer la convention signée** de l'e-mail. Après connexion,
-vous arrivez sur la fiche de l'élève : descendez jusqu'à **Gestion de la convention**,
-puis passez directement à l'étape 3.
+Cliquez sur le bouton de l'e-mail. Après connexion, vous arrivez **directement sur la
+page du dossier de l'élève** : descendez jusqu'à **Gestion de la convention**, puis
+passez à l'étape 3.
+
+> **Deux chemins mènent au même endroit.** Le lien d'un e-mail ouvre la **page pleine**
+> du dossier. Depuis Bacastages, vous ouvrez le même dossier dans un **tiroir**, par
+> l'entrée **Suivi** — c'est le chemin décrit ci-dessous. Le bloc **Gestion de la
+> convention** et ses boutons sont identiques des deux côtés, et le tiroir porte en
+> haut un lien **Ouvrir en pleine page**.
 
 ## Étape 1 : télécharger la convention
 
@@ -60,14 +67,24 @@ Le lycée d'accueil intervient en dernier, lorsqu'il valide la convention.
 
 ## Après le dépôt
 
-La convention passe **En attente de validation**. Le lycée d'accueil la vérifie :
+**Selon le réglage du lycée d'accueil, deux suites sont possibles.**
+
+Certains lycées activent la **validation automatique des conventions déposées** : la
+convention est alors validée dès son arrivée, sans relecture, et il n'y a plus rien à
+attendre. Vous le voyez au statut, qui passe directement à **Validée**.
+
+Sinon — c'est le cas le plus courant — la convention passe **En attente de validation**.
+Le lycée d'accueil la vérifie :
 
 - s'il la valide, elle passe **Validée** : il n'y a plus rien à faire ;
 - s'il la refuse, elle passe **Refusée**, et le motif apparaît dans l'historique.
   Corrigez ce qui manque, puis cliquez sur **Déposer une nouvelle version**.
 
-Tant que le lycée ne l'a pas validée, la famille et l'établissement d'origine peuvent
-remplacer le fichier avec **Déposer une nouvelle version**.
+Tant que le lycée ne l'a pas validée, la famille, l'élève majeur et l'établissement
+d'origine peuvent remplacer le fichier avec **Déposer une nouvelle version**.
+
+Quand la convention est validée, elle vous est **envoyée par e-mail en pièce jointe** —
+aux familles comme à l'établissement d'origine. Vous n'avez pas à revenir la chercher.
 
 ## Je ne vois pas le bouton « Déposer la convention signée »
 
