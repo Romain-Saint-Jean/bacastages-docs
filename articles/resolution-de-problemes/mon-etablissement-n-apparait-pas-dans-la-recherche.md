@@ -1,76 +1,85 @@
 ---
 title: "Mon établissement n'apparaît pas dans la recherche"
-description: "Que faire si votre établissement scolaire n'apparaît pas dans les résultats de recherche sur Bacastages."
+description: "Retrouver son établissement dans la recherche Bacastages grâce au code UAI ou au code postal, et le faire ajouter s'il n'existe pas encore."
 state: draft
 collections: [resolution-de-problemes]
 intercom_us_id: "13635296"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302990
 ---
-# Objectif
+## Objectif
 
-Comprendre pourquoi votre établissement n'apparaît pas dans la recherche et savoir comment le faire ajouter à la plateforme.
+Retrouver votre établissement dans le champ de recherche, ou le faire ajouter s'il n'y figure pas encore.
 
----
+Cet article s'adresse à **tous ceux qui doivent désigner un établissement** : à l'inscription, en ajoutant un établissement à leur compte, ou en renseignant l'établissement de leur enfant.
 
-# Prérequis
+## Ce qu'il vous faut
 
-- ✅ Connaître le nom exact et/ou le code UAI de votre établissement
-
----
-
-# Étapes à suivre
-
-# 1\. Comprendre pourquoi l'établissement n'apparaît pas
-
-Plusieurs raisons peuvent expliquer l'absence d'un établissement dans les résultats de recherche :
-
-- L'établissement **n'est pas encore enregistré** sur la plateforme Bacastages
-- Le nom saisi **ne correspond pas exactement** au nom enregistré (abréviation, accent, tiret...)
-- L'établissement est enregistré sous un **nom différent** de celui que vous connaissez
-
-# 2\. Rechercher par code UAI
-
-Le code UAI (Unité Administrative Immatriculée) est un identifiant unique attribué à chaque établissement scolaire par le Ministère de l'Éducation nationale. Essayez de rechercher votre établissement en saisissant son **code UAI** (exemple : 0750001A) dans le champ de recherche. Cette méthode est plus fiable que la recherche par nom.
-
-# 3\. Vérifier l'orthographe
-
-Si vous recherchez par nom, vérifiez l'orthographe exacte du nom de l'établissement. Essayez différentes variantes :
-
-- Avec ou sans accents
-- Nom complet vs abrégé (ex : « Lycée Professionnel » vs « LP »)
-- Avec ou sans la commune
-
-# 4\. Demander l'ajout de l'établissement
-
-Si votre établissement n'est toujours pas trouvé, contactez le support Bacastages pour demander son ajout. Envoyez un email à **support@bacastages.fr** ou utilisez le **chat en ligne** en précisant :
-
-- Le **nom complet** de l'établissement
-- Le **code UAI** (si vous le connaissez)
-- La **ville** et le **département**
-
-L'équipe Bacastages ajoutera l'établissement dans les meilleurs délais.
+- Le nom de votre établissement, et si possible son **code UAI**
 
 ---
 
-# Résultat attendu
+## Pourquoi votre recherche ne donne rien
 
-- Vous trouvez votre établissement dans la recherche grâce au code UAI ou à l'orthographe corrigée
-- Si l'établissement n'existe pas encore, une demande d'ajout est envoyée au support
+Trois causes, dans l'ordre de fréquence :
 
----
-
-# Conseils pratiques
-
-💡 Vous pouvez retrouver le code UAI de votre établissement sur le site de l'annuaire de l'Éducation nationale : **education.gouv.fr/annuaire**.
-
-💡 L'ajout d'un nouvel établissement par le support est généralement effectué sous 24 à 48 heures ouvrées.
+- le nom saisi **ne correspond pas** au nom officiel enregistré — abréviation, accent, tiret, ou « Lycée » omis ;
+- l'établissement est enregistré sous un **nom officiel** que personne n'emploie au quotidien ;
+- l'établissement **n'existe pas encore** dans Bacastages.
 
 ---
 
-# Besoin d'aide ?
+## 1. Rechercher par code UAI
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Saisissez le **code UAI** de l'établissement dans le champ de recherche.
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+Un code UAI compte **sept chiffres suivis d'une lettre** — par exemple `0750001A`.
+
+> **C'est la méthode la plus sûre.** La recherche reconnaît un code UAI et va chercher l'établissement exact, sans passer par son nom. Un établissement enregistré ressort toujours par son UAI.
+
+## 2. Rechercher par code postal
+
+Si vous ne connaissez pas le code UAI, saisissez les **cinq chiffres du code postal**.
+
+> La recherche liste alors **tous les établissements de cette commune** enregistrés dans Bacastages, classés par nom. C'est le moyen le plus rapide de découvrir sous quel nom officiel le vôtre est inscrit.
+
+## 3. Essayer des variantes du nom
+
+Si vous cherchez par nom, tentez successivement :
+
+- le nom **complet** plutôt que l'abrégé (« Lycée Professionnel » plutôt que « LP ») ;
+- avec puis sans accents ;
+- avec puis sans la commune.
+
+## 4. Demander l'ajout de l'établissement
+
+Si aucune des trois méthodes ne le fait ressortir, il n'est pas encore enregistré. Écrivez au support.
+
+## 5. Donner les informations qui permettent de l'ajouter
+
+Précisez dans votre message :
+
+- le **nom complet** de l'établissement ;
+- son **code UAI**, si vous le connaissez ;
+- sa **ville** et son **département**.
+
+> Comptez 24 à 48 heures ouvrées. Vous serez prévenu dès que l'établissement sera disponible.
+
+---
+
+## Où trouver un code UAI
+
+L'annuaire de l'Éducation nationale le publie pour chaque établissement : **education.gouv.fr/annuaire**.
+
+---
+
+## Vous y êtes
+
+Votre établissement ressort dans la recherche et vous pouvez le sélectionner.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
