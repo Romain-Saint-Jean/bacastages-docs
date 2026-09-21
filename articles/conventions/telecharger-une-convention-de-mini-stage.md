@@ -1,6 +1,6 @@
 ---
-title: "Télécharger une convention de mini-stage"
-description: "Récupérer la convention d'un élève inscrit à un mini-stage depuis votre espace Bacastages."
+title: "Télécharger la convention d'un élève"
+description: "Récupérer la convention vierge à faire signer, ou la version signée une fois déposée, depuis le dossier de l'élève."
 state: published
 collections: [conventions]
 intercom_us_id: "13430290"
@@ -9,87 +9,74 @@ intercom_us_updated_at: 1768833910
 ---
 ## Objectif
 
-Récupérer la convention d'un élève inscrit à un mini-stage depuis votre espace Bacastages.
+Récupérer le PDF d'une convention de mini-stage.
+
+Cet article s'adresse à **toutes les parties** du dossier — la famille, l'élève majeur, l'établissement d'origine et le lycée d'accueil. Le chemin est le même pour tous ; seul ce que vous avez le droit de faire ensuite change.
+
+## Ce qu'il vous faut
+
+- Un élève inscrit à un mini-stage, dont l'inscription est **validée**
+- Un compte Bacastages connecté
 
 ---
 
-## Prérequis
+## Deux documents, deux boutons
 
-- Avoir inscrit un élève à un mini-stage
-- L'inscription doit être **validée et définitive**
-- Être connecté(e) à votre compte Bacastages
+Ne les confondez pas : ils ne servent pas au même moment.
 
----
-
-## Bon à savoir
-
-Lors de la validation d'une inscription, **la convention est automatiquement envoyée par email** à l'adresse associée à votre compte, en pièce jointe.
-
-Si vous n'avez pas reçu cet email ou souhaitez télécharger à nouveau la convention, suivez les étapes ci-dessous.
+| Ce que vous voulez | Le bouton | Où |
+|---|---|---|
+| La convention **vierge**, pré-remplie, à imprimer et faire signer | **« Télécharger la convention vierge »** | Encadré **« Convention transmise »**, en haut du dossier |
+| La convention **signée**, telle qu'elle a été déposée | **« Télécharger »** | Bloc **« Gestion de la convention »**, plus bas |
 
 ---
 
-## Étapes pour télécharger une convention
+## 1. Ouvrir le Suivi
 
-## 1\. Accéder aux suivis de mini-stages
+Cliquez sur **« Suivi »** dans la barre de gauche. La page **« Suivi des élèves »** s'ouvre.
 
-- Connectez-vous à votre compte Bacastages
-- Rendez-vous dans l'onglet **« Suivi de mini-stage »**
+## 2. Retrouver l'élève
 
-<!-- Capture de l'espace US à refaire : conventions/telecharger-une-convention-de-mini-stage/1961656898.png -->
+Cherchez-le par son nom dans le champ de recherche, ou parcourez la liste.
 
-## 2\. Localiser l'élève concerné
+## 3. Ouvrir son dossier
 
-- Dans le tableau affiché, **repérez l'élève** pour lequel vous souhaitez télécharger la convention
+Cliquez sur la ligne de l'élève. Un tiroir s'ouvre sur la droite.
 
-## 3\. Ouvrir la fiche de l'élève
+> Le lien **« Ouvrir en pleine page »**, en haut du tiroir, affiche le même dossier sur toute la largeur.
 
-- Cliquez sur **« Voir détails »** pour accéder à la fiche complète de l'élève
+## 4. Télécharger la convention vierge
 
-## 4\. Accéder aux actions disponibles
+Dans l'encadré **« Convention transmise »**, en haut du dossier, cliquez sur **« Télécharger la convention vierge »**.
 
-- En haut à droite de la fiche élève, cliquez sur le **bouton "Actions"**
-- Un menu déroulant s'affiche avec plusieurs options
+> Cet encadré ne s'affiche que tant que la convention attend d'être signée. Une fois la version signée déposée, il laisse place au bloc **« Gestion de la convention »**.
 
-## 5\. Télécharger la convention
+## 5. Ou télécharger la version signée
 
-- Cliquez sur **« Télécharger la convention »**
-- Le fichier PDF est enregistré sur votre ordinateur
+Descendez jusqu'à **« Gestion de la convention »**. Deux boutons y apparaissent dès qu'un document a été déposé :
 
-<!-- Capture de l'espace US à refaire : conventions/telecharger-une-convention-de-mini-stage/1961665340.png -->
+- **« Voir »** — ouvre le PDF sans le télécharger ;
+- **« Télécharger »** — l'enregistre sur votre ordinateur.
 
 ---
 
-## Résultat attendu
+## Vous n'avez pas à venir la chercher
 
-✅ Vous disposez de la convention de mini-stage en format PDF, prête à être imprimée ou partagée.
+Quand le lycée d'accueil **valide** la convention, la version signée est **envoyée par e-mail en pièce jointe** à la famille et à l'établissement d'origine.
 
----
-
-## Conseils pratiques
-
-- **Vérifiez votre dossier de téléchargements** si le fichier ne s'ouvre pas automatiquement
-- Vous pouvez également cliquer sur **« Voir la convention »** pour la consulter directement en ligne avant de la télécharger
-- Conservez une copie numérique et une copie papier signée pour vos archives
+> Si la pièce jointe manque, c'est que le fichier n'a pas pu être relu au moment de l'envoi : le message ne l'annonce alors pas, et vous la récupérez par l'étape 5 ci-dessus.
 
 ---
 
-## En cas de problème d'impression avec Adobe Acrobat
+## Le PDF ne s'ouvre pas, ou s'imprime de travers
 
-Si vous rencontrez des difficultés pour imprimer la convention via Adobe Acrobat, vous pouvez l'ouvrir directement avec votre navigateur :
+Le dépannage est traité dans un article dédié : **« Familles, élèves et collèges : la convention est vierge, ne s'imprime pas ou refuse d'être déposée »**.
 
-1. **Ouvrez votre explorateur de fichiers** (Gestionnaire de fichiers)
-2. **Localisez le fichier PDF** téléchargé (généralement dans le dossier « Téléchargements »)
-3. **Clic droit** sur le fichier de la convention
-4. Sélectionnez **« Ouvrir avec »**
-5. Choisissez un navigateur : **Mozilla Firefox** ou **Google Chrome**
-6. Imprimez depuis le navigateur (Ctrl + P ou Commande + P)
+En deux mots : téléchargez le fichier plutôt que de le lire dans le navigateur, et imprimez-le depuis Chrome ou Firefox (**Ctrl+P**, **Cmd+P** sur Mac) plutôt que depuis Adobe Acrobat.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez des difficultés, contactez notre équipe support :
-
-- **Par email** : support@bacastages.fr
-- **Via le chat en ligne** : cliquez sur la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
