@@ -1,59 +1,57 @@
 ---
 title: "Consulter le calendrier de ses mini-stages"
-description: "Visualiser l'ensemble de vos mini-stages programmés grâce au calendrier interactif de Bacastages."
+description: "Voir la semaine des créneaux de mini-stages, naviguer d'une semaine à l'autre et ouvrir le détail d'un créneau."
 state: draft
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13635263"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302975
 ---
-# Objectif
+## Objectif
 
-Visualiser l'ensemble de vos mini-stages programmés grâce au calendrier interactif de Bacastages.
+Voir d'un coup d'œil les créneaux de mini-stages de la semaine.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
+- Un compte professeur connecté
 
-- ✅ Être connecté à votre compte professeur Bacastages
-- ✅ Avoir au moins un mini-stage programmé dans l'une de vos classes
-
----
-
-# Étapes à suivre
-
-# 1\. Accéder au calendrier
-
-Depuis le menu latéral, cliquez sur l'onglet **« Calendrier »**.
-
-# 2\. Naviguer dans le calendrier
-
-Le calendrier affiche vos mini-stages sous forme d'événements colorés. Utilisez les flèches pour naviguer entre les semaines ou les mois. Vous pouvez basculer entre la vue **« Semaine »** et la vue **« Mois »** grâce aux boutons en haut du calendrier.
-
-# 3\. Consulter les détails d'un mini-stage
-
-Cliquez sur un événement du calendrier pour afficher les détails : nom de la filière, nombre d'élèves inscrits, horaires d'arrivée et de départ.
+> Le calendrier n'est **pas** accessible par le lien d'accès sans compte : celui-ci ouvre vos mini-stages et vos comptes rendus, pas le calendrier de l'établissement.
 
 ---
 
-# Résultat attendu
+## 1. Ouvrir le calendrier
 
-- Vous visualisez l'ensemble de vos mini-stages à venir et passés.
-- Chaque événement affiche le nom du professeur et la filière concernée.
+Cliquez sur **« Calendrier »** dans la navigation. La page s'intitule **« Calendrier »** et annonce *« Tous les créneaux de mini-stages de la semaine, par formation. »*
+
+## 2. Lire la semaine affichée
+
+Le calendrier s'ouvre sur la **semaine en cours**. Les créneaux y sont rangés par formation.
+
+> **Le calendrier est hebdomadaire.** Il n'y a pas de vue « Mois » : la navigation se fait de semaine en semaine.
+
+## 3. Changer de semaine
+
+Les deux flèches de la barre du haut affichent la **semaine précédente** ou la **semaine suivante**.
+
+## 4. Revenir à la semaine en cours
+
+Le bouton **« Aujourd'hui »**, à gauche de la barre, vous y ramène d'un clic.
+
+## 5. Ouvrir le détail d'un créneau
+
+Cliquez sur un créneau : une fenêtre affiche la session, ses dates et sa position dans le mini-stage — **« Jour 2 sur 3 »**, par exemple, pour un mini-stage qui court sur plusieurs jours.
 
 ---
 
-# Conseils pratiques
+## Vous y êtes
 
-💡 **Consultez régulièrement le calendrier** pour anticiper l'accueil des élèves en mini-stage dans votre classe.
+Vous savez quels créneaux vous attendent, et quand.
 
-💡 **Utilisez la vue semaine** pour un aperçu plus détaillé des jours à venir.
+> Pour l'appel et les comptes rendus, passez par **« Mini-stages prof »** : le calendrier montre les créneaux, il ne porte pas les élèves.
 
 ---
 
-# Besoin d'aide ?
+## Besoin d'aide ?
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
-
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

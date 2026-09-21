@@ -1,6 +1,6 @@
 ---
-title: "2. Guide : Gérer vos mini-stages en tant que professeur"
-description: "Apprendre à consulter vos offres de mini-stages, faire l'appel des élèves participants et remplir les comptes rendus directement depuis votre espace professeur sur Bacastages."
+title: "2. Guide : gérer vos mini-stages en tant que professeur"
+description: "Retrouver les élèves que vous encadrez, faire l'appel et ouvrir leurs comptes rendus depuis l'entrée « Mini-stages prof »."
 state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13375463"
@@ -9,73 +9,65 @@ intercom_us_updated_at: 1768300463
 ---
 ## Objectif
 
-Apprendre à consulter vos offres de mini-stages, faire l'appel des élèves participants et remplir les comptes rendus directement depuis votre espace professeur sur Bacastages.
+Retrouver les élèves que vous encadrez, pointer leur présence et ouvrir leurs comptes rendus.
+
+## Ce qu'il vous faut
+
+- Un compte professeur connecté
+- Au moins un mini-stage sur lequel votre établissement vous a affecté
+
+> **Vous ne voyez aucun mini-stage ?** Ce n'est probablement pas un bug. Votre établissement affecte les mini-stages à une **fiche professeur**, qu'il doit **relier à votre compte** pour qu'ils apparaissent ici. Demandez-lui de faire ce lien.
 
 ---
 
-## Prérequis
+## 1. Ouvrir « Mini-stages prof »
 
-- Disposer d'un compte professeur activé sur Bacastages.fr
-- Être connecté à votre compte
-- Avoir au moins une offre de mini-stage créée et rattachée à votre compte
+Cliquez sur **« Mini-stages prof »** dans la navigation.
 
----
+## 2. Choisir la période
 
-## Étapes
+Quatre onglets : **Tous**, **Passés**, **Aujourd'hui**, **À venir**.
 
-## 1\. Accéder à vos mini-stages
+> **« Aujourd'hui » est l'onglet du jour J** : c'est celui à ouvrir pour faire l'appel.
 
-1. Connectez-vous à votre compte professeur sur Bacastages.fr
-2. Rendez-vous dans la section **"Mini-stages prof"** (ou équivalent selon l'interface)
-3. Vous visualisez la liste de toutes vos offres de mini-stages
+## 3. Déplier une session
 
-## 2\. Consulter les participants à une offre
+Chaque ligne est une **session** de mini-stage. Cliquez sur la flèche à sa gauche pour voir les élèves qu'elle rassemble.
 
-1. Chaque ligne correspond à une offre de mini-stage
-2. Cliquez sur le **chevron** situé à gauche de l'offre pour déplier la ligne
-3. Si des élèves sont inscrits, vous verrez apparaître :
-   - Le nom de chaque participant
-   - L'établissement d'origine de l'élève
+Le tableau donne, pour chaque élève : son **nom**, son **établissement** d'origine, son **statut** et les **actions** possibles.
 
-## 3\. Faire l'appel d'un participant
+## 4. Ouvrir le dossier d'un élève
 
-1. Localisez la ligne du participant concerné
-2. Cliquez sur le **bouton switch** (interrupteur) prévu pour l'appel
-3. Une fenêtre s'ouvre pour notifier la présence de l'élève
-4. Confirmez en cliquant sur **"Enregistrer"**
+Cliquez sur sa ligne. Un panneau s'ouvre avec ses informations, sa **présence** et son **compte rendu**.
 
-## 4\. Ajouter un compte rendu
+## 5. Pointer sa présence
 
-1. Sur la ligne du participant, cliquez sur le bouton **"Ajouter"** (ou **"Ajouter un compte rendu"**)
-2. Remplissez le formulaire qui s'affiche :
-   - **Satisfaction** : indiquez votre niveau de satisfaction
-   - **Commentaire** : ajoutez vos observations
-   - Si besoin, remplissez les champs supplémentaires affichés en dessous (pour les comptes rendus détaillés)
-3. Une fois terminé, cliquez sur **"Enregistrer"**
+Dans la carte **« Présence »**, deux boutons : **« Absent »** et **« Présent »**. Un clic suffit, rien à enregistrer ensuite.
 
-**Note** : Certains professeurs peuvent uniquement ajouter un commentaire selon leur rôle. Dans ce cas, utilisez le champ commentaire disponible pour partager vos retours.
+> **Avant le jour du mini-stage, les deux boutons sont inactifs**, et l'écran le dit : *« La présence sera saisissable le jour du mini-stage. »*
+
+## 6. Ouvrir le compte rendu
+
+Dans la carte **« Compte rendu »**, cliquez sur **« Rédiger le compte rendu »** — ou **« Voir / modifier le compte rendu »** si vous en avez déjà écrit un.
+
+La suite est décrite dans l'article **« Rédiger le compte rendu d'un élève »**.
 
 ---
 
-## Résultat attendu
+## Retrouver un élève
 
-- Vous consultez facilement toutes vos offres et les élèves inscrits
-- Vous notifiez la présence des participants en temps réel
-- Vous documentez chaque mini-stage avec un compte rendu structuré
+- **Triez par date** avec la flèche de la première colonne, ou **par élève** avec celle de la colonne « Élève ».
+- Les filtres restreignent la liste ; si elle se vide, l'écran vous le dit : *« Aucune session ne correspond à ces filtres — élargissez la période ou changez d'onglet. »*
 
 ---
 
-## Conseils pratiques
+## Le mot juste
 
-- **Faites l'appel dès l'arrivée de l'élève** pour ne pas oublier
-- **Rédigez le compte rendu rapidement après le mini-stage** : les impressions sont plus fraîches
-- **Soyez précis dans vos commentaires** : ils aideront l'élève et son établissement à mieux comprendre l'expérience vécue
+Bacastages dit **« compte rendu »**, et non « bilan ». « Bilan » désigne autre chose dans le produit : chercher « bilan » dans l'aide ne vous mènera pas ici.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez une difficulté ou avez une question, vous pouvez :
-
-- **Contacter le support** par email : [support@bacastages.fr](mailto:support@bacastages.fr)
-- **Utiliser le chat en ligne** : cliquez sur la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
