@@ -60,13 +60,18 @@ C'est l'étape de l'assistant où vivent vos modèles.
 
 ## 6. Vérifier que le champ manquant est bien posé sur le modèle
 
-Ouvrez votre modèle dans l'éditeur. La bibliothèque de champs les range en trois familles :
+Ouvrez votre modèle dans l'éditeur. Sous **« Champs disponibles »**, la bibliothèque les range en six familles :
 
 - **Votre établissement** — vos coordonnées, votre logo, la signature du / de la proviseur(e)
 - **Établissement de l'élève** — les coordonnées de l'établissement d'origine
 - **Mini-stage** — l'élève, sa classe, ses dates, son responsable légal
+- **Offre de mini-stage**
+- **Signatures** — les emplacements réservés à chaque partie
+- **Texte personnalisé**
 
 Un champ qui n'a pas été déposé sur le document ne peut pas se remplir : c'est la cause la plus fréquente.
+
+> **La légende des couleurs** distingue les quatre natures de champ : 🔴 rouge, les données automatiques ; 🔵 bleu, le texte personnalisé ; 🟢 vert, les images ; 🟣 violet, les zones de signature. Une zone de signature n'imprime rien — c'est une réservation.
 
 ## 7. Vérifier que le bon modèle est affecté à la filière
 
