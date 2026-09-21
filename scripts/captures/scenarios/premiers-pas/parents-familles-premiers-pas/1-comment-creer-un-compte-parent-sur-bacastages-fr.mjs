@@ -52,12 +52,37 @@ await withPublicPage(ARTICLE, async ({ page, shoot }) => {
   await page.getByRole('button', { name: 'Continuer' }).click();
   await settle(page);
 
-  // Champ laissé vide : la recherche d'établissement ne répond pas sur un navigateur sans
-  // session, et c'est celui de toute famille qui lit cet article.
+  const search = page.getByPlaceholder('Rechercher une école...');
+  await search.click();
+  await search.pressSequentially('Chataigniers', { delay: 60 });
+  const resultat = page.locator('[cmdk-item]').filter({ hasText: 'Collège Les Châtaigniers' }).first();
+  await resultat.waitFor({ timeout: 20_000 });
+  await settle(page);
   await shoot.screen('5-l-etablissement-de-votre-enfant', [
-    [11, page.getByPlaceholder('Rechercher une école...')],
-    [12, page.getByText("Mon enfant n'est pas scolarisé")],
-    [13, page.locator('label').filter({ hasText: "J'accepte les conditions" })],
-    [14, page.getByRole('button', { name: 'Créer mon compte' })],
+    [11, search],
+    [12, resultat],
+  ]);
+
+  await resultat.click();
+
+  // La sélection ouvre une fenêtre de confirmation, comme pour un Compte Inscription,
+  // mais avec sa propre question : « Est-ce bien l'établissement où votre enfant est
+  // actuellement scolarisé ? » C'est la confusion que le produit cherche à éviter.
+  const confirmation = page.getByRole('dialog').filter({ hasText: 'Vérifiez votre sélection' });
+  await confirmation.waitFor({ timeout: 15_000 });
+  await settle(page);
+  const oui = confirmation.getByRole('button', { name: /^Oui/ });
+  await shoot.screen('6-confirmer-l-etablissement', [[13, oui]]);
+
+  await oui.click();
+  await settle(page);
+  const consent = page.locator('label').filter({ hasText: "J'accepte les conditions" });
+  await consent.scrollIntoViewIfNeeded();
+  await consent.click();
+  await settle(page);
+  await shoot.screen('7-accepter-et-creer-le-compte', [
+    [14, page.getByText("Mon enfant n'est pas scolarisé")],
+    [15, consent],
+    [16, page.getByRole('button', { name: 'Créer mon compte' })],
   ]);
 });

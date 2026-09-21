@@ -62,16 +62,25 @@ await withPublicPage(ARTICLE, async ({ page, shoot }) => {
   await page.getByRole('button', { name: 'Continuer' }).click();
   await settle(page);
 
-  // Le champ reste vide. Sur un navigateur sans session — celui de tout lecteur de cet
-  // article — la recherche d'établissement tourne indéfiniment : `makeApiRequest` attend
-  // d'abord un rafraîchissement de jeton qui ne peut pas aboutir, et la requête de
-  // recherche n'est jamais envoyée (roadmap : signalé le 21/09/2026). Saisir un nom ici
-  // ne produirait qu'un sablier, qui n'apprendrait rien au lecteur et daterait la capture.
   const search = page.getByPlaceholder('Rechercher une école...');
-  const consent = page.locator('label').filter({ hasText: "J'accepte les conditions" });
-  await shoot.screen('6-relier-votre-etablissement', [
+  await search.click();
+  // `fill` pose la valeur d'un coup ; le champ de cmdk ne rouvre sa liste qu'au fil des
+  // frappes. On saisit donc caractère par caractère, puis on laisse venir les suggestions.
+  await search.pressSequentially('Val d\'Arnon', { delay: 60 });
+  const resultat = page.locator('[cmdk-item]').filter({ hasText: "Lycée professionnel du Val d'Arnon" }).first();
+  await resultat.waitFor({ timeout: 20_000 });
+  await settle(page);
+  await shoot.screen('6-trouver-votre-lycee', [
     [13, search],
-    [14, consent],
-    [15, page.getByRole('button', { name: 'Créer mon compte' })],
+    [14, resultat],
+  ]);
+
+  await resultat.click();
+  const consent = page.locator('label').filter({ hasText: "J'accepte les conditions" });
+  await consent.click();
+  await settle(page);
+  await shoot.screen('7-accepter-et-creer-le-compte', [
+    [15, consent],
+    [16, page.getByRole('button', { name: 'Créer mon compte' })],
   ]);
 });

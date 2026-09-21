@@ -52,12 +52,36 @@ await withPublicPage(ARTICLE, async ({ page, shoot }) => {
   await page.getByRole('button', { name: 'Continuer' }).click();
   await settle(page);
 
-  // Champ laissé vide : sur un navigateur sans session — celui de tout lecteur de cet
-  // article — la recherche d'établissement ne répond jamais (voir le scénario du parcours
-  // lycée). Une capture du sablier n'apprendrait rien.
-  await shoot.screen('5-relier-votre-etablissement', [
-    [11, page.getByPlaceholder('Rechercher une école...')],
-    [12, page.locator('label').filter({ hasText: "J'accepte les conditions" })],
-    [13, page.getByRole('button', { name: 'Créer mon compte' })],
+  const search = page.getByPlaceholder('Rechercher une école...');
+  await search.click();
+  await search.pressSequentially('Chataigniers', { delay: 60 });
+  const resultat = page.locator('[cmdk-item]').filter({ hasText: 'Collège Les Châtaigniers' }).first();
+  await resultat.waitFor({ timeout: 20_000 });
+  await settle(page);
+  await shoot.screen('5-trouver-votre-etablissement', [
+    [11, search],
+    [12, resultat],
+  ]);
+
+  await resultat.click();
+
+  // La sélection ouvre une fenêtre de confirmation — le parcours lycée n'en a pas. Elle
+  // existe parce que la confusion est fréquente : un Compte Inscription doit déclarer
+  // l'établissement d'où **partent** les élèves, pas celui qui les accueille.
+  const confirmation = page.getByRole('dialog').filter({ hasText: 'Vérifiez votre sélection' });
+  await confirmation.waitFor({ timeout: 15_000 });
+  await settle(page);
+  const oui = confirmation.getByRole('button', { name: "Oui, c'est le bon établissement" });
+  await shoot.screen('6-confirmer-votre-etablissement', [[13, oui]]);
+
+  await oui.click();
+  await settle(page);
+  const consent = page.locator('label').filter({ hasText: "J'accepte les conditions" });
+  await consent.scrollIntoViewIfNeeded();
+  await consent.click();
+  await settle(page);
+  await shoot.screen('7-accepter-et-creer-le-compte', [
+    [14, consent],
+    [15, page.getByRole('button', { name: 'Créer mon compte' })],
   ]);
 });

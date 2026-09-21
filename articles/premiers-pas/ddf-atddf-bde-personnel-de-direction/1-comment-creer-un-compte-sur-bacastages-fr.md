@@ -85,31 +85,39 @@ Utilisez votre **adresse professionnelle ou académique** : l'écran la réclame
 
 ---
 
-## 13. Trouver votre lycée
+## 13. Chercher votre lycée
 
-Recherchez-le par son **nom** ou par son **code UAI**, puis sélectionnez-le dans la liste.
+Saisissez son **nom** ou son **code UAI**. Les suggestions arrivent au bout d'une seconde environ.
+
+## 14. Le sélectionner dans la liste
+
+Cliquez sur la bonne ligne : le nom de l'établissement, sa ville et son académie vous permettent de trancher entre deux homonymes.
 
 > **Renseignez votre propre établissement**, et non un lycée qui accueille des mini-stages.
 
-## 14. Accepter les conditions d'utilisation
+![La recherche et sa liste de suggestions](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/6-trouver-votre-lycee.png)
 
-Cochez la case **« J'accepte les conditions d'utilisation et la politique de confidentialité »**. Sans elle, le compte ne peut pas être créé.
+## 15. Accepter les conditions d'utilisation
 
-## 15. Créer votre compte
+Cochez la case **« J'accepte les conditions d'utilisation et la politique de confidentialité »**. Sans elle, le bouton reste inactif.
+
+## 16. Créer votre compte
 
 Cliquez sur **« Créer mon compte »**.
 
-![Le volet « Établissement » : recherche, consentement, bouton « Créer mon compte »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/6-relier-votre-etablissement.png)
+> Vous pouvez encore changer d'établissement : **« Modifier »** relance la recherche, la croix efface la sélection.
+
+![L'établissement retenu, la case cochée et le bouton actif](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/7-accepter-et-creer-le-compte.png)
 
 ---
 
-## 16. Activer votre compte
+## 17. Activer votre compte
 
 Une fenêtre de confirmation s'affiche. **Restez sur cette page.**
 
 Ouvrez votre boîte mail, puis l'email de Bacastages, et cliquez sur le lien d'activation.
 
-## 17. Confirmer votre adresse
+## 18. Confirmer votre adresse
 
 Le lien vous ramène sur Bacastages. Cliquez sur **« Confirmer mon email »**.
 

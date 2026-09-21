@@ -75,29 +75,43 @@ C'est elle qui vous servira d'identifiant pour vous connecter.
 
 ---
 
-## 11. Indiquer l'établissement actuel de votre enfant
+## 11. Chercher l'établissement actuel de votre enfant
 
-Recherchez-le par son **nom** ou par son **code UAI**, puis sélectionnez-le dans la liste.
+Saisissez son **nom** ou son **code UAI**. Les suggestions arrivent au bout d'une seconde environ.
 
 > C'est l'établissement où votre enfant est **scolarisé aujourd'hui** — son collège, le plus souvent — et **non** le lycée où il souhaite faire un mini-stage.
 
-## 12. Si votre enfant n'est pas scolarisé
+## 12. Le sélectionner dans la liste
+
+Cliquez sur la bonne ligne : le nom, la ville et l'académie vous permettent de trancher entre deux homonymes.
+
+![La recherche et sa liste de suggestions](../../../assets/premiers-pas/parents-familles-premiers-pas/1-comment-creer-un-compte-parent-sur-bacastages-fr/5-l-etablissement-de-votre-enfant.png)
+
+## 13. Confirmer votre choix
+
+Une fenêtre s'ouvre — **« Vérifiez votre sélection »** — et vous redemande : *« Est-ce bien l'établissement où votre enfant est actuellement scolarisé ? »*
+
+Cliquez sur **« Oui, c'est le bon établissement »**, ou sur **« Non, changer d'établissement »** pour relancer la recherche.
+
+![La fenêtre « Vérifiez votre sélection »](../../../assets/premiers-pas/parents-familles-premiers-pas/1-comment-creer-un-compte-parent-sur-bacastages-fr/6-confirmer-l-etablissement.png)
+
+## 14. Si votre enfant n'est pas scolarisé
 
 Cliquez sur **« Mon enfant n'est pas scolarisé »**. Vous n'avez alors pas d'établissement à renseigner.
 
-## 13. Accepter les conditions d'utilisation
+## 15. Accepter les conditions d'utilisation
 
-Cochez la case **« J'accepte les conditions d'utilisation et la politique de confidentialité »**. Sans elle, le compte ne peut pas être créé.
+Cochez la case **« J'accepte les conditions d'utilisation et la politique de confidentialité »**. Sans elle, le bouton reste inactif.
 
-## 14. Créer votre compte
+## 16. Créer votre compte
 
 Cliquez sur **« Créer mon compte »**.
 
-![Le volet « Établissement » : établissement actuel, « Mon enfant n'est pas scolarisé », consentement](../../../assets/premiers-pas/parents-familles-premiers-pas/1-comment-creer-un-compte-parent-sur-bacastages-fr/5-l-etablissement-de-votre-enfant.png)
+![L'établissement retenu, la case cochée et le bouton actif](../../../assets/premiers-pas/parents-familles-premiers-pas/1-comment-creer-un-compte-parent-sur-bacastages-fr/7-accepter-et-creer-le-compte.png)
 
 ---
 
-## 15. Vérifier votre adresse email
+## 17. Vérifier votre adresse email
 
 Ouvrez votre boîte de réception et cliquez sur le **lien de vérification** contenu dans l'email de Bacastages. Sans cette étape, votre compte reste inactif.
 

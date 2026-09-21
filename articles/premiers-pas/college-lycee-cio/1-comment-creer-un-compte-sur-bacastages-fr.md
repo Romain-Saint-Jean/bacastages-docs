@@ -73,31 +73,45 @@ Utilisez votre **adresse professionnelle ou académique** : l'écran la réclame
 
 ---
 
-## 11. Trouver votre établissement
+## 11. Chercher votre établissement
 
-Recherchez-le par son **nom** ou par son **code UAI**, puis sélectionnez-le dans la liste.
+Saisissez son **nom** ou son **code UAI**. Les suggestions arrivent au bout d'une seconde environ.
 
-> **Renseignez votre propre établissement**, et non un lycée qui accueille des mini-stages.
+## 12. Le sélectionner dans la liste
 
-## 12. Accepter les conditions d'utilisation
+Cliquez sur la bonne ligne : le nom, la ville et l'académie vous permettent de trancher entre deux homonymes.
 
-Cochez la case **« J'accepte les conditions d'utilisation et la politique de confidentialité »**. Sans elle, le compte ne peut pas être créé.
+![La recherche et sa liste de suggestions](../../../assets/premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/5-trouver-votre-etablissement.png)
 
-## 13. Créer votre compte
+## 13. Confirmer votre choix
+
+Une fenêtre s'ouvre — **« Vérifiez votre sélection »** — et vous redemande : *« Est-ce bien votre établissement d'origine (celui qui inscrit les élèves) ? »*
+
+Cliquez sur **« Oui, c'est le bon établissement »**, ou sur **« Non, changer d'établissement »** pour relancer la recherche.
+
+> **C'est la confusion que cette fenêtre existe pour éviter.** Un Compte Inscription déclare l'établissement d'où **partent** les élèves, jamais celui qui les accueille.
+
+![La fenêtre « Vérifiez votre sélection »](../../../assets/premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/6-confirmer-votre-etablissement.png)
+
+## 14. Accepter les conditions d'utilisation
+
+Cochez la case **« J'accepte les conditions d'utilisation et la politique de confidentialité »**. Sans elle, le bouton reste inactif.
+
+## 15. Créer votre compte
 
 Cliquez sur **« Créer mon compte »**.
 
-![Le volet « Établissement » : recherche, consentement, bouton « Créer mon compte »](../../../assets/premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/5-relier-votre-etablissement.png)
+![L'établissement retenu, la case cochée et le bouton actif](../../../assets/premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/7-accepter-et-creer-le-compte.png)
 
 ---
 
-## 14. Activer votre compte
+## 16. Activer votre compte
 
 Une fenêtre de confirmation s'affiche. **Restez sur cette page.**
 
 Ouvrez votre boîte mail, puis l'email de Bacastages, et cliquez sur le lien d'activation qu'il contient.
 
-## 15. Confirmer votre adresse
+## 17. Confirmer votre adresse
 
 Le lien vous ramène sur Bacastages. Cliquez sur **« Confirmer mon email »**.
 
