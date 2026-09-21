@@ -8,8 +8,11 @@
 #   scripts/captures/env.sh status
 #
 # Les ports 3000 et 8000 sont ceux des autres sessions de travail : on ne s'y branche pas.
-# Le front de la refonte vise `localhost:8000` en dur en développement ; le worktree de
-# captures porte une modification locale, non commitée, qui le repointe sur 8100.
+# Le front de la refonte retombe sur `localhost:8000` quand rien ne le dit : ses deux
+# chemins d'appel se pilotent par variable, et il faut les poser tous les deux.
+# `NEXT_PUBLIC_API_URL` vise les appels rendus côté serveur, `DEV_API_ORIGIN` la
+# réécriture `/api-proxy` qui sert les appels du navigateur. En oublier un est
+# silencieux : l'écran répond, mais avec les données du back voisin.
 #
 # Les .env des worktrees sont des liens vers le dépôt principal : on ne les modifie pas,
 # on surcharge les variables au lancement (dotenv n'écrase pas une variable définie).
@@ -69,6 +72,7 @@ start() {
     # Pas d'Intercom sur les captures : le widget masquerait l'écran.
     PORT=$FRONT_PORT \
     NEXT_PUBLIC_API_URL="http://localhost:$BACK_PORT/api" \
+    DEV_API_ORIGIN="http://localhost:$BACK_PORT" \
     NEXT_PUBLIC_SITE_URL="http://localhost:$FRONT_PORT" \
     NEXT_PUBLIC_INTERCOM_APP_ID= \
       setsid pnpm exec next dev -p $FRONT_PORT >"$STATE/front.log" 2>&1 &
