@@ -22,7 +22,7 @@ Publier une offre de mini-stage sur Bacastages.fr pour accueillir des collégien
 
 ## 1\. Accéder au formulaire de création
 
-1. Rendez-vous dans l'onglet **Mes Offres**
+1. Rendez-vous dans l'onglet **Mes offres**
 2. Cliquez sur le bouton **Ajouter**
 
 <!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850318758.png -->
@@ -84,7 +84,7 @@ Publier une offre de mini-stage sur Bacastages.fr pour accueillir des collégien
 
 ## Résultat attendu
 
-Votre offre de mini-stage apparaît dans **Mes Offres**. Si elle est publiée, elle est immédiatement visible par les collèges, dans l'onglet "Offres de mini-stages". Si elle est en brouillon, vous pouvez la modifier et la publier quand vous le souhaitez.
+Votre offre de mini-stage apparaît dans **Mes offres**. Si elle est publiée, elle est immédiatement visible par les collèges, dans l'onglet "Offres de mini-stages". Si elle est en brouillon, vous pouvez la modifier et la publier quand vous le souhaitez.
 
 <!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850335485.png -->
 

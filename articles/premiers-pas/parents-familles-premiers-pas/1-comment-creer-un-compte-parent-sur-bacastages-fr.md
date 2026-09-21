@@ -7,13 +7,13 @@ intercom_us_id: "13635199"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302940
 ---
-# Objectif
+## Objectif
 
 Créer votre compte parent sur Bacastages.fr afin de pouvoir rechercher et inscrire votre enfant à des mini-stages.
 
 ---
 
-# Prérequis
+## Prérequis
 
 - ✅ Disposer d'une adresse email valide
 - ✅ Connaître le nom ou le code UAI de l'établissement scolaire de votre enfant
@@ -21,21 +21,25 @@ Créer votre compte parent sur Bacastages.fr afin de pouvoir rechercher et inscr
 
 ---
 
-# Étapes à suivre
+## Étapes à suivre
 
-# 1\. Accéder au site Bacastages
+## 1\. Accéder au site Bacastages
 
 Ouvrez votre navigateur et rendez-vous sur **bacastages.fr**. Vous arrivez sur la page d'accueil de la plateforme.
 
-# 2\. Cliquer sur le bouton de création de compte
+## 2\. Cliquer sur le bouton de création de compte
 
 Sur la page d'accueil, cliquez sur le bouton **« Créer un compte gratuit »**. Vous êtes redirigé vers le formulaire d'inscription.
 
-# 3\. Sélectionner votre profil
+## 3\. Sélectionner votre profil
 
-Trois types de profils vous sont proposés. Cliquez sur **« Famille »** pour créer un compte parent. Ce profil vous permettra de rechercher des mini-stages et d'inscrire votre enfant.
+L'écran affiche **« Étape 1 sur 3 · Votre profil »** et propose plusieurs cartes.
 
-# 4\. Renseigner vos informations personnelles
+Cliquez sur **« Une famille »**, décrite par *« Préinscrivez votre enfant à un mini-stage et suivez son parcours »*.
+
+> Les autres cartes sont réservées aux établissements. La carte **« Élève »** porte la mention **« Bientôt »** : un élève ne peut pas encore créer son propre compte, c'est à vous de l'inscrire depuis le vôtre.
+
+## 4\. Renseigner vos informations personnelles
 
 Complétez le formulaire avec vos informations :
 
@@ -43,7 +47,7 @@ Complétez le formulaire avec vos informations :
 - **Nom** : votre nom de famille
 - **Téléphone** : votre numéro de téléphone portable (utilisé en cas de besoin par l'établissement d'accueil)
 
-# 5\. Créer vos identifiants de connexion
+## 5\. Créer vos identifiants de connexion
 
 Saisissez les informations qui vous serviront à vous connecter :
 
@@ -51,7 +55,7 @@ Saisissez les informations qui vous serviront à vous connecter :
 - **Mot de passe** : choisissez un mot de passe sécurisé d'au moins 8 caractères
 - **Confirmation du mot de passe** : saisissez à nouveau votre mot de passe pour éviter toute erreur de frappe
 
-# 6\. Sélectionner l'établissement de votre enfant
+## 6\. Sélectionner l'établissement de votre enfant
 
 Recherchez l'établissement scolaire de votre enfant en utilisant l'une des deux méthodes :
 
@@ -60,17 +64,17 @@ Recherchez l'établissement scolaire de votre enfant en utilisant l'une des deux
 
 Si l'établissement de votre enfant n'apparaît pas dans les résultats, contactez le support pour demander son ajout.
 
-# 7\. Valider votre inscription
+## 7\. Valider votre inscription
 
 Cliquez sur le bouton **« Créer mon compte »** pour finaliser votre inscription. Un email de vérification est envoyé à l'adresse que vous avez renseignée.
 
-# 8\. Vérifier votre adresse email
+## 8\. Vérifier votre adresse email
 
 Ouvrez votre boîte de réception et cliquez sur le **lien de vérification** contenu dans l'email envoyé par Bacastages. Cette étape est indispensable pour activer votre compte et accéder à la plateforme.
 
 ---
 
-# Résultat attendu
+## Résultat attendu
 
 - Votre compte parent est créé et actif
 - Vous pouvez vous connecter à Bacastages avec votre email et mot de passe
@@ -78,7 +82,7 @@ Ouvrez votre boîte de réception et cliquez sur le **lien de vérification** co
 
 ---
 
-# Conseils pratiques
+## Conseils pratiques
 
 💡 Si vous ne trouvez pas l'email de vérification, pensez à vérifier votre dossier **« Courrier indésirable »** (spam). Les emails sont envoyés depuis l'adresse noreply@bacastages.fr.
 
@@ -88,7 +92,7 @@ Ouvrez votre boîte de réception et cliquez sur le **lien de vérification** co
 
 ---
 
-# Besoin d'aide ?
+## Besoin d'aide ?
 
 Si vous rencontrez un problème ou avez une question, vous pouvez :
 

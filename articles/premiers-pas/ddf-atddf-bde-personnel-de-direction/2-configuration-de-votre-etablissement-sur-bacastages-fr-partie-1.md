@@ -1,6 +1,6 @@
 ---
 title: "2. Configuration de votre établissement sur Bacastages.fr - Partie 1"
-description: "Configurer votre établissement pour accéder à Bacastages.fr et commencer à gérer vos mini-stages."
+description: "Les six étapes de mise en place de votre lycée, et les trois premières en détail : informations, professeurs, filières."
 state: published
 collections: [premiers-pas/ddf-atddf-bde-personnel-de-direction]
 intercom_us_id: "12942174"
@@ -9,105 +9,103 @@ intercom_us_updated_at: 1764145589
 ---
 ## Objectif
 
-Configurer votre établissement pour accéder à Bacastages.fr et commencer à gérer vos mini-stages.
+Comprendre le panneau de mise en place de votre lycée, et franchir ses **trois premières étapes**.
 
-## Prérequis
+Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lycée**.
 
-- ✅ Avoir créé un compte avec une adresse email académique
-- ✅ Avoir validé votre adresse email
-- ✅ Être connecté à votre compte
+## Ce qu'il vous faut
 
-## Étapes de configuration
+- Un compte créé et son adresse email confirmée
+- Le nom et les coordonnées de votre chef d'établissement
+- Le nom d'au moins un professeur
+- Au moins une filière que vous ouvrez aux mini-stagiaires
+
+---
 
 ## Vue d'ensemble
 
-Après votre première connexion, vous devez compléter **3 sections obligatoires** :
+À votre première connexion, un panneau **« Mise en place »** s'ouvre et liste ce qui reste à faire. Pour un lycée, il compte **six étapes** :
 
 1. **Informations de l'établissement**
-2. **Premier professeur**
-3. **Première filière**
+2. **Professeurs**
+3. **Filières**
+4. **Choix de la convention**
+5. **Méthode de signature**
+6. **Présentation de l'établissement**
 
-Ces informations sont indispensables pour accéder à la plateforme.
+Chaque étape indique en une phrase ce qu'elle attend, et un lien mène directement à l'écran concerné. Le panneau retient ce qui est déjà fait : vous pouvez le quitter et y revenir.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1850237633.png -->
+> Une **septième étape, « Zones de signature »**, apparaît uniquement si vous téléversez votre propre modèle de convention. Un lycée qui reste sur le modèle officiel ne la voit jamais.
 
----
-
-## 1\. Renseigner les informations de l'établissement
-
-1. Cliquez sur la carte **« Informations de l'établissement »**
-2. Remplissez les champs requis :
-   - Informations du proviseur
-   - Coordonnées de l'établissement
-3. Cliquez sur **« Enregistrer »**
-4. Vous serez automatiquement redirigé vers la page de configuration
-
-**En cas de problème :**
-
-- Si vous n'êtes pas redirigé, cliquez sur **« Retour »** en haut à gauche de la carte
-- Si la carte ne devient pas verte après validation, cliquez sur **« Actualiser »** en haut à droite pour rafraîchir les informations
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1850238758.png -->
+Cet article couvre les trois premières étapes. Les trois suivantes sont décrites dans *3. Configuration de votre établissement — Partie 2*.
 
 ---
 
-## 2\. Ajouter votre premier professeur
+## 1. Ouvrir l'étape « Informations de l'établissement »
 
-1. Cliquez sur la carte **« Premier professeur »**
-2. Renseignez les informations du professeur référent
-3. Cliquez sur **« Enregistrer »**
+Dans le panneau de mise en place, cliquez sur **« Renseigner les informations »**.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1850239946.png -->
+## 2. Renseigner votre chef d'établissement et vos coordonnées
 
----
+Complétez le nom du chef d'établissement, l'adresse de contact et le téléphone.
 
-## 3\. Créer votre première filière
+> Ces informations **figurent en en-tête des conventions** signées par les familles et les établissements d'origine.
 
-1. Cliquez sur la carte **« Première filière »**
-2. Ajoutez le nom de la filière
-3. Sélectionnez une combinaison (classe/niveau)
-4. Cliquez sur "Ajouter la combinaison"
-5. Cliquez sur **« Enregistrer »**
+## 3. Enregistrer
 
-**Note :** La configuration des préinscriptions, des professeurs assignés et des pièces jointes est optionnelle à cette étape. Vous pouvez les paramétrer ultérieurement.
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1850243191.png -->
+Cliquez sur **« Enregistrer »**. L'étape est comptée comme faite dès que les informations sont complètes.
 
 ---
 
-## 4\. Finaliser la configuration
+## 4. Ouvrir l'étape « Professeurs »
 
-Une fois les 3 sections complétées :
+De retour dans le panneau, cliquez sur **« Ajouter un professeur »**.
 
-- Vérifiez que les **3 cartes sont vertes** avec une **coche de validation** ✓
-- Cliquez sur **« Accéder à Bacastages »**
-- Vous serez redirigé vers la page d'accueil de votre établissement
+## 5. Créer une première fiche professeur
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1850243642.png -->
+Cliquez sur **« Ajouter »**, puis renseignez le nom, le prénom et la discipline.
 
----
+> **Une fiche n'est pas un compte.** La fiche professeur sert à désigner qui encadre un mini-stage ; elle suffit pour publier une offre. Le professeur peut, séparément, disposer d'un compte pour remplir ses comptes rendus — mais ce n'est pas obligatoire à cette étape.
 
-## Résultat attendu
+## 6. Enregistrer
 
-✅ Votre établissement est configuré  
-✅ Vous accédez à votre tableau de bord  
-✅ Vous pouvez commencer à créer et gérer vos mini-stages
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/1850245403.png -->
+L'étape est comptée comme faite dès qu'une fiche existe.
 
 ---
 
-## Conseils pratiques
+## 7. Ouvrir l'étape « Filières »
 
-- **Complétez les 3 sections dans l'ordre** pour une configuration fluide
-- **Utilisez le bouton « Actualiser »** si les cartes ne se mettent pas à jour automatiquement
-- Vous pourrez **modifier ou compléter ces informations** plus tard dans les paramètres de votre établissement
+De retour dans le panneau, cliquez sur **« Déclarer une filière »**.
+
+## 8. Déclarer une filière
+
+Une filière se déclare comme une **combinaison diplôme × domaine** — par exemple *Bac Pro* × *Commerce*, ou *BTS* × *Électrotechnique*.
+
+Choisissez le diplôme, puis le domaine.
+
+> **Votre diplôme ou votre domaine ne figure pas dans la liste ?** Vous pouvez le proposer depuis ce même écran. Il est utilisable immédiatement, avec la mention « en attente de validation », et l'équipe Bacastages le confirme ensuite.
+
+## 9. Décrire la filière
+
+La description est lue par les familles sur chaque offre de cette filière. Prenez le temps de l'écrire : c'est elle qui donne envie.
+
+## 10. Enregistrer
+
+L'étape est comptée comme faite dès qu'une filière existe.
+
+---
+
+## Vous y êtes, à mi-chemin
+
+Les trois premières étapes sont franchies. La suite — convention, signature, présentation publique — est décrite dans *3. Configuration de votre établissement — Partie 2*.
+
+## Modifier ces informations plus tard
+
+Tous ces écrans restent accessibles par l'entrée **« Établissement »** de la barre de gauche, sur les cartes **« Informations de l'établissement »**, **« Professeur(e)s »** et **« Filières »**.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez une difficulté lors de la configuration, contactez notre équipe support :
-
-- **Par email :**[support@bacastages.fr](mailto:support@bacastages.fr)
-- **Via le chat en direct :** cliquez sur la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
