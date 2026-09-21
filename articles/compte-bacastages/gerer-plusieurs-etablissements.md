@@ -1,68 +1,84 @@
 ---
 title: "Gérer plusieurs établissements"
-description: "Découvrez comment accéder à plusieurs établissements et basculer de l'un à l'autre depuis votre compte Bacastages."
+description: "Rattacher votre compte à plusieurs établissements, basculer de l'un à l'autre, et vous détacher de celui dont vous n'avez plus besoin."
 state: draft
 collections: [compte-bacastages]
 intercom_us_id: "13635286"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302985
 ---
-# Objectif
+## Objectif
 
-Gérer l'accès à plusieurs établissements scolaires depuis un seul compte Bacastages et basculer facilement de l'un à l'autre.
+Travailler depuis un seul compte sur plusieurs établissements.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
-
-- ✅ Être connecté à votre compte Bacastages
-- ✅ Avoir été rattaché à au moins un établissement
+- Être connecté, et rattaché à au moins un établissement
 
 ---
 
-# Étapes à suivre
+## 1. Ouvrir votre compte
 
-# 1\. Accéder à la section Établissements
+Cliquez sur **« Mon compte »** dans la navigation.
 
-Depuis votre profil, repérez la section **« Établissements »**. Cette section liste l'ensemble des établissements auxquels votre compte est rattaché.
+## 2. Ouvrir l'onglet « Établissements »
 
-# 2\. Consulter vos établissements rattachés
+C'est le quatrième onglet. Il s'intitule **« Mes Établissements »** — *« Vos actions seront automatiquement associées à l'établissement avec lequel vous êtes actif. »*
 
-Vous pouvez voir la liste de tous les établissements associés à votre compte, avec pour chacun :
-
-- Le **nom** de l'établissement
-- Votre **rôle** au sein de cet établissement
-- Le **statut** de votre accès (actif, en attente de validation)
-
-# 3\. Basculer entre les établissements
-
-Pour changer d'établissement actif, utilisez le **sélecteur d'établissement** situé dans la barre latérale (sidebar) de la plateforme. Cliquez sur le nom de l'établissement actuel, puis sélectionnez l'établissement souhaité dans la liste déroulante. L'interface se met à jour automatiquement pour afficher les données de l'établissement sélectionné.
-
-# 4\. Demander l'accès à un nouvel établissement
-
-Si vous souhaitez être rattaché à un établissement supplémentaire, rendez-vous dans la section **« Établissements »** de votre profil et cliquez sur **« Demander l'accès à un établissement »**. Recherchez l'établissement par son nom ou son code UAI, puis validez votre demande. Un administrateur de l'établissement devra approuver votre demande avant que l'accès soit effectif.
+Chaque ligne porte le **nom** de l'établissement et sa **ville**. Celui sur lequel vous travaillez affiche **« Actif »**.
 
 ---
 
-# Résultat attendu
+## Ajouter un établissement
 
-- Vous pouvez basculer d'un établissement à l'autre en un clic
-- Chaque établissement dispose de ses propres données (annonces, mini-stages, conventions)
-- Votre demande d'accès à un nouvel établissement est envoyée pour validation
+## 3. Cliquer sur « Ajouter »
+
+Le bouton se trouve en haut à droite de la carte. Une fenêtre **« Ajouter un établissement »** s'ouvre.
+
+## 4. Chercher l'établissement
+
+Sous **« Rechercher l'établissement »**, saisissez son nom ou son **code UAI**, puis sélectionnez-le.
+
+## 5. Valider
+
+Deux cas, et l'écran vous dit lequel est le vôtre :
+
+- **L'établissement n'a pas encore d'administrateur** : le bouton affiche **« Ajouter »**, et le rattachement est immédiat.
+- **L'établissement a déjà un administrateur** : un encadré bleu annonce *« Cette école a déjà un administrateur. Votre demande sera envoyée pour validation. »* Le bouton devient **« Envoyer la demande »**.
+
+## 6. Suivre votre demande
+
+Un encadré **« Demande d'ajout en attente »** s'affiche en haut de l'onglet, avec l'école demandée, le motif et la date. Un bouton **« Annuler la demande »** vous permet de revenir en arrière.
 
 ---
 
-# Conseils pratiques
+## Basculer d'un établissement à l'autre
 
-💡 Lorsque vous changez d'établissement, toutes les données affichées (annonces, mini-stages, statistiques) correspondent à l'établissement sélectionné.
+## 7. Ouvrir la pastille de votre établissement
 
-💡 Si votre demande d'accès reste en attente, contactez directement l'administrateur de l'établissement concerné pour accélérer la validation.
+Elle se trouve **dans la barre du haut**, et porte le nom de l'établissement actif.
+
+> **Ce n'est pas dans la barre latérale.** C'est l'erreur la plus fréquente sur cet écran.
+
+## 8. Choisir l'établissement voulu
+
+La liste s'intitule **« Vos établissements »**. Au-delà d'une poignée d'entrées, un champ de recherche apparaît.
+
+> **La bascule recharge votre session** : c'est normal, laissez-la se terminer sans fermer la fenêtre.
+
+> **La pastille n'est cliquable que si vous avez plusieurs établissements.** Avec un seul, elle affiche simplement son nom.
 
 ---
 
-# Besoin d'aide ?
+## Se détacher d'un établissement
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Sur la ligne de l'établissement concerné, l'icône de corbeille vous en dissocie.
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+> **On ne peut pas se dissocier de l'établissement actif.** Basculez d'abord sur un autre : l'écran vous le rappelle — *« Veuillez changer d'établissement avant de vous dissocier. »*
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

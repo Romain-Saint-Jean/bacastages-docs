@@ -1,67 +1,67 @@
 ---
 title: "Modifier ses informations personnelles"
-description: "Apprenez à mettre à jour vos informations personnelles (nom, téléphone, email) sur votre profil Bacastages."
+description: "Mettre à jour votre nom, votre téléphone ou votre adresse e-mail — et ce qui change quand c'est l'adresse."
 state: draft
 collections: [compte-bacastages]
 intercom_us_id: "13635272"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302980
 ---
-# Objectif
+## Objectif
 
-Modifier vos informations personnelles (nom, prénom, téléphone ou adresse email) sur votre compte Bacastages.
+Corriger ou mettre à jour vos coordonnées.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
-
-- ✅ Être connecté à votre compte Bacastages
+- Être connecté
 
 ---
 
-# Étapes à suivre
+## 1. Ouvrir votre compte
 
-# 1\. Accéder à votre profil
+Cliquez sur **« Mon compte »** dans la navigation — en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
 
-Depuis n'importe quelle page de Bacastages, cliquez sur votre **nom** ou votre **avatar** situé en haut à droite de l'écran, puis sélectionnez **« Profil »** dans le menu déroulant. Vous pouvez également accéder à votre profil via le menu latéral en cliquant sur l'onglet **« Profil »**.
+## 2. Rester sur l'onglet « Informations »
 
-# 2\. Ouvrir le mode édition
+C'est le premier des quatre onglets, et celui qui s'ouvre par défaut. La section s'intitule **« Informations personnelles »** — *« Ces coordonnées figurent sur vos conventions et dans vos échanges avec les établissements. »*
 
-Dans la section **« Informations personnelles »**, cliquez sur le bouton **« Modifier »** (icône de crayon). Les champs deviennent alors modifiables.
+## 3. Modifier ce qui doit l'être
 
-# 3\. Modifier les informations souhaitées
+**Il n'y a pas de bouton « Modifier » ni d'icône de crayon.** Les champs sont directement modifiables : cliquez dedans et corrigez.
 
-Vous pouvez modifier les champs suivants :
+Quatre champs : **Prénom**, **Nom**, **Adresse e-mail**, **Téléphone**.
 
-- **Prénom** : mettez à jour votre prénom
-- **Nom** : mettez à jour votre nom de famille
-- **Téléphone** : modifiez votre numéro de téléphone
-- **Adresse email** : changez l'adresse email associée à votre compte
+## 4. Enregistrer
 
-# 4\. Enregistrer les modifications
+Cliquez sur **« Enregistrer les modifications »**.
 
-Une fois vos modifications effectuées, cliquez sur le bouton **« Enregistrer »** pour sauvegarder vos changements. Un message de confirmation apparaît pour vous indiquer que vos informations ont bien été mises à jour.
-
----
-
-# Résultat attendu
-
-- Vos informations personnelles sont mises à jour immédiatement
-- Les nouvelles informations apparaissent sur votre profil et dans les échanges avec les établissements
+> **Le bouton reste inactif tant que rien n'a changé.** S'il vous paraît grisé, c'est que le formulaire est identique à ce qui est déjà enregistré — ce n'est pas une panne.
+>
+> Dès que vous modifiez quelque chose, un bouton **« Annuler »** apparaît à côté : il remet le formulaire dans son état d'origine.
 
 ---
 
-# Conseils pratiques
+## Si vous changez d'adresse e-mail
 
-💡 Si vous modifiez votre adresse email, un email de vérification sera envoyé à la nouvelle adresse. Vous devrez cliquer sur le lien de vérification pour confirmer le changement. Tant que la vérification n'est pas effectuée, votre ancienne adresse email reste active.
+Ce champ ne suit pas le même chemin que les autres. Un encadré apparaît dès que vous le modifiez :
 
-💡 Assurez-vous que votre numéro de téléphone est à jour : il peut être utilisé par les établissements pour vous contacter en cas d'urgence lors d'un mini-stage.
+> *« Un lien de confirmation sera envoyé à votre nouvelle adresse. Votre adresse actuelle reste active tant que ce lien n'a pas été ouvert. »*
+
+**Vous ne perdez donc pas l'accès à votre compte** si la nouvelle adresse était erronée : l'ancienne continue de fonctionner tant que vous n'avez pas confirmé.
+
+Le lien de confirmation arrive de **team@notif.bacastages.fr**. S'il n'arrive pas, regardez votre courrier indésirable.
 
 ---
 
-# Besoin d'aide ?
+## Vous y êtes
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Vos coordonnées sont à jour. Elles figureront sur vos **prochaines** conventions.
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+> **Les conventions déjà générées ne changent pas.**
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

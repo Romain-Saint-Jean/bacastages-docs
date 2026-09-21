@@ -1,69 +1,80 @@
 ---
 title: "Gérer ses préférences de notifications"
-description: "Configurez les notifications email que vous souhaitez recevoir depuis votre profil Bacastages."
+description: "Choisir, parmi quatorze notifications réparties en cinq familles, celles que vous voulez recevoir par e-mail."
 state: draft
 collections: [compte-bacastages]
 intercom_us_id: "13635278"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302982
 ---
-# Objectif
+## Objectif
 
-Personnaliser les notifications email que vous recevez de la part de Bacastages.
+Choisir les e-mails que Bacastages vous envoie.
 
----
+## Ce qu'il vous faut
 
-# Prérequis
-
-- ✅ Être connecté à votre compte Bacastages
+- Être connecté
 
 ---
 
-# Étapes à suivre
+## 1. Ouvrir votre compte
 
-# 1\. Accéder à votre profil
+Cliquez sur **« Mon compte »** dans la navigation.
 
-Cliquez sur votre **nom** ou votre **avatar** en haut à droite, puis sélectionnez **« Profil »**.
+## 2. Ouvrir l'onglet « Notifications »
 
-# 2\. Ouvrir la section Notifications
+C'est le troisième onglet. La section s'intitule **« Notifications emails »** — *« Les modifications sont enregistrées automatiquement. »*
 
-Sur la page de votre profil, repérez la section **« Notifications »**. Cette section affiche l'ensemble des catégories de notifications disponibles pour votre compte.
+## 3. Basculer les interrupteurs
 
-# 3\. Configurer vos préférences
-
-Pour chaque catégorie de notification, vous pouvez activer ou désactiver la réception d'emails en cliquant sur le **bouton à bascule** correspondant. Les catégories disponibles sont :
-
-- **Nouvelles pré-inscriptions** : recevez un email lorsqu'un élève est pré-inscrit à l'un de vos mini-stages
-- **Changements de statut** : soyez notifié lorsque le statut d'une pré-inscription ou d'un mini-stage change (accepté, refusé, annulé)
-- **Mises à jour des conventions** : recevez un email lorsqu'une convention est générée, signée ou modifiée
-- **Bilans** : soyez informé lorsqu'un bilan de mini-stage est disponible
-- **Rappels** : recevez des rappels avant la date d'un mini-stage ou pour des actions en attente
-
-# 4\. Enregistrer vos préférences
-
-Vos préférences sont sauvegardées automatiquement à chaque modification. Un message de confirmation apparaît brièvement pour valider le changement.
+Chaque notification a le sien. **Il n'y a pas de bouton « Enregistrer »** : le changement part tout seul, et le message **« Préférences enregistrées »** le confirme.
 
 ---
 
-# Résultat attendu
+## Les quatorze notifications, par famille
 
-- Vos préférences de notifications sont mises à jour
-- Vous ne recevrez des emails que pour les catégories activées
-- Vous pouvez modifier ces préférences à tout moment
+Toutes ne s'affichent pas pour tout le monde : vous ne voyez que celles qui concernent votre rôle.
+
+### Ministages
+
+- **Inscription à un ministage** — un élève est inscrit
+- **Annulation de ministage** — un mini-stage est annulé, ou un élève désinscrit
+- **Arrivée / départ de l'élève** — le pointage a été fait
+- **Absence de l'élève**
+
+### Préinscriptions
+
+- **Nouvelle demande de préinscription** — une demande arrive et attend d'être traitée
+- **Préinscription validée**
+- **Préinscription refusée**
+
+### Conventions
+
+- **Convention uploadée** — une convention signée vient d'être déposée
+- **Convention à valider** — une convention attend votre décision
+- **Convention validée**
+- **Convention rejetée**
+
+### Rapports
+
+- **Rapports de ministage** — un compte rendu est disponible ou vient d'être mis à jour
+- **Lien vers les rapports** — le lien pour remplir ou consulter les comptes rendus
+
+### Rappels
+
+- **Rappels**
 
 ---
 
-# Conseils pratiques
+## Ce qu'il vaut mieux garder
 
-💡 Nous vous recommandons de garder activées au minimum les notifications de **nouvelles pré-inscriptions** et de **changements de statut** pour ne pas manquer d'informations importantes.
+> **« Convention à valider » et « Nouvelle demande de préinscription » sont les deux à ne pas couper** si vous gérez un établissement : ce sont les seules qui vous préviennent qu'une action vous attend. Sans elles, vous ne le découvrirez qu'en ouvrant Bacastages.
 
-💡 Désactiver une notification ne supprime pas l'information : vous pourrez toujours consulter toutes les mises à jour directement sur la plateforme.
+Couper une notification ne supprime rien : l'information reste consultable dans le **Suivi**.
 
 ---
 
-# Besoin d'aide ?
+## Besoin d'aide ?
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
-
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
