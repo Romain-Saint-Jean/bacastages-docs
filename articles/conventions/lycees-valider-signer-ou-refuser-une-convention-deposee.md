@@ -42,15 +42,17 @@ C'est l'onglet ouvert par défaut : il rassemble tout ce qui attend un geste de 
 
 > Un même dossier passe par « À traiter » plusieurs fois — décider, signer, pointer — et repasse par « En attente » entre chaque. Ce n'est pas une frise : c'est une boîte de réception.
 
-## 4. Ouvrir le dossier de l'élève
+## 4. Cliquer sur « Examiner »
 
-Cliquez sur la ligne de l'élève. Un tiroir s'ouvre sur la droite.
+Sur la ligne de l'élève, le bouton **« Examiner »** ouvre le dossier **directement sur le bloc « Gestion de la convention »**.
+
+> **Le bouton ne s'appelle pas « Signer »** : à cette étape vous avez trois réponses possibles — signer électroniquement, valider sans signature, refuser — et le choix se fait devant le document.
+
+## 5. Lire la convention
+
+Elle s'affiche à gauche, les actions possibles à droite.
 
 > Le lien **« Ouvrir en pleine page »**, en haut du tiroir, affiche le même dossier sur toute la largeur — plus confortable pour relire un PDF.
-
-## 5. Descendre jusqu'à « Gestion de la convention »
-
-La convention déposée s'affiche à gauche, les actions possibles à droite.
 
 ---
 
