@@ -1,6 +1,6 @@
 ---
-title: "Guide : Gérer les mini-stages sans compte professeur"
-description: "Permettre aux professeurs sans compte Bacastages de faire l'appel et de remplir les comptes rendus des élèves en mini-stage via un lien d'accès direct."
+title: "Guide : gérer les mini-stages sans compte professeur"
+description: "Faire l'appel et rédiger vos comptes rendus depuis le lien reçu par e-mail, sans créer de compte ni retenir de mot de passe."
 state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte]
 intercom_us_id: "13375413"
@@ -9,74 +9,89 @@ intercom_us_updated_at: 1768299865
 ---
 ## Objectif
 
-Permettre aux professeurs sans compte Bacastages de faire l'appel et de remplir les comptes rendus des élèves en mini-stage via un lien d'accès direct.
+Faire l'appel et rédiger vos comptes rendus **sans créer de compte Bacastages**.
+
+Cet article s'adresse aux **professeurs qui n'ont pas de compte** — et qui n'en ont pas besoin.
+
+## Ce qu'il vous faut
+
+- Le **lien reçu par e-mail**, envoyé par votre établissement
+- Une connexion internet
+
+> Il n'y a **rien à installer, rien à créer, aucun mot de passe à retenir**.
 
 ---
 
-## Prérequis
+## Deux liens différents — sachez lequel vous avez
 
-- Avoir reçu le lien d'accès par email
-- Disposer d'une connexion internet
+| Le lien | Ce qu'il ouvre | Quand vous le recevez |
+|---|---|---|
+| **Lien de session** | **Un seul** mini-stage | Dans un e-mail de rappel, à l'approche d'une séance |
+| **Lien d'accès personnel** | **Tous vos mini-stages de l'année** | Une fois, envoyé par votre établissement, avec un e-mail de bienvenue |
 
----
-
-## Accéder à l'interface de gestion
-
-1. **Cliquez sur le lien reçu par email**
-   - Ce lien vous donne accès direct à toutes les fonctionnalités nécessaires
-   - Aucune création de compte n'est requise
-2. **Consultez la liste des élèves**
-   - Vous verrez une ligne par élève prévu en mini-stage
-   - Un récapitulatif indique le nombre total d'élèves attendus
+> **Demandez le lien d'accès personnel à votre établissement.** C'est le confortable : un seul lien, conservé dans vos favoris, qui suit toute votre année.
 
 ---
 
-## Enregistrer la présence ou l'absence d'un élève
+## 1. Ouvrir le lien
 
-1. **Cliquez sur le bouton "Élève présent"** à côté du nom de l'élève concerné
-2. **Une fenêtre s'ouvre**
-   - Sélectionnez **Présent** ou **Absent**
-3. **Validez votre choix**
-   - L'information est enregistrée automatiquement
+Cliquez sur le lien reçu. Vous arrivez sur l'écran **« Gestion des mini-stages »**, sans aucune connexion à faire.
+
+## 2. Retrouver vos élèves
+
+L'écran liste vos mini-stages et, pour chacun, les élèves attendus.
+
+> Avec le lien d'accès personnel, **les mini-stages à venir y figurent aussi**, même quand aucun compte rendu n'a encore été ouvert.
+
+## 3. Ouvrir le dossier d'un élève
+
+## 4. Pointer sa présence
+
+Deux boutons, **« Absent »** et **« Présent »**. Un clic suffit : rien n'est à enregistrer ensuite.
+
+> Les boutons ne s'activent **que le jour du mini-stage**.
+
+## 5. Ouvrir son compte rendu
+
+Cliquez sur **« Rédiger le compte rendu »** — ou **« Voir / modifier le compte rendu »** s'il en existe déjà un.
+
+## 6. Remplir le compte rendu
+
+Le formulaire est le même que pour un professeur connecté : une **appréciation générale** obligatoire, un champ **« Votre appréciation »**, et — si votre établissement utilise le compte rendu détaillé — la **ponctualité** et **neuf critères** en trois familles.
+
+Le détail est dans l'article **« Rédiger le compte rendu d'un élève »**.
+
+## 7. Enregistrer
 
 ---
 
-## Remplir le compte rendu d'un élève
+## Votre commentaire remplace le précédent
 
-1. **Cliquez sur le bouton "Ajouter un compte rendu"** sur la ligne de l'élève
-2. **Cochez les cases correspondantes**
-   - Remplissez les différents critères d'évaluation
-3. **Indiquez la satisfaction globale**
-   - Sélectionnez le niveau de satisfaction
-4. **Ajoutez un commentaire (optionnel)**
-   - Rédigez vos observations dans le champ prévu
-   - ⚠️ **Important** : Si un commentaire existe déjà, le nouveau commentaire le remplacera
-5. **Cliquez sur "Enregistrer"**
-   - Le compte rendu est sauvegardé
+Quand vous rouvrez un compte rendu que vous avez déjà commenté, l'écran vous prévient : *« Si vous avez déjà ajouté un commentaire, il sera remplacé par celui que vous enregistrez maintenant. »*
+
+**Relisez avant d'enregistrer** : l'ancien texte ne se récupère pas.
 
 ---
 
-## Résultat attendu
+## « Ce lien a été remplacé »
 
-- Les présences et absences sont enregistrées
-- Les comptes rendus sont complétés et accessibles aux établissements
-- Les données sont sauvegardées automatiquement
+Ce message signifie que votre établissement vous a envoyé un **nouveau** lien : l'envoi d'un lien d'accès invalide tous les précédents.
+
+**Cherchez le message le plus récent de Bacastages dans votre boîte** — c'est celui-là qui fonctionne. Si vous ne le retrouvez pas, demandez à votre établissement de vous le renvoyer.
+
+> Votre établissement peut aussi **révoquer** l'accès par lien. Dans ce cas, aucun lien ne fonctionne plus tant qu'il ne vous en envoie pas un nouveau.
 
 ---
 
-## Conseils pratiques
+## Faut-il créer un compte, finalement ?
 
-✅ **Complétez les comptes rendus rapidement** après le mini-stage pour ne rien oublier
+Pas pour l'appel ni pour les comptes rendus : ce lien y suffit toute l'année.
 
-✅ **Vérifiez vos saisies** avant d'enregistrer, notamment les commentaires qui remplaceront les précédents
-
-✅ **Conservez le lien email** pour y accéder à nouveau si nécessaire
+Un compte n'apporte que deux choses de plus : le **calendrier** des créneaux de l'établissement, et la gestion de vos propres accès. Si cela ne vous sert pas, restez sur le lien.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez une difficulté ou avez une question :
-
-- **Contactez le support** : support@bacastages.fr
-- **Utilisez le chat en ligne** : cliquez sur la bulle bleue en bas à droite de l'écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
