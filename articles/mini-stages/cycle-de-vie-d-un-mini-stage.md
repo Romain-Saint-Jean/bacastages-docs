@@ -1,79 +1,103 @@
 ---
 title: "Cycle de vie d'un mini-stage"
-description: "Découvrez les différentes étapes du cycle de vie d'un mini-stage, de la création de l'offre jusqu'au bilan final."
+description: "Les sept étapes d'un mini-stage, de la création de l'offre au compte rendu, et qui agit à chacune."
 state: draft
 collections: [mini-stages]
 intercom_us_id: "13635234"
 intercom_us_url: ""
 intercom_us_updated_at: 1770302960
 ---
-# Objectif
+## Objectif
 
-Comprendre l'ensemble du cycle de vie d'un mini-stage sur Bacastages, de la création de l'offre jusqu'au bilan post-stage.
+Savoir par quelles étapes passe un mini-stage, et à laquelle vous devez agir.
 
----
-
-# Prérequis
-
-- ✅ Disposer d'un compte établissement sur Bacastages (DDF ou administrateur)
+Cet article est un **article de référence**. Il s'adresse à **toutes les parties** — le lycée d'accueil, l'établissement d'origine et la famille — parce qu'aucune ne voit le parcours en entier depuis son écran.
 
 ---
 
-# Étapes du cycle de vie
+## 1. Le lycée crée l'offre
 
-# 1\. Création de l'offre
+Le lycée d'accueil renseigne les **dates et horaires**, la **filière**, la **salle**, jusqu'à **trois professeurs encadrants** — le premier est obligatoire —, la **capacité d'accueil** et la **description** du programme.
 
-L'établissement d'accueil crée une offre de mini-stage en renseignant les informations essentielles : **dates**, **capacité d'accueil**, **description du programme**, **filière concernée** et **enseignant référent**. L'offre est créée en tant que brouillon et n'est pas encore visible des autres utilisateurs.
+> **La capacité se règle sur l'offre**, et nulle part ailleurs. Une filière n'a pas de capacité.
 
-# 2\. Publication de l'offre
+L'offre naît **« Prête à publier »** : elle n'est visible de personne.
 
-Une fois l'offre complétée et vérifiée, l'établissement la **publie**. Elle devient alors visible par l'ensemble des utilisateurs de la plateforme (familles, établissements d'origine) et ouverte aux inscriptions.
+## 2. Le lycée publie l'offre
 
-# 3\. Pré-inscription
+D'un clic sur **« Publier l'offre »**, elle devient **« Visible »** et apparaît dans **« Toutes les offres »**.
 
-Les familles ou les établissements d'origine soumettent des **demandes de pré-inscription** pour leurs élèves. Chaque demande contient les informations de l'élève et reste en statut **« En attente »** jusqu'à son traitement.
+> **Une offre pleine disparaît de la recherche par défaut.** Son état passe à **« Pleine »**, et elle ne ressort que si le chercheur règle le filtre **« Disponibilité »** sur **« Toutes les offres »**. C'est voulu — mais c'est aussi la première cause d'un « je ne trouve pas l'offre dont on m'a parlé ».
 
-# 4\. Validation des pré-inscriptions
+## 3. Un élève est inscrit
 
-Les pré-inscriptions doivent être **validées par l'établissement d'origine et par l'établissement d'accueil**. Chaque établissement examine la demande et peut l'accepter ou la refuser. Le statut passe à **« Validé »** lorsque les deux parties ont accepté.
+Deux chemins, selon le réglage du lycée d'accueil :
 
-# 5\. Convention
+- **Inscription directe** — l'élève est inscrit tout de suite.
+- **Préinscription** — la demande part en attente de décision.
 
-Une fois la pré-inscription validée, une **convention de mini-stage** est générée automatiquement. Ce document officiel doit être **signé par toutes les parties** (établissement d'accueil, établissement d'origine, famille). La convention précise les conditions du stage, les dates et les responsabilités de chacun.
+L'inscription est faite par **l'établissement d'origine** de l'élève, ou par **sa famille** lorsque le lycée d'accueil l'autorise.
 
-# 6\. Jour du mini-stage
+## 4. La préinscription est validée — par les deux établissements
 
-Le jour J, l'établissement d'accueil assure le **suivi de présence** des élèves. L'arrivée et le départ de chaque participant sont enregistrés sur la plateforme via l'outil de **suivi de mini-stages**.
+Une préinscription n'est définitive que quand **l'établissement d'origine et le lycée d'accueil** l'ont tous deux acceptée.
 
-# 7\. Bilan
+> Tant que l'un des deux n'a pas tranché, **l'autre peut revenir sur son refus**.
 
-Après le mini-stage, les différents acteurs sont invités à compléter un **bilan**. Ce retour d'expérience permet d'évaluer le déroulement du stage et de contribuer à l'amélioration des offres futures. Le bilan clôture le cycle de vie du mini-stage.
+## 5. La convention circule
+
+Dès que l'inscription est définitive, une **convention** est générée, pré-remplie.
+
+Selon le réglage du lycée d'accueil, elle part **sur papier** — téléchargée, signée à la main, redéposée — ou **en signature en ligne**. Le circuit papier est celui de la grande majorité des établissements.
+
+> **Une convention en ligne peut repasser au papier toute seule**, quand l'établissement d'origine de l'élève n'a déclaré aucun signataire : il n'y a alors personne à inviter à signer. L'historique de la convention porte la mention **« Collège d'origine sans signataire déclaré »**.
+
+Le détail complet est dans l'article **« Circuit de validation des conventions sur Bacastages »**.
+
+## 6. Le jour du mini-stage
+
+Le lycée d'accueil **pointe la présence** de chaque élève : **« Présent »** ou **« Absent »**.
+
+> **Le pointage n'ouvre que le premier jour du mini-stage.** Avant, le bouton est inactif.
+
+## 7. Le compte rendu
+
+Après le mini-stage, **l'établissement d'accueil rédige le compte rendu** — en pratique, le professeur encadrant. Deux champs : **« Votre appréciation »** et **« Votre commentaire »**.
+
+> **La famille ne rédige pas le compte rendu, elle le lit.** Sa rubrique **« Comptes-rendus »** est en lecture seule, et tant que rien n'a été écrit elle affiche : *« L'établissement d'accueil n'a pas encore rédigé le compte-rendu de ce mini-stage. »*
+
+> Le produit dit **« compte rendu »**, et non « bilan » : « bilan » désigne autre chose dans Bacastages.
+
+Le dossier passe alors à **« Terminés »**.
 
 ---
 
-# Résultat attendu
+## Qui agit, et quand
 
-- Vous comprenez les différentes étapes du parcours d'un mini-stage
-- Vous savez à quel moment intervenir en tant qu'établissement
-- Vous pouvez anticiper les actions requises à chaque étape
-
----
-
-# Conseils pratiques
-
-💡 Créez et publiez vos offres suffisamment tôt pour laisser le temps aux familles de s'organiser.
-
-💡 Traitez les pré-inscriptions rapidement pour fluidifier le processus.
-
-💡 Assurez-vous que les conventions sont signées avant le jour du mini-stage.
-
-💡 Encouragez les participants à compléter leur bilan pour améliorer la qualité des futures offres.
+| Étape | Qui agit | Où |
+|---|---|---|
+| Créer et publier l'offre | Lycée d'accueil | **Mes offres** |
+| Inscrire ou préinscrire | Établissement d'origine, ou famille | **Toutes les offres** |
+| Décider d'une préinscription | Les **deux** établissements | **Suivi**, onglet « À traiter » |
+| Faire signer et déposer la convention | Famille, élève majeur, ou établissement d'origine | **Suivi**, dossier de l'élève |
+| Valider la convention | Lycée d'accueil | **Suivi**, onglet « À traiter » |
+| Pointer la présence | Lycée d'accueil | **Suivi**, le jour du stage |
+| Rédiger le compte rendu | Professeur encadrant du lycée d'accueil | **Comptes-rendus** |
 
 ---
 
-# Besoin d'aide ?
+## Deux sorties possibles
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
+Un dossier ne va pas toujours au bout :
 
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+- **Refusé** — une préinscription rejetée par l'un des deux établissements, ou une convention refusée ;
+- **Désinscrit** — l'élève ne fera pas ce mini-stage.
+
+Les deux rangent le dossier dans l'onglet **« Sans suite »**.
+
+---
+
+## Besoin d'aide ?
+
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
