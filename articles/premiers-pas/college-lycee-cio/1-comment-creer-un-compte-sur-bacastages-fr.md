@@ -9,102 +9,74 @@ intercom_us_updated_at: 1767724379
 ---
 ## Objectif
 
-Créer votre compte professionnel "Collège" sur Bacastages.fr pour inscrire vos élèves en mini-stages.
+Créer votre compte Bacastages pour inscrire les élèves de votre établissement en mini-stage, et suivre leurs dossiers.
 
-## Prérequis
+Cet article s'adresse aux **collèges, CIO et structures qui inscrivent des élèves** (le « Compte Inscription »). Si vous êtes un lycée qui accueille des mini-stagiaires, suivez plutôt le parcours *DDF - ATDDF - BDE - Personnel de direction*.
+
+## Ce qu'il vous faut
 
 - Votre adresse email académique
-- Les coordonnées de votre établissement (nom ou code UAI)
+- Le nom ou le code UAI de votre établissement
 - Votre numéro de téléphone
 
 ---
 
-## Étapes de création du compte
+## 1. Ouvrir la page d'inscription
 
-## 1\. Accéder à la page d'inscription
+Rendez-vous sur **Bacastages.fr**, puis cliquez sur **« Créer un compte »**, en haut à droite.
 
-- Rendez-vous sur **Bacastages.fr**
-- Cliquez sur le bouton **« Créer un compte »** (en haut à droite de la page)
+## 2. Choisir votre profil
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573937.png -->
+L'écran affiche **« Étape 1 sur 3 · Votre profil »**.
 
-## 2\. Sélectionner votre type de compte
+Cliquez sur la carte **« Compte Inscription »**, décrite par *« Collège, Lycée, CIO, 3 PM, etc. »*.
 
-- Choisissez **« Je travaille dans un établissement ou une structure »**
-- Sélectionnez **« Collège »**
+> Ne choisissez pas la carte **« Lycée »** : elle est réservée aux établissements qui *accueillent* des mini-stagiaires et proposent des offres. La carte **« Compte Inscription »** est celle des établissements qui *envoient* leurs élèves.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573940.png -->
+## 3. Saisir votre nom et votre prénom
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917579840.png -->
+## 4. Saisir votre numéro de téléphone
 
-## 3\. Renseigner vos informations personnelles
+Sans espace entre les chiffres, par exemple `0612345678`.
 
-Complétez les champs suivants :
+Puis cliquez sur **« Suivant »**.
 
-- **Nom**
-- **Prénom**
-- **Numéro de téléphone** (sans espace entre les chiffres, exemple : 0612345678)
+## 5. Saisir votre adresse email
 
-Cliquez sur **« Suivant »**
+Utilisez de préférence votre **adresse académique** : elle accélère la validation de votre compte.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573939.png -->
+## 6. Choisir votre mot de passe
 
-## 4\. Créer vos identifiants de connexion
+Saisissez-le une première fois, puis une seconde pour le confirmer.
 
-- **Adresse email** : utilisez de préférence votre **adresse académique**
-- **Mot de passe** : créez un mot de passe sécurisé
-- **Confirmation du mot de passe** : saisissez à nouveau votre mot de passe
+## 7. Trouver votre établissement
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573941.png -->
+Recherchez-le par son **nom complet** ou par son **code UAI**, puis sélectionnez-le dans la liste.
 
-## 5\. Identifier votre établissement
+Cliquez sur **« S'inscrire »**.
 
-- Recherchez votre établissement par :
-  - Son **nom complet**, ou
-  - Son **code UAI**
-- Sélectionnez l'établissement dans la liste
+## 8. Activer votre compte
 
-Cliquez sur **« S'inscrire »**
+Une fenêtre de confirmation s'affiche. **Restez sur cette page.**
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573949.png -->
+Ouvrez votre boîte mail, puis l'email de Bacastages, et cliquez sur le lien d'activation qu'il contient.
 
-## 6\. Activer votre compte
+## 9. Confirmer votre adresse
 
-- Une fenêtre de confirmation s'affiche : votre compte est créé
-- **Restez sur cette page**
-- Consultez votre **boîte mail** (celle indiquée lors de l'inscription)
-- Ouvrez l'email de Bacastages.fr
-- Cliquez sur le lien d'activation dans l'email
-- Vous serez redirigé vers Bacastages.fr
-- Cliquez sur le bouton **« Confirmer mon email »** qui s'affiche sur la plateforme
-
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573945.png -->
-
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573946.png -->
-
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/1-comment-creer-un-compte-sur-bacastages-fr/1917573947.png -->
-
-**Si vous ne recevez pas l'email dans les 15 minutes :**
-
-- Restez sur la page de confirmation
-- Cliquez sur **« Renvoyer un email »**
-- Vérifiez à nouveau votre boîte mail et vos spams
+Le lien vous ramène sur Bacastages. Cliquez sur **« Confirmer mon email »**.
 
 ---
 
-## Résultat attendu
+## Vous n'avez pas reçu l'email ?
 
-✅ Votre compte est activé et opérationnel. Vous pouvez maintenant vous connecter à Bacastages.fr et commencer à inscrire vos élèves en mini-stages.
+- Vérifiez votre dossier de courrier indésirable.
+- Revenez sur la page de confirmation, restée ouverte, et cliquez sur **« Renvoyer un email »**.
+- Les emails de Bacastages partent de l'adresse **team@notif.bacastages.fr** : autorisez-la si votre établissement filtre les expéditeurs.
 
----
+## Et ensuite ?
 
-## Conseils pratiques
-
-- **Privilégiez votre adresse académique** : elle facilite la validation de votre compte par l'équipe Bacastages
-- **Vérifiez vos spams** : si vous ne recevez pas l'email d'activation, consultez votre dossier courrier indésirable
-- **Ne fermez pas la page de confirmation** : elle vous permet de renvoyer l'email si nécessaire
-- **Conservez vos identifiants** : notez votre mot de passe dans un endroit sécurisé
+Votre compte est actif. Il reste **deux informations à renseigner** avant de pouvoir inscrire un élève : voir *2. Configuration de votre établissement*.
 
 ---
 
-**Besoin d'aide ?** Contactez le support Bacastages par email à **[support@bacastages.fr](mailto:support@bacastages.fr)** ou utilisez la **bulle de chat bleue** en bas à droite de l'écran.
+**Besoin d'aide ?** Écrivez à **[support@bacastages.fr](mailto:support@bacastages.fr)**, ou utilisez la bulle de chat en bas à droite de l'écran.

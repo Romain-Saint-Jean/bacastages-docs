@@ -9,106 +9,80 @@ intercom_us_updated_at: 1768299992
 ---
 ## Objectif
 
-Créer votre compte professionnel "DDF - Administrateur" sur Bacastages.fr pour gérer les mini-stages de votre établissement.
+Créer votre compte Bacastages pour publier des offres de mini-stage et gérer votre lycée.
 
-## Prérequis
+Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lycée**. Si vous êtes professeur encadrant, ou si vous inscrivez des élèves depuis un collège ou un CIO, votre parcours est différent.
+
+## Ce qu'il vous faut
 
 - Votre adresse email académique
-- Les coordonnées de votre établissement (nom ou code UAI)
+- Le nom ou le code UAI de votre lycée
 - Votre numéro de téléphone
 
 ---
 
-## Étapes de création du compte
+## 1. Ouvrir la page d'inscription
 
-## 1\. Accéder à la page d'inscription
+Rendez-vous sur **Bacastages.fr**, puis cliquez sur **« Créer un compte »**, en haut à droite.
 
-- Rendez-vous sur **Bacastages.fr**
-- Cliquez sur le bouton **« Créer un compte »** (en haut à droite de la page)
+## 2. Choisir le profil « Lycée »
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849120631.png -->
+L'écran affiche **« Étape 1 sur 3 · Votre profil »**.
 
-## 2\. Sélectionner votre type de compte
+Cliquez sur la carte **« Lycée »**, décrite par *« Gérer les inscriptions et suivre les mini-stages de votre lycée »*.
 
-- Choisissez **« Je travaille dans un établissement ou une structure »**
-- Sélectionnez **« Lycée »**
-- Sélectionnez votre fonction : **DDFPT** (ou votre rôle : personnel de direction, BDE, etc.)
-- Cliquez sur **« Continuer »**
+## 3. Choisir votre rôle au lycée
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849124472.png -->
+L'écran suivant s'intitule **« Votre rôle au lycée »** et propose trois cartes.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849126093.png -->
+Cliquez sur **« DDF, ATDDF, BDE, Personnel de direction »**.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1936421840.png -->
+> Les deux autres cartes ouvrent des accès plus étroits : **« Professeur encadrant »** pour remplir des comptes rendus et suivre ses propres mini-stages, **« Vie scolaire – Accueil »** pour consulter les informations des élèves qui arrivent. Seul le profil DDF permet de publier des offres et de configurer l'établissement.
 
-## 3\. Renseigner vos informations personnelles
+Cliquez sur **« Continuer »**.
 
-Complétez les champs suivants :
+## 4. Saisir votre nom et votre prénom
 
-- **Nom**
-- **Prénom**
-- **Numéro de téléphone** (sans espace entre les chiffres, exemple : 0612345678)
+## 5. Saisir votre numéro de téléphone
 
-Cliquez sur **« Suivant »**
+Sans espace entre les chiffres, par exemple `0612345678`.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849132675.png -->
+## 6. Saisir votre adresse email
 
-## 4\. Créer vos identifiants de connexion
+Utilisez de préférence votre **adresse académique** : elle accélère la validation de votre compte.
 
-- **Adresse email** : utilisez de préférence votre **adresse académique**
-- **Mot de passe** : créez un mot de passe sécurisé
-- **Confirmation du mot de passe** : saisissez à nouveau votre mot de passe
+## 7. Choisir votre mot de passe
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849135297.png -->
+Saisissez-le une première fois, puis une seconde pour le confirmer.
 
-## 5\. Identifier votre établissement
+## 8. Trouver votre lycée
 
-- Recherchez votre établissement par :
-  - Son **nom complet**, ou
-  - Son **code UAI**
-- Sélectionnez l'établissement dans la liste
+Recherchez-le par son **nom complet** ou par son **code UAI**, puis sélectionnez-le dans la liste.
 
-Cliquez sur **« S'inscrire »**
+Cliquez sur **« S'inscrire »**.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849137132.png -->
+## 9. Activer votre compte
 
-## 6\. Activer votre compte
+Une fenêtre de confirmation s'affiche. **Restez sur cette page.**
 
-- Une fenêtre de confirmation s'affiche : votre compte est créé
-- **Restez sur cette page**
-- Consultez votre **boîte mail** (celle indiquée lors de l'inscription)
-- Ouvrez l'email de Bacastages.fr
-- Cliquez sur le lien d'activation dans l'email
-- Vous serez redirigé vers Bacastages.fr
-- Cliquez sur le bouton **« Confirmer mon email »** qui s'affiche sur la plateforme
+Ouvrez votre boîte mail, puis l'email de Bacastages, et cliquez sur le lien d'activation.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849138069.png -->
+## 10. Confirmer votre adresse
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849141315.png -->
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/1-comment-creer-un-compte-sur-bacastages-fr/1849143014.png -->
-
-**Si vous ne recevez pas l'email dans les 15 minutes :**
-
-- Restez sur la page de confirmation
-- Cliquez sur **« Renvoyer un email »**
-- Vérifiez à nouveau votre boîte mail et vos spams
+Le lien vous ramène sur Bacastages. Cliquez sur **« Confirmer mon email »**.
 
 ---
 
-## Résultat attendu
+## Vous n'avez pas reçu l'email ?
 
-✅ Votre compte est activé et opérationnel. Vous pouvez maintenant vous connecter à Bacastages.fr et commencer à gérer les mini-stages de votre établissement.
+- Vérifiez votre dossier de courrier indésirable.
+- Revenez sur la page de confirmation, restée ouverte, et cliquez sur **« Renvoyer un email »**.
+- Les emails de Bacastages partent de l'adresse **team@notif.bacastages.fr** : autorisez-la si votre établissement filtre les expéditeurs.
 
----
+## Et ensuite ?
 
-## Conseils pratiques
-
-- **Privilégiez votre adresse académique** : elle facilite la validation de votre compte par l'équipe Bacastages
-- **Vérifiez vos spams** : si vous ne recevez pas l'email d'activation, consultez votre dossier courrier indésirable
-- **Ne fermez pas la page de confirmation** : elle vous permet de renvoyer l'email si nécessaire
-- **Conservez vos identifiants** : notez votre mot de passe dans un endroit sécurisé
+Votre compte est actif. La mise en place de votre établissement se fait en six étapes : voir *2. Configuration de votre établissement — Partie 1*.
 
 ---
 
-**Besoin d'aide ?** Contactez le support Bacastages par email à **[support@bacastages.fr](mailto:support@bacastages.fr)** ou utilisez la **bulle de chat bleue** en bas à droite de l'écran.
+**Besoin d'aide ?** Écrivez à **[support@bacastages.fr](mailto:support@bacastages.fr)**, ou utilisez la bulle de chat en bas à droite de l'écran.

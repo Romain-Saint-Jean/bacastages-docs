@@ -1,6 +1,6 @@
 ---
 title: "2. Configuration de votre établissement sur Bacastages.fr"
-description: "Configurer votre établissement pour accéder à Bacastages.fr et commencer à inscrire des élèves en mini-stages."
+description: "Renseigner les deux informations demandées à votre établissement avant de pouvoir inscrire un élève en mini-stage."
 state: published
 collections: [premiers-pas/college-lycee-cio]
 intercom_us_id: "13317738"
@@ -9,78 +9,72 @@ intercom_us_updated_at: 1767726576
 ---
 ## Objectif
 
-Configurer votre établissement pour accéder à Bacastages.fr et commencer à inscrire des élèves en mini-stages.
+Renseigner les **deux informations** que Bacastages demande à votre établissement avant que vous puissiez inscrire un élève.
 
-## Prérequis
+Cet article s'adresse aux **collèges, CIO et structures qui inscrivent des élèves** (le « Compte Inscription »).
 
-- ✅ Avoir créé un compte avec une adresse email académique
-- ✅ Avoir validé votre adresse email
-- ✅ Être connecté à votre compte
+## Ce qu'il vous faut
 
-## Étapes de configuration
+- Un compte créé et son adresse email confirmée
+- Le nom et les coordonnées de votre chef d'établissement
+- Le nom et la fonction de la personne qui signera les conventions
+
+---
 
 ## Vue d'ensemble
 
-Après votre première connexion, vous devez compléter **la section obligatoire** :
+À votre première connexion, un panneau **« Mise en place »** s'ouvre et liste ce qui reste à faire. Pour un établissement qui inscrit des élèves, il compte **deux étapes**, toutes deux bloquantes :
 
 1. **Informations de l'établissement**
+2. **Signataire des conventions**
 
-Ces informations sont indispensables pour accéder à la plateforme.
+Tant qu'elles ne sont pas complètes, vous ne pouvez pas inscrire d'élève.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/2-configuration-de-votre-etablissement-sur-bacastages-fr/1917631649.png -->
-
----
-
-## 1\. Renseigner les informations de l'établissement
-
-1. Cliquez sur la carte **« Informations de l'établissement »**
-2. Remplissez les champs requis :
-   - Informations du proviseur
-   - Coordonnées de l'établissement
-3. Cliquez sur **« Enregistrer »**
-4. Vous serez automatiquement redirigé vers la page de configuration
-
-**En cas de problème :**
-
-- Si vous n'êtes pas redirigé, cliquez sur **« Retour »** en haut à gauche de la carte
-- Si la carte ne devient pas verte après validation, cliquez sur **« Actualiser »** en haut à droite pour rafraîchir les informations
-
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/2-configuration-de-votre-etablissement-sur-bacastages-fr/1917635091.png -->
+> Ce panneau reste accessible après coup : vous pouvez quitter une étape et y revenir, il retient ce qui est déjà fait.
 
 ---
 
-## 2\. Finaliser la configuration
+## 1. Ouvrir l'étape « Informations de l'établissement »
 
-Une fois la section complétée :
+Dans le panneau de mise en place, cliquez sur **« Renseigner les informations »**.
 
-- Vérifiez que la carte est verte avec une **coche de validation** ✓
-- Cliquez sur **« Accéder à Bacastages »**
-- Vous serez redirigé vers la page d'accueil de votre établissement
+## 2. Renseigner votre chef d'établissement et vos coordonnées
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/2-configuration-de-votre-etablissement-sur-bacastages-fr/1917637072.png -->
+Complétez le nom du chef d'établissement, l'adresse de contact et le téléphone.
+
+> Ces informations ne sont pas décoratives : **elles figurent en en-tête des conventions** que signeront les familles et le lycée d'accueil.
+
+## 3. Enregistrer
+
+Cliquez sur **« Enregistrer »**. L'étape est comptée comme faite dès que les informations sont complètes.
+
+## 4. Ouvrir l'étape « Signataire des conventions »
+
+De retour dans le panneau de mise en place, cliquez sur **« Déclarer le signataire »**.
+
+## 5. Déclarer qui signe au nom de votre établissement
+
+Renseignez son nom, sa fonction et son adresse email.
+
+> **Pourquoi c'est obligatoire.** Une convention de mini-stage est signée par trois parties : la famille, le lycée qui accueille, et votre établissement. Sans signataire déclaré, **les conventions de vos élèves ne peuvent pas partir en signature**.
+
+## 6. Enregistrer
+
+La seconde étape est comptée comme faite. Le panneau de mise en place n'affiche plus d'étape bloquante.
 
 ---
 
-## Résultat attendu
+## Vous y êtes
 
-✅ Votre établissement est configuré  
-✅ Vous accédez à votre tableau de bord  
-✅ Vous pouvez commencer à inscrire des élèves en mini-stages
+Votre établissement est configuré. Vous pouvez inscrire vos élèves en mini-stage et suivre leurs dossiers depuis l'entrée **« Suivi »** de la barre de gauche.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/college-lycee-cio/2-configuration-de-votre-etablissement-sur-bacastages-fr/1917643514.png -->
+## Modifier ces informations plus tard
 
----
-
-## Conseils pratiques
-
-- **Utilisez le bouton « Actualiser »** si les cartes ne se mettent pas à jour automatiquement
-- Vous pourrez **modifier ou compléter ces informations** plus tard dans les paramètres de votre établissement
+Les deux écrans restent accessibles à tout moment par l'entrée **« Établissement »** de la barre de gauche, sur la carte **« Informations de l'établissement »**.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez une difficulté lors de la configuration, contactez notre équipe support :
-
-- **Par email :**[support@bacastages.fr](mailto:support@bacastages.fr)
-- **Via le chat en direct :** cliquez sur la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

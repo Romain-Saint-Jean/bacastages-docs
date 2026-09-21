@@ -1,6 +1,6 @@
 ---
 title: "3. Configuration de votre établissement sur Bacastages - Partie 2"
-description: "Configurer votre espace établissement en ajoutant des professeurs, des filières et en personnalisant vos conventions de mini-stage."
+description: "Les trois dernières étapes de mise en place de votre lycée : convention, méthode de signature, présentation publique."
 state: published
 collections: [premiers-pas/ddf-atddf-bde-personnel-de-direction]
 intercom_us_id: "12942205"
@@ -9,147 +9,95 @@ intercom_us_updated_at: 1764148162
 ---
 ## Objectif
 
-Configurer votre espace établissement en ajoutant des professeurs, des filières et en personnalisant vos conventions de mini-stage.
+Franchir les **trois dernières étapes** de mise en place de votre lycée : la convention, la méthode de signature, et la présentation que liront les familles.
 
-## Prérequis
+Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lycée**. Il fait suite à *2. Configuration de votre établissement — Partie 1*.
 
-- Avoir créé et activé votre compte sur Bacastages.fr
-- Être connecté sur votre compte Bacastages
-- Avoir accès à votre tableau de bord Bacastages.fr
-- Disposer de votre convention de mini-stage au format PDF
-- Connaître les adresses email des professeurs à ajouter
+## Ce qu'il vous faut
 
----
-
-## Étapes de configuration
-
-## 1\. Accéder aux paramètres de votre établissement
-
-1. Connectez-vous à votre espace Bacastages
-2. Dans la barre de navigation à gauche, cliquez sur **« Établissement »** (icône en forme d'engrenage)
-3. Vous accédez au tableau de bord de configuration
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850259557.png -->
+- Les trois premières étapes franchies
+- Le nom et la fonction de la personne qui signe vos conventions
+- Une description de votre lycée et au moins une photo
+- Si vous utilisez votre propre convention : le fichier PDF
 
 ---
 
-## 2\. Ajouter des professeurs
+## 1. Ouvrir l'étape « Choix de la convention »
 
-1. Cliquez sur la carte **« Professeurs »**
-2. Cliquez sur le bouton **« Ajouter »** (en haut à droite)
-3. Renseignez les informations demandées (nom, prénom, email)
-4. Validez
+Dans le panneau de mise en place, cliquez sur **« Choisir un modèle »**.
 
-**Résultat :** Le nouveau professeur apparaît dans la liste des professeurs. Il sera disponible lors de la création de mini-stages.
+## 2. Choisir votre modèle de convention
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850261862.png -->
+Deux possibilités :
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850265785.png -->
+- **Garder la convention officielle.** C'est le choix le plus simple : elle est tenue à jour par Bacastages, et vous êtes prévenu quand une nouvelle version paraît.
+- **Téléverser votre propre convention**, depuis l'étape **« Conventions personnalisées »** de l'assistant.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850303091.png -->
+> Si vous téléversez votre propre modèle, une étape supplémentaire apparaîtra dans votre panneau de mise en place : **« Zones de signature »**. Elle vous demande d'indiquer sur le document où chaque partie signera. Sans ces zones, la signature électronique ne peut pas être activée.
 
 ---
 
-## 3\. Ajouter des filières ou structures
+## 3. Ouvrir l'étape « Méthode de signature »
 
-1. Cliquez sur la carte **« Structure »**
-2. Cliquez sur le bouton **« Ajouter »**
-3. Renseignez les informations demandées :
-   - **Nom de la filière** : ex. "Bac Pro Commerce", "BTS Électrotechnique"
-   - **Couleur** : choisissez une couleur pour organiser visuellement les mini-stages dans le calendrier
-   - **Description** : rédigez une présentation de la filière. Elle sera affichée sur chaque page de détail d'offre de mini-stage
-   - **Combinaisons de filières** : ajoutez plusieurs filières si le mini-stage permet de découvrir plusieurs parcours
-   - **Préinscription** (optionnel) :
-     - Si activée, les inscriptions ne seront plus automatiques
-     - Vous devrez valider manuellement chaque demande reçue
-     - Vous pouvez demander un document lors de l'inscription
-   - **Pièces jointes** (optionnel) : ajoutez des plaquettes ou documents complémentaires
-     - Ils seront envoyés automatiquement avec chaque convention
-     - Ils seront également téléchargeables sur la page de présentation de votre établissement
-   - **Professeurs assignés** (optionnel) : associez des professeurs à cette filière pour créer des offres de mini-stage plus rapidement
-4. Validez
+De retour dans le panneau, cliquez sur **« Régler la signature »**. Vous arrivez sur l'étape **« Réglages »** de l'assistant Convention.
 
-**Résultat :** La nouvelle filière apparaît dans votre liste et sera disponible lors de la création de mini-stages.
+## 4. Déclarer qui signe au nom du lycée
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850266832.png -->
+Renseignez le nom, la fonction et l'adresse email du signataire.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850264685.png -->
+> **Sans signataire déclaré, aucune convention ne part.** C'est la raison pour laquelle cette étape est bloquante.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850304718.png -->
+## 5. Choisir comment vous signez
+
+- **Signature manuscrite** (le réglage par défaut) : les conventions sont imprimées, signées à la main, puis déposées sur Bacastages.
+- **Signature électronique** : les parties signent en ligne, sans impression.
+
+> La signature électronique **n'est pas activée par défaut**. Vous l'activez vous-même quand vous le souhaitez, et Bacastages vous demande de confirmer avant de basculer.
+
+## 6. Enregistrer
+
+L'assistant enregistre vos réglages en quittant l'étape.
+
+> L'assistant Convention compte d'autres étapes, facultatives ou réservées à un mode : **« Signature en ligne »** (ordre de sollicitation, mandats) n'apparaît qu'en signature électronique, **« Conventions sur papier »**, **« Logo »** et **« Annexe »** sont facultatives.
 
 ---
 
-## 4\. Personnaliser votre convention de mini-stage
+## 7. Ouvrir l'étape « Présentation de l'établissement »
 
-## Étape 4.1 : Créer une nouvelle convention
+De retour dans le panneau, cliquez sur **« Compléter la présentation »**.
 
-1. Cliquez sur la carte **« Convention personnalisée »**
-2. Cliquez sur **« Ajouter »** (en haut à droite)
-3. Donnez un nom à votre convention (ex : "Convention mini-stage 2025")
-4. Téléchargez votre convention au format PDF
-5. Cliquez sur **« Suivant »**
+## 8. Décrire votre lycée
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850268584.png -->
+Renseignez la description, le site internet, le type d'établissement et l'effectif.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850270142.png -->
+## 9. Ajouter au moins une photo
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850272576.png -->
+> **C'est ce que voient les familles** sur chacune de vos offres. Une photo et une description soignées font la différence au moment où une famille choisit entre plusieurs lycées.
 
-## Étape 4.2 : Placer les champs de fusion
+## 10. Enregistrer
 
-Une fenêtre d'édition s'ouvre avec :
-
-- **À gauche :** votre PDF
-- **À droite :** les champs disponibles dans des accordéons
-
-**Comment ajouter un champ :**
-
-1. Déroulez un accordéon (ex : « Mini-stage », « Élève », « Établissement »)
-2. Cliquez sur un champ (ex : « Nom complet de l'élève »)
-3. Faites-le glisser sur votre PDF à l'emplacement souhaité
-4. Ajustez la position en cliquant et déplaçant le champ
-5. Redimensionnez-le en maintenant le clic sur le champ
-6. Supprimez un champ en cliquant sur le bouton « Supprimer » qui apparaît sous le champ
-
-**Types de champs :**
-
-- 🔴 **Champs rouges :** remplis automatiquement par la plateforme
-- 🟢 **Champs verts :** pour les images (logo, signature)
-- 🔵 **Champs bleus :** texte statique que vous ajoutez manuellement
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850291405.png -->
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850291422.png -->
-
-## Étape 4.3 : Finaliser et enregistrer
-
-1. Une fois tous les champs placés, cliquez sur **« Suivant »**
-2. Vérifiez le récapitulatif du nombre de champs ajoutés
-3. Cliquez sur **« Confirmer »**
-
-**Résultat :** Votre convention personnalisée est enregistrée et sera automatiquement appliquée à toutes les nouvelles inscriptions de mini-stage.
-
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850292087.png -->
+La dernière étape est comptée comme faite. Votre panneau de mise en place n'affiche plus d'étape en attente.
 
 ---
 
-## Conseils pratiques
+## Vous y êtes
 
-- **Testez votre convention** en utilisant le bouton **« Action »** en haut à droite du menu d'ajout de convention pour télécharger un exemple de convention
-- **Vérifiez l'emplacement des champs** avant de finaliser votre convention
-- **Gardez une copie de votre PDF original** au cas où vous souhaiteriez modifier la convention plus tard
+Votre lycée est configuré. Vous pouvez publier vos premières offres : voir *4. Ajouter vos premières offres de mini-stage*.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850293617.png -->
+## Modifier ces informations plus tard
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/1850294389.png -->
+Tous ces écrans restent accessibles par l'entrée **« Établissement »** de la barre de gauche :
+
+| Pour modifier | Carte |
+|---|---|
+| Le signataire, le mode de signature, vos modèles | **Convention** |
+| Ce que lisent les familles | **Présentation de l'établissement** |
+| Vos professeurs | **Professeur(e)s** |
+| Vos filières | **Filières** |
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez une difficulté ou avez une question :
-
-- **Par email :**[support@bacastages.fr](mailto:support@bacastages.fr)
-- **Par chat :** cliquez sur la bulle bleue en bas à droite de votre écran
-
-Notre équipe vous répond sous 24h.
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran
