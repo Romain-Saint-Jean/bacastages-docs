@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302958
 
 Relancer les familles et les établissements d'origine qui n'ont pas encore déposé la convention signée.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -34,7 +34,9 @@ Cliquez sur sa ligne.
 
 ## 3. Cliquer sur « Relancer les parties »
 
-Le bouton se trouve dans l'encadré **« Convention transmise »**, en haut du dossier, à côté de « Télécharger la convention vierge ».
+Le bouton se trouve dans l'encadré **« Convention transmise »**, en haut du dossier, à côté de « Télécharger la convention vierge ». L'encadré rappelle qui l'on attend : *« En attente de signature par l'établissement d'origine et la famille. »*
+
+![Le tiroir du dossier, avec l'encadré Convention transmise et le bouton Relancer les parties](../../assets/mini-stages/lycees-relancer-les-conventions-qui-tardent/1-relancer-les-parties.png)
 
 ---
 
@@ -52,9 +54,13 @@ Une case à cocher apparaît en tête de chaque ligne concernée.
 >
 > La case de l'en-tête sélectionne **toutes les lignes de la page**.
 
+![L'onglet En attente, avec des cases à cocher sur les seuls dossiers dont la convention circule](../../assets/mini-stages/lycees-relancer-les-conventions-qui-tardent/2-les-dossiers-en-attente.png)
+
 ## 3. Ouvrir la fenêtre de relance
 
-Une barre apparaît au-dessus de la liste — **« N dossiers sélectionnés »**. Cliquez sur **« Relance convention (N) »**.
+Une barre apparaît au-dessus de la liste, **« N dossiers sélectionnés »**, avec **« Tout désélectionner »**, **« Lancer les signatures (N) »** et **« Relance convention (N) »**. Cliquez sur ce dernier.
+
+![La barre de sélection au-dessus de la liste, avec le bouton Relance convention](../../assets/mini-stages/lycees-relancer-les-conventions-qui-tardent/3-la-barre-de-selection.png)
 
 ## 4. Choisir les destinataires
 
@@ -76,6 +82,8 @@ La case **« Recevoir une copie du rappel (aperçu) »** vous adresse le même c
 ## 6. Envoyer
 
 Cliquez sur **« Envoyer les relances »**.
+
+![La fenêtre Relance convention, ses deux destinataires cochés par défaut et la case de copie décochée](../../assets/mini-stages/lycees-relancer-les-conventions-qui-tardent/4-choisir-les-destinataires.png)
 
 ---
 
