@@ -11,13 +11,13 @@ intercom_us_updated_at: 1770302960
 
 Savoir par quelles étapes passe un mini-stage, et à laquelle vous devez agir.
 
-Cet article est un **article de référence**. Il s'adresse à **toutes les parties** — le lycée d'accueil, l'établissement d'origine et la famille — parce qu'aucune ne voit le parcours en entier depuis son écran.
+Cet article est un **article de référence**. Il s'adresse à **toutes les parties** (le lycée d'accueil, l'établissement d'origine et la famille) parce qu'aucune ne voit le parcours en entier depuis son écran.
 
 ---
 
 ## 1. Le lycée crée l'offre
 
-Le lycée d'accueil renseigne les **dates et horaires**, la **filière**, la **salle**, jusqu'à **trois professeurs encadrants** — le premier est obligatoire —, la **capacité d'accueil** et la **description** du programme.
+Le lycée d'accueil renseigne les **dates et horaires**, la **filière**, la **salle**, jusqu'à **trois professeurs encadrants** (le premier est obligatoire), la **capacité d'accueil** et la **description** du programme.
 
 > **La capacité se règle sur l'offre**, et nulle part ailleurs. Une filière n'a pas de capacité.
 
@@ -27,18 +27,18 @@ L'offre naît **« Prête à publier »** : elle n'est visible de personne.
 
 D'un clic sur **« Publier l'offre »**, elle devient **« Visible »** et apparaît dans **« Toutes les offres »**.
 
-> **Une offre pleine disparaît de la recherche par défaut.** Son état passe à **« Pleine »**, et elle ne ressort que si le chercheur règle le filtre **« Disponibilité »** sur **« Toutes les offres »**. C'est voulu — mais c'est aussi la première cause d'un « je ne trouve pas l'offre dont on m'a parlé ».
+> **Une offre pleine disparaît de la recherche par défaut.** Son état passe à **« Pleine »**, et elle ne ressort que si le chercheur règle le filtre **« Disponibilité »** sur **« Toutes les offres »**. C'est voulu, mais c'est aussi la première cause d'un « je ne trouve pas l'offre dont on m'a parlé ».
 
 ## 3. Un élève est inscrit
 
 Deux chemins, selon le réglage du lycée d'accueil :
 
-- **Inscription directe** — l'élève est inscrit tout de suite.
-- **Préinscription** — la demande part en attente de décision.
+- **Inscription directe** : l'élève est inscrit tout de suite.
+- **Préinscription** : la demande part en attente de décision.
 
 L'inscription est faite par **l'établissement d'origine** de l'élève, ou par **sa famille** lorsque le lycée d'accueil l'autorise.
 
-## 4. La préinscription est validée — par les deux établissements
+## 4. La préinscription est validée, par les deux établissements
 
 Une préinscription n'est définitive que quand **l'établissement d'origine et le lycée d'accueil** l'ont tous deux acceptée.
 
@@ -48,7 +48,7 @@ Une préinscription n'est définitive que quand **l'établissement d'origine et 
 
 Dès que l'inscription est définitive, une **convention** est générée, pré-remplie.
 
-Selon le réglage du lycée d'accueil, elle part **sur papier** — téléchargée, signée à la main, redéposée — ou **en signature en ligne**. Le circuit papier est celui de la grande majorité des établissements.
+Selon le réglage du lycée d'accueil, elle part **sur papier** (téléchargée, signée à la main, redéposée) ou **en signature en ligne**. Le circuit papier est celui de la grande majorité des établissements.
 
 > **Une convention en ligne peut repasser au papier toute seule**, quand l'établissement d'origine de l'élève n'a déclaré aucun signataire : il n'y a alors personne à inviter à signer. L'historique de la convention porte la mention **« Collège d'origine sans signataire déclaré »**.
 
@@ -62,7 +62,7 @@ Le lycée d'accueil **pointe la présence** de chaque élève : **« Présent »
 
 ## 7. Le compte rendu
 
-Après le mini-stage, **l'établissement d'accueil rédige le compte rendu** — en pratique, le professeur encadrant. Deux champs : **« Votre appréciation »** et **« Votre commentaire »**.
+Après le mini-stage, **l'établissement d'accueil rédige le compte rendu** : en pratique, le professeur encadrant. Deux champs : **« Votre appréciation »** et **« Votre commentaire »**.
 
 > **La famille ne rédige pas le compte rendu, elle le lit.** Sa rubrique **« Comptes-rendus »** est en lecture seule, et tant que rien n'a été écrit elle affiche : *« L'établissement d'accueil n'a pas encore rédigé le compte-rendu de ce mini-stage. »*
 
@@ -90,8 +90,8 @@ Le dossier passe alors à **« Terminés »**.
 
 Un dossier ne va pas toujours au bout :
 
-- **Refusé** — une préinscription rejetée par l'un des deux établissements, ou une convention refusée ;
-- **Désinscrit** — l'élève ne fera pas ce mini-stage.
+- **Refusé** : une préinscription rejetée par l'un des deux établissements, ou une convention refusée ;
+- **Désinscrit** : l'élève ne fera pas ce mini-stage.
 
 Les deux rangent le dossier dans l'onglet **« Sans suite »**.
 

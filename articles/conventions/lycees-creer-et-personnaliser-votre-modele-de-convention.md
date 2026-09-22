@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302962
 
 Faire générer vos conventions à partir de **votre** document plutôt que du modèle officiel Bacastages.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -38,9 +38,9 @@ C'est là que vivent vos modèles. La liste affiche ceux que vous avez déjà, a
 
 Trois voies vous sont proposées, d'égale importance :
 
-- **Importer un fichier PDF** — téléversez votre propre convention, puis placez les champs par-dessus ;
-- **Partir de la convention officielle** — dupliquez le modèle officiel Bacastages, puis adaptez-le ;
-- **Choisir dans la bibliothèque** — réutilisez une convention partagée par un autre établissement.
+- **Importer un fichier PDF** : téléversez votre propre convention, puis placez les champs par-dessus ;
+- **Partir de la convention officielle** : dupliquez le modèle officiel Bacastages, puis adaptez-le ;
+- **Choisir dans la bibliothèque** : réutilisez une convention partagée par un autre établissement.
 
 > **Chaque voie produit une copie indépendante.** Modifier votre modèle ne touche à rien d'autre. Et si la convention officielle est révisée plus tard, la ligne de votre modèle vous le signalera et vous proposera la comparaison.
 
@@ -54,7 +54,7 @@ L'éditeur s'appelle **« Créer une convention »**, ou **« Modifier une conve
 
 Étape **Configuration** : renseignez **« Nom du modèle de convention »**.
 
-> Donnez un nom qui parle à vos collègues — « Convention BTS 2026-2027 » plutôt que « Convention 2 ». C'est ce nom que vous choisirez en affectant le modèle à une filière.
+> Donnez un nom qui parle à vos collègues : « Convention BTS 2026-2027 » plutôt que « Convention 2 ». C'est ce nom que vous choisirez en affectant le modèle à une filière.
 
 ## 6. Choisir le fichier PDF
 
@@ -68,18 +68,18 @@ Cliquez sur **« Suivant »**.
 
 Étape **Personnalisation**. La colonne **« Champs disponibles »** range les champs en six familles :
 
-- **Votre établissement** — vos coordonnées, votre logo, la signature du / de la proviseur(e)
-- **Établissement de l'élève** — les coordonnées de l'établissement d'origine
-- **Mini-stage** — l'élève, sa classe, ses dates, son responsable légal
+- **Votre établissement** : vos coordonnées, votre logo, la signature du / de la proviseur(e)
+- **Établissement de l'élève** : les coordonnées de l'établissement d'origine
+- **Mini-stage** : l'élève, sa classe, ses dates, son responsable légal
 - **Offre de mini-stage**
-- **Signatures** — les emplacements réservés à chaque partie
+- **Signatures** : les emplacements réservés à chaque partie
 - **Texte personnalisé**
 
 **Glissez** un champ depuis cette colonne jusqu'à sa place sur le document.
 
 ## 9. Ajuster chaque champ
 
-Redimensionnez-le avec la **poignée circulaire**. Les champs bleus — le texte personnalisé — s'éditent par un **double-clic**.
+Redimensionnez-le avec la **poignée circulaire**. Les champs bleus (le texte personnalisé) s'éditent par un **double-clic**.
 
 > **La légende des couleurs** distingue quatre natures de champ :
 > 🔴 **rouge**, les données remplies automatiquement ·
@@ -93,13 +93,13 @@ Ouvrez la famille **« Signatures »** et placez la case de chaque partie à l'e
 
 > **Une zone de signature n'imprime rien** : c'est une réservation. Sans elle, Bacastages ne sait pas où poser les signatures.
 >
-> **Ce n'est obligatoire que si vous signez en ligne.** Un modèle sans zone de signature s'enregistre très bien et sert aux conventions papier — mais la signature électronique ne pourra pas partir dessus. L'éditeur vous en avertit avant que vous enregistriez.
+> **Ce n'est obligatoire que si vous signez en ligne.** Un modèle sans zone de signature s'enregistre très bien et sert aux conventions papier, mais la signature électronique ne pourra pas partir dessus. L'éditeur vous en avertit avant que vous enregistriez.
 
 > La case **Signature de la famille** vaut pour le responsable légal **et** pour l'élève majeur : les deux signent au même endroit.
 
 ## 11. Enregistrer
 
-Passez à l'étape **Finalisation**, qui récapitule le nom, le nombre de pages et le nombre de champs, puis cliquez sur **« Créer le modèle »** — ou **« Mettre à jour »** si vous repreniez un modèle existant.
+Passez à l'étape **Finalisation**, qui récapitule le nom, le nombre de pages et le nombre de champs, puis cliquez sur **« Créer le modèle »**, ou **« Mettre à jour »** si vous repreniez un modèle existant.
 
 ---
 

@@ -11,7 +11,7 @@ intercom_us_updated_at: 1768299865
 
 Faire l'appel et rédiger vos comptes rendus **sans créer de compte Bacastages**.
 
-Cet article s'adresse aux **professeurs qui n'ont pas de compte** — et qui n'en ont pas besoin.
+Cet article s'adresse aux **professeurs qui n'ont pas de compte**, et qui n'en ont pas besoin.
 
 ## Ce qu'il vous faut
 
@@ -22,7 +22,7 @@ Cet article s'adresse aux **professeurs qui n'ont pas de compte** — et qui n'e
 
 ---
 
-## Deux liens différents — sachez lequel vous avez
+## Deux liens différents : sachez lequel vous avez
 
 | Le lien | Ce qu'il ouvre | Quand vous le recevez |
 |---|---|---|
@@ -53,11 +53,11 @@ Deux boutons, **« Absent »** et **« Présent »**. Un clic suffit : rien n'es
 
 ## 5. Ouvrir son compte rendu
 
-Cliquez sur **« Rédiger le compte rendu »** — ou **« Voir / modifier le compte rendu »** s'il en existe déjà un.
+Cliquez sur **« Rédiger le compte rendu »**, ou **« Voir / modifier le compte rendu »** s'il en existe déjà un.
 
 ## 6. Remplir le compte rendu
 
-Le formulaire est le même que pour un professeur connecté : une **appréciation générale** obligatoire, un champ **« Votre appréciation »**, et — si votre établissement utilise le compte rendu détaillé — la **ponctualité** et **neuf critères** en trois familles.
+Le formulaire est le même que pour un professeur connecté : une **appréciation générale** obligatoire, un champ **« Votre appréciation »**, et, si votre établissement utilise le compte rendu détaillé, la **ponctualité** et **neuf critères** en trois familles.
 
 Le détail est dans l'article **« Rédiger le compte rendu d'un élève »**.
 
@@ -77,7 +77,7 @@ Quand vous rouvrez un compte rendu que vous avez déjà commenté, l'écran vous
 
 Ce message signifie que votre établissement vous a envoyé un **nouveau** lien : l'envoi d'un lien d'accès invalide tous les précédents.
 
-**Cherchez le message le plus récent de Bacastages dans votre boîte** — c'est celui-là qui fonctionne. Si vous ne le retrouvez pas, demandez à votre établissement de vous le renvoyer.
+**Cherchez le message le plus récent de Bacastages dans votre boîte** : c'est celui-là qui fonctionne. Si vous ne le retrouvez pas, demandez à votre établissement de vous le renvoyer.
 
 > Votre établissement peut aussi **révoquer** l'accès par lien. Dans ce cas, aucun lien ne fonctionne plus tant qu'il ne vous en envoie pas un nouveau.
 

@@ -28,7 +28,7 @@ Cliquez sur **« Établissement »** dans la barre de gauche.
 
 ## 2. Ouvrir la carte « Gestion des comptes »
 
-L'écran s'intitule **« Gestion des comptes »** — *« Les accès à Bacastages : rôles, blocages et demandes de rattachement. »*
+L'écran s'intitule **« Gestion des comptes »** : *« Les accès à Bacastages : rôles, blocages et demandes de rattachement. »*
 
 Il compte jusqu'à quatre onglets : **Utilisateurs**, **Demandes de rattachement**, **Demandes de rôle**, **Demandes d'école**. Une pastille rouge signale ce qui attend une décision.
 
@@ -54,7 +54,7 @@ Le bouton se trouve en haut à droite.
 
 ## 6. Choisir le rôle
 
-Quatre rôles vous sont proposés — voir ci-dessous.
+Quatre rôles vous sont proposés : voir ci-dessous.
 
 ## 7. Créer le compte
 
@@ -72,7 +72,7 @@ Cliquez sur **« Créer l'utilisateur »**.
 | **Vie scolaire - Accueil** | Consulte les dossiers **et pointe les présences** |
 | **Compte Inscriptions** | Inscrit des élèves dans les mini-stages d'autres établissements |
 
-> **« Vie scolaire - Accueil » n'est pas un rôle en lecture seule.** Il pointe les présences — c'est sa raison d'être : la personne qui accueille les élèves à la grille est celle qui sait qui est arrivé.
+> **« Vie scolaire - Accueil » n'est pas un rôle en lecture seule.** Il pointe les présences : c'est sa raison d'être : la personne qui accueille les élèves à la grille est celle qui sait qui est arrivé.
 
 > **Vous ne pouvez pas créer d'administrateur.** La fenêtre de création n'en propose pas : seuls professeur, DDF, Vie scolaire et Compte Inscriptions y figurent. Pour un second administrateur, écrivez au support.
 
@@ -90,9 +90,9 @@ Sur la ligne de la personne, le bouton **« Bloquer »** suspend son accès. Il 
 
 Trois onglets, trois files :
 
-- **Demandes de rattachement** — une personne a demandé à rejoindre votre établissement. Son compte existe déjà, elle attend votre accord.
-- **Demandes de rôle** — un utilisateur de votre établissement demande à changer de rôle.
-- **Demandes d'école** — les demandes liées à l'établissement lui-même.
+- **Demandes de rattachement** : une personne a demandé à rejoindre votre établissement. Son compte existe déjà, elle attend votre accord.
+- **Demandes de rôle** : un utilisateur de votre établissement demande à changer de rôle.
+- **Demandes d'école** : les demandes liées à l'établissement lui-même.
 
 > La pastille rouge de chaque onglet compte ce qui reste à trancher. L'entrée **« Établissement »** de la barre de gauche en porte une aussi : c'est souvent par là que vous apprendrez qu'une demande est arrivée.
 

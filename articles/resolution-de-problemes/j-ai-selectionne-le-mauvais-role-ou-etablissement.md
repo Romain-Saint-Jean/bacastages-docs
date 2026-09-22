@@ -26,8 +26,8 @@ Les deux erreurs ne se corrigent pas de la même façon.
 
 | Ce qui est faux | Qui corrige | Combien de temps |
 |---|---|---|
-| **L'établissement** — vous êtes rattaché au mauvais | **Vous**, depuis votre profil | Immédiat, ou après validation d'un administrateur |
-| **Le rôle** — vous n'avez pas la bonne fonction | Le **support Bacastages** | 24 à 48 heures ouvrées |
+| **L'établissement** : vous êtes rattaché au mauvais | **Vous**, depuis votre profil | Immédiat, ou après validation d'un administrateur |
+| **Le rôle** : vous n'avez pas la bonne fonction | Le **support Bacastages** | 24 à 48 heures ouvrées |
 
 ---
 
@@ -35,11 +35,11 @@ Les deux erreurs ne se corrigent pas de la même façon.
 
 Pour savoir si votre rôle est le bon, voici ce que propose réellement l'écran **« Étape 1 sur 3 · Votre profil »** :
 
-- **Une famille** — préinscrire son enfant et suivre son parcours
-- **Compte Inscription** — *Collège, Lycée, CIO, 3 PM, etc.* : inscrire un élève ou valider une préinscription
-- **Lycée** — gérer les offres et suivre les mini-stages de son lycée
-- **Autre structure** — gérer une structure éducative et ses mini-stages
-- **Élève** — marqué **« Bientôt »** : ce profil ne se crée pas encore
+- **Une famille** : préinscrire son enfant et suivre son parcours
+- **Compte Inscription** : *Collège, Lycée, CIO, 3 PM, etc.* : inscrire un élève ou valider une préinscription
+- **Lycée** : gérer les offres et suivre les mini-stages de son lycée
+- **Autre structure** : gérer une structure éducative et ses mini-stages
+- **Élève** : marqué **« Bientôt »** : ce profil ne se crée pas encore
 
 > **Le choix « Lycée » ouvre un second écran**, intitulé **« Votre rôle au lycée »**, avec trois fonctions : **Professeur encadrant**, **Vie scolaire – Accueil**, et **DDF, ATDDF, BDE, Personnel de direction**.
 
@@ -51,7 +51,7 @@ Pour savoir si votre rôle est le bon, voici ce que propose réellement l'écran
 
 ## 1. Ouvrir votre compte
 
-Cliquez sur **« Mon compte »** dans la navigation — en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
+Cliquez sur **« Mon compte »** dans la navigation, en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
 
 ## 2. Ouvrir l'onglet « Établissements »
 

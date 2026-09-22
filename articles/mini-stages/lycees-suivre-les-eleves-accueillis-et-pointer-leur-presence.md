@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302953
 
 Savoir qui vous accueillez, et pointer la présence de chaque élève le jour venu.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
 
 ## Ce qu'il vous faut
 
@@ -38,19 +38,19 @@ Cliquez sur **« Suivi »** dans la barre de gauche.
 
 Réglez le sens sur **« Stages chez nous »** pour ne voir que les élèves que vous accueillez.
 
-> Le même écran montre aussi vos propres élèves partis ailleurs — c'est le sens **« Stage ailleurs »**. **« Les deux sens »** affiche tout, et chaque ligne dit alors de quel côté elle est.
+> Le même écran montre aussi vos propres élèves partis ailleurs : c'est le sens **« Stage ailleurs »**. **« Les deux sens »** affiche tout, et chaque ligne dit alors de quel côté elle est.
 
 ## 3. Choisir l'onglet qui correspond à votre besoin
 
 Cinq onglets, rangés comme une boîte de réception :
 
-- **À traiter** — ce qui attend un geste de votre part *(onglet par défaut)*
-- **En attente** — ce qui avance sans vous
-- **Terminés** — les dossiers clos
-- **Sans suite** — refus et désinscriptions
+- **À traiter** : ce qui attend un geste de votre part *(onglet par défaut)*
+- **En attente** : ce qui avance sans vous
+- **Terminés** : les dossiers clos
+- **Sans suite** : refus et désinscriptions
 - **Toutes**
 
-> **Ce n'est pas une frise.** Un même dossier passe par « À traiter » plusieurs fois — décider, signer, pointer — et repasse par « En attente » entre chaque. Le dernier passage arrive tout seul, le jour du stage, sans que personne ait cliqué.
+> **Ce n'est pas une frise.** Un même dossier passe par « À traiter » plusieurs fois (décider, signer, pointer) et repasse par « En attente » entre chaque. Le dernier passage arrive tout seul, le jour du stage, sans que personne ait cliqué.
 
 ## 4. Vérifier l'année scolaire
 
@@ -58,7 +58,7 @@ Le sélecteur **« Année scolaire »**, en haut de l'écran, borne la liste à 
 
 > **C'est la cause n°1 d'une liste vide à la rentrée.** En septembre, les dossiers de l'année précédente ne s'affichent plus tant que vous n'avez pas changé d'année.
 >
-> Si vous cherchez un élève par son nom et qu'il ne sort pas, un lien apparaît sous la liste — **« N dossiers dans une autre année »** — avec les années concernées : un clic vous y emmène.
+> Si vous cherchez un élève par son nom et qu'il ne sort pas, un lien apparaît sous la liste, **« N dossiers dans une autre année »**, avec les années concernées : un clic vous y emmène.
 
 ## 5. Pointer la présence
 
@@ -77,7 +77,7 @@ Cliquez sur la ligne de l'élève : un tiroir s'ouvre à droite, avec la frise *
 ## Retrouver un élève précis
 
 - **Le champ de recherche** filtre sur le nom.
-- **La colonne « Étape »** se trie **dans l'ordre du circuit** — et non par ordre alphabétique : c'est le moyen de remettre les dossiers dans leur fil.
+- **La colonne « Étape »** se trie **dans l'ordre du circuit**, et non par ordre alphabétique : c'est le moyen de remettre les dossiers dans leur fil.
 - **Le bouton d'affichage** bascule entre **Tableau** et **Cartes**.
 
 ---

@@ -23,7 +23,7 @@ Cet article s'adresse à **tous ceux qui doivent désigner un établissement** :
 
 Trois causes, dans l'ordre de fréquence :
 
-- le nom saisi **ne correspond pas** au nom officiel enregistré — abréviation, accent, tiret, ou « Lycée » omis ;
+- le nom saisi **ne correspond pas** au nom officiel enregistré : abréviation, accent, tiret, ou « Lycée » omis ;
 - l'établissement est enregistré sous un **nom officiel** que personne n'emploie au quotidien ;
 - l'établissement **n'existe pas encore** dans Bacastages.
 
@@ -33,7 +33,7 @@ Trois causes, dans l'ordre de fréquence :
 
 Saisissez le **code UAI** de l'établissement dans le champ de recherche.
 
-Un code UAI compte **sept chiffres suivis d'une lettre** — par exemple `0750001A`.
+Un code UAI compte **sept chiffres suivis d'une lettre**, par exemple `0750001A`.
 
 > **C'est la méthode la plus sûre.** La recherche reconnaît un code UAI et va chercher l'établissement exact, sans passer par son nom. Un établissement enregistré ressort toujours par son UAI.
 

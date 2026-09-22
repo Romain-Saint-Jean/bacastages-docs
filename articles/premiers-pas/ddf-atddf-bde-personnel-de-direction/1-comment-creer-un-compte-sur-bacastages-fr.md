@@ -81,7 +81,7 @@ Le lien vous ramène sur Bacastages. Cliquez sur **« Confirmer mon email »**.
 
 ## Et ensuite ?
 
-Votre compte est actif. La mise en place de votre établissement se fait en six étapes : voir *2. Configuration de votre établissement — Partie 1*.
+Votre compte est actif. La mise en place de votre établissement se fait en six étapes : voir *2. Configuration de votre établissement - Partie 1*.
 
 ---
 

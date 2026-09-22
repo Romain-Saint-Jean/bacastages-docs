@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302958
 
 Relancer les familles et les établissements d'origine qui n'ont pas encore déposé la convention signée.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -54,7 +54,7 @@ Une case à cocher apparaît en tête de chaque ligne concernée.
 
 ## 3. Ouvrir la fenêtre de relance
 
-Une barre apparaît au-dessus de la liste — **« N dossiers sélectionnés »**. Cliquez sur **« Relance convention (N) »**.
+Une barre apparaît au-dessus de la liste : **« N dossiers sélectionnés »**. Cliquez sur **« Relance convention (N) »**.
 
 ## 4. Choisir les destinataires
 

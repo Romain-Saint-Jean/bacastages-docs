@@ -1,6 +1,6 @@
 ---
 title: "1. Créer un compte professeur sur Bacastages"
-description: "Créer un compte professeur — après avoir vérifié que vous en avez besoin, car un lien d'accès permet aussi de travailler sans compte."
+description: "Créer un compte professeur, après avoir vérifié que vous en avez besoin, car un lien d'accès permet aussi de travailler sans compte."
 state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13375437"
@@ -13,11 +13,11 @@ Créer votre compte professeur sur Bacastages.
 
 ## Avant de commencer : en avez-vous besoin ?
 
-**Un professeur n'a pas obligatoirement de compte Bacastages.** Votre établissement peut vous envoyer un **lien d'accès personnel** qui vous ouvre vos mini-stages de l'année — appel et comptes rendus compris — **sans mot de passe et sans inscription**.
+**Un professeur n'a pas obligatoirement de compte Bacastages.** Votre établissement peut vous envoyer un **lien d'accès personnel** qui vous ouvre vos mini-stages de l'année (appel et comptes rendus compris) **sans mot de passe et sans inscription**.
 
 | Vous voulez | Ce qu'il vous faut |
 |---|---|
-| Faire l'appel et rédiger vos comptes rendus | **Rien à créer.** Demandez le lien d'accès à votre établissement — voyez **« Guide : gérer les mini-stages sans compte professeur »** |
+| Faire l'appel et rédiger vos comptes rendus | **Rien à créer.** Demandez le lien d'accès à votre établissement : voyez **« Guide : gérer les mini-stages sans compte professeur »** |
 | Consulter le calendrier, retrouver vos anciens mini-stages, gérer vos accès | **Un compte**, décrit ci-dessous |
 
 > **Si vous avez déjà reçu un lien par e-mail, vous n'avez rien à faire ici.** Ce lien suffit.
@@ -44,7 +44,7 @@ L'écran **« Étape 1 sur 3 · Votre profil »** propose plusieurs cartes. Choi
 
 ## 3. Choisir « Professeur encadrant »
 
-L'écran suivant, **« Votre rôle au lycée »**, propose trois fonctions. Sélectionnez **« Professeur encadrant »** — *« Remplir vos comptes-rendus, suivre les informations relatives à vos mini-stages en attente. »*
+L'écran suivant, **« Votre rôle au lycée »**, propose trois fonctions. Sélectionnez **« Professeur encadrant »** : *« Remplir vos comptes-rendus, suivre les informations relatives à vos mini-stages en attente. »*
 
 ## 4. Continuer
 
@@ -92,7 +92,7 @@ Votre adresse est confirmée et vous pouvez vous connecter.
 
 Connectez-vous : l'entrée **« Mini-stages prof »** de la navigation vous donne accès à vos élèves.
 
-> **Votre compte n'est pas votre fiche professeur.** Ce sont deux choses distinctes : votre établissement tient une fiche à votre nom, sur laquelle il vous affecte des mini-stages. Il peut la **relier** à votre compte — c'est ce qui fait apparaître vos mini-stages dans « Mini-stages prof ». Si vous ne voyez rien après connexion, demandez-lui de faire ce lien.
+> **Votre compte n'est pas votre fiche professeur.** Ce sont deux choses distinctes : votre établissement tient une fiche à votre nom, sur laquelle il vous affecte des mini-stages. Il peut la **relier** à votre compte : c'est ce qui fait apparaître vos mini-stages dans « Mini-stages prof ». Si vous ne voyez rien après connexion, demandez-lui de faire ce lien.
 
 ---
 

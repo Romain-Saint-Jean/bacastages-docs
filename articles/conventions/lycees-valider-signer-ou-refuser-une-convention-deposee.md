@@ -1,6 +1,6 @@
 ---
 title: "Lycées : valider, signer ou refuser une convention déposée"
-description: "Retrouver une convention déposée dans le Suivi, la vérifier, puis la valider, la signer ou la refuser — quel que soit le déposant."
+description: "Retrouver une convention déposée dans le Suivi, la vérifier, puis la valider, la signer ou la refuser, quel que soit le déposant."
 state: published
 collections: [conventions]
 intercom_us_id: "13673767"
@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770653925
 
 Traiter une convention signée qui vient d'être déposée sur un dossier de votre lycée : la retrouver, la relire, puis la valider, la signer ou la refuser.
 
-Cet article s'adresse au **lycée d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse au **lycée d'accueil** : administrateur d'établissement ou DDF.
 
 > **Peu importe qui a déposé.** Famille, élève majeur, collège d'origine : le geste du lycée est le même, et cet article le couvre dans les trois cas.
 
@@ -40,19 +40,19 @@ Réglez le sens sur **« Stages chez nous »**.
 
 C'est l'onglet ouvert par défaut : il rassemble tout ce qui attend un geste de votre part, dont les conventions déposées.
 
-> Un même dossier passe par « À traiter » plusieurs fois — décider, signer, pointer — et repasse par « En attente » entre chaque. Ce n'est pas une frise : c'est une boîte de réception.
+> Un même dossier passe par « À traiter » plusieurs fois (décider, signer, pointer) et repasse par « En attente » entre chaque. Ce n'est pas une frise : c'est une boîte de réception.
 
 ## 4. Cliquer sur « Examiner »
 
 Sur la ligne de l'élève, le bouton **« Examiner »** ouvre le dossier **directement sur le bloc « Gestion de la convention »**.
 
-> **Le bouton ne s'appelle pas « Signer »** : à cette étape vous avez trois réponses possibles — signer électroniquement, valider sans signature, refuser — et le choix se fait devant le document.
+> **Le bouton ne s'appelle pas « Signer »** : à cette étape vous avez trois réponses possibles (signer électroniquement, valider sans signature, refuser) et le choix se fait devant le document.
 
 ## 5. Lire la convention
 
 Elle s'affiche à gauche, les actions possibles à droite.
 
-> Le lien **« Ouvrir en pleine page »**, en haut du tiroir, affiche le même dossier sur toute la largeur — plus confortable pour relire un PDF.
+> Le lien **« Ouvrir en pleine page »**, en haut du tiroir, affiche le même dossier sur toute la largeur : plus confortable pour relire un PDF.
 
 ---
 
@@ -62,11 +62,11 @@ Vérifiez sur le document :
 
 - que **toutes les signatures attendues** sont présentes ;
 - que les informations de l'élève et des deux établissements sont exactes ;
-- que le document est **lisible** de bout en bout — une photo floue se refuse.
+- que le document est **lisible** de bout en bout : une photo floue se refuse.
 
 ---
 
-## Cas 1 — La convention est déjà présignée par votre lycée
+## Cas 1 · La convention est déjà présignée par votre lycée
 
 La pastille affiche **« En attente de validation »**, et un bandeau indique **« Convention présignée par le lycée »**.
 
@@ -82,7 +82,7 @@ La convention passe **Validée**.
 
 ---
 
-## Cas 2 — La convention n'est pas présignée
+## Cas 2 · La convention n'est pas présignée
 
 Deux chemins, selon que votre établissement a déposé une **griffe** ou non.
 
@@ -112,7 +112,7 @@ Le bouton principal s'appelle **« Valider »**. La fenêtre de confirmation vou
 
 ### Valider sans signer
 
-Si vous ne voulez apposer aucune signature — parce qu'elle figure déjà sur le document papier, par exemple :
+Si vous ne voulez apposer aucune signature, parce qu'elle figure déjà sur le document papier, par exemple :
 
 **1.** Cliquez sur **« Plus d'actions »**.
 
@@ -120,7 +120,7 @@ Si vous ne voulez apposer aucune signature — parce qu'elle figure déjà sur l
 
 ---
 
-## Cas 3 — La convention n'est pas conforme
+## Cas 3 · La convention n'est pas conforme
 
 ## 1. Cliquer sur « Refuser »
 
@@ -136,7 +136,7 @@ La convention passe **Refusée**. Le déposant est prévenu par e-mail, avec vot
 
 ---
 
-## Cas particulier — la convention est présignée mais aucune signature n'apparaît
+## Cas particulier · la convention est présignée mais aucune signature n'apparaît
 
 **1.** Cliquez sur **« Plus d'actions »**.
 

@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302968
 
 Tenir la liste des professeurs de votre établissement, et leur donner accès à leurs mini-stages.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -28,7 +28,7 @@ C'est la distinction qui commande tout le reste.
 |---|---|---|
 | À quoi ça sert | Recevoir ses e-mails de mini-stage, émarger, remplir ses comptes rendus | Se connecter à Bacastages |
 | Qui la crée | Vous | La personne, ou vous |
-| Est-ce obligatoire ? | **Oui** — sans fiche, on ne peut pas encadrer | **Non** |
+| Est-ce obligatoire ? | **Oui** : sans fiche, on ne peut pas encadrer | **Non** |
 
 L'écran le résume : *« Une fiche par personne de l'équipe : elle reçoit ses e-mails de mini-stage, émarge et remplit ses comptes rendus par le lien reçu, sans compte ni mot de passe. »*
 
@@ -48,7 +48,7 @@ Vous arrivez sur **« Mes professeur(e)s »**.
 
 Quatre champs : **Nom**, **Prénom**, **Civilité** (M. / Mme. / Mx.) et **Email**.
 
-> **Il n'y a pas de champ « matières enseignées ».** Ce que vous pouvez rattacher, ce sont des **filières** — et cette association ne sert qu'à retrouver la personne plus vite au moment de créer une offre.
+> **Il n'y a pas de champ « matières enseignées ».** Ce que vous pouvez rattacher, ce sont des **filières**, et cette association ne sert qu'à retrouver la personne plus vite au moment de créer une offre.
 
 ## 5. Enregistrer
 
@@ -56,7 +56,7 @@ Quatre champs : **Nom**, **Prénom**, **Civilité** (M. / Mme. / Mx.) et **Email
 
 ## Donner accès à Bacastages : deux chemins
 
-### Le lien d'accès — le plus simple
+### Le lien d'accès · le plus simple
 
 Ouvrez la fiche du professeur : la carte **« Accès sans compte »** porte le bouton **« Envoyer le lien »**.
 
@@ -64,9 +64,9 @@ Ouvrez la fiche du professeur : la carte **« Accès sans compte »** porte le b
 
 > **Rien à créer, rien à retenir.** C'est l'option à privilégier pour un professeur qui n'encadre que quelques mini-stages dans l'année.
 >
-> **Renvoyer un lien invalide les précédents** — y compris celui que la personne utilise peut-être. **« Révoquer l'accès »** les coupe tous, sans en envoyer de nouveau ; le compte de la personne, s'il en existe un, n'est pas touché.
+> **Renvoyer un lien invalide les précédents**, y compris celui que la personne utilise peut-être. **« Révoquer l'accès »** les coupe tous, sans en envoyer de nouveau ; le compte de la personne, s'il en existe un, n'est pas touché.
 
-### Le compte utilisateur — pour aller plus loin
+### Le compte utilisateur · pour aller plus loin
 
 Un professeur qui a créé son compte Bacastages accède en plus au calendrier de l'établissement et à l'historique de ses mini-stages. Encore faut-il **relier son compte à sa fiche** : voyez l'article **« Lycées : relier une fiche professeur à un compte utilisateur »**.
 
@@ -83,7 +83,7 @@ Le bouton **« Importer »** de « Mes professeur(e)s » permet de créer les fi
 La barre de filtres range votre équipe par état d'accès :
 
 - **Tous**
-- **Compte actif** — *« a un compte et s'y est déjà connectée »*
+- **Compte actif** : *« a un compte et s'y est déjà connectée »*
 - **Jamais connecté**
 - **Accès par lien**
 - **Pas de compte**
@@ -101,7 +101,7 @@ La barre de filtres range votre équipe par état d'accès :
 
 **L'écran ne fait pas toujours la même chose, et il vous le dit avant :**
 
-- **La fiche n'a jamais servi** — *« aucune offre ni aucun compte rendu ne la mentionne »* : elle est **supprimée**.
+- **La fiche n'a jamais servi** : *« aucune offre ni aucun compte rendu ne la mentionne »* : elle est **supprimée**.
 - **Des offres passées ou des comptes rendus la mentionnent** : elle est **archivée** et *« restera visible dessus. Elle disparaîtra de votre équipe et des listes de sélection. »*
 
 > **C'est voulu, et c'est protecteur.** Supprimer une fiche citée sur un compte rendu laisserait un document signé par personne. L'archivage garde le nom là où il a un sens et l'enlève partout ailleurs.

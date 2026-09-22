@@ -11,7 +11,7 @@ intercom_us_updated_at: 1768957093
 
 Inscrire un élève de votre établissement à un mini-stage proposé par un lycée.
 
-Cet article s'adresse aux **établissements d'origine** — collèges, lycées, CIO et autres structures qui inscrivent des élèves, avec un **Compte Inscription**.
+Cet article s'adresse aux **établissements d'origine** : collèges, lycées, CIO et autres structures qui inscrivent des élèves, avec un **Compte Inscription**.
 
 ## Ce qu'il vous faut
 
@@ -25,7 +25,7 @@ Cet article s'adresse aux **établissements d'origine** — collèges, lycées, 
 
 Cliquez sur **« Toutes les offres »** dans la barre de gauche.
 
-> **L'entrée ne s'appelle pas « Offres de mini-stages ».** C'est **« Toutes les offres »** — à ne pas confondre avec **« Mes offres »**, qui n'existe que pour les lycées qui en publient.
+> **L'entrée ne s'appelle pas « Offres de mini-stages ».** C'est **« Toutes les offres »**, à ne pas confondre avec **« Mes offres »**, qui n'existe que pour les lycées qui en publient.
 
 ## 2. Filtrer la recherche
 
@@ -45,13 +45,13 @@ Le formulaire demande le **nom**, le **prénom**, la **date de naissance** et la
 
 ## 6. Renseigner les contacts
 
-Complétez l'adresse e-mail du responsable légal. Un second champ permet de **notifier une autre personne** de la préinscription — professeur principal, secrétariat.
+Complétez l'adresse e-mail du responsable légal. Un second champ permet de **notifier une autre personne** de la préinscription : professeur principal, secrétariat.
 
 > Selon le lycée d'accueil, l'e-mail du parent peut être **obligatoire**.
 
 ## 7. Joindre les pièces demandées
 
-Certaines offres réclament des documents — autorisation parentale, par exemple. Les pièces **obligatoires** bloquent l'envoi tant qu'elles manquent ; les facultatives peuvent être ajoutées ou non.
+Certaines offres réclament des documents : autorisation parentale, par exemple. Les pièces **obligatoires** bloquent l'envoi tant qu'elles manquent ; les facultatives peuvent être ajoutées ou non.
 
 ## 8. Relire le récapitulatif
 
@@ -65,9 +65,9 @@ Cliquez sur **« Inscrire »**, ou sur **« Préinscrire »** si le lycée d'acc
 
 ## Ce qui se passe ensuite
 
-**Inscription directe** — l'élève est inscrit. Une convention est générée automatiquement, et le dossier apparaît dans votre **« Suivi »**.
+**Inscription directe** : l'élève est inscrit. Une convention est générée automatiquement, et le dossier apparaît dans votre **« Suivi »**.
 
-**Préinscription** — la demande part au lycée d'accueil. Elle doit être validée **par votre établissement et par le sien** avant de devenir définitive. Suivez-la dans votre **« Suivi »**, onglet **« En attente »**.
+**Préinscription** : la demande part au lycée d'accueil. Elle doit être validée **par votre établissement et par le sien** avant de devenir définitive. Suivez-la dans votre **« Suivi »**, onglet **« En attente »**.
 
 ---
 
@@ -77,7 +77,7 @@ Cliquez sur **« Inscrire »**, ou sur **« Préinscrire »** si le lycée d'acc
 
 Par défaut, la recherche n'affiche que les offres où il **reste des places** : le filtre **« Disponibilité »** est réglé sur **« Places disponibles »**.
 
-Pour voir aussi les créneaux complets, passez-le sur **« Toutes les offres »**. Les offres pleines réapparaissent alors — **en fin de liste**, et leur fiche porte un bouton grisé **« Offre complète »**.
+Pour voir aussi les créneaux complets, passez-le sur **« Toutes les offres »**. Les offres pleines réapparaissent alors, **en fin de liste**, et leur fiche porte un bouton grisé **« Offre complète »**.
 
 > Une offre complète reste utile à consulter : elle vous dit qui propose ce type de mini-stage, et d'autres créneaux de la même filière sont peut-être ouverts.
 

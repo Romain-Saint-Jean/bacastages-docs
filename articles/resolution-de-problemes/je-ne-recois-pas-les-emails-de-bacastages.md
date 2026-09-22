@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302987
 
 Recevoir à nouveau les emails de Bacastages : validation de compte, réinitialisation de mot de passe, notifications.
 
-Cet article s'adresse à **tous les utilisateurs** de Bacastages — familles, collèges, lycées, professeurs.
+Cet article s'adresse à **tous les utilisateurs** de Bacastages : familles, collèges, lycées, professeurs.
 
 ## Ce qu'il vous faut
 
@@ -32,7 +32,7 @@ L'adresse **support@bacastages.fr** est celle du support : c'est à elle que vou
 
 ---
 
-## Première partie — débloquer votre messagerie
+## Première partie · débloquer votre messagerie
 
 ## 1. Ouvrir votre dossier de courrier indésirable
 
@@ -62,7 +62,7 @@ Connectez-vous, ouvrez **« Mon compte »** dans la navigation, puis l'onglet **
 
 ---
 
-## Deuxième partie — relancer l'email que vous attendez
+## Deuxième partie · relancer l'email que vous attendez
 
 ### Vous attendez l'email de validation de votre compte
 
@@ -105,5 +105,5 @@ Certaines messageries académiques ou d'entreprise appliquent des filtres que vo
 
 ## Besoin d'aide ?
 
-- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr) — précisez l'adresse concernée et l'email que vous attendez
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr) : précisez l'adresse concernée et l'email que vous attendez
 - **Par le chat :** la bulle en bas à droite de votre écran

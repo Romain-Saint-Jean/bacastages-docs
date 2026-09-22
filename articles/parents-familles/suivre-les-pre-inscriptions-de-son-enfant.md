@@ -32,7 +32,7 @@ Trois statuts, et trois seulement :
 |---|---|
 | **En attente** | Au moins un des deux établissements n'a pas encore répondu |
 | **Validée** | Les **deux** établissements ont accepté |
-| **Refusée** | L'un des deux a refusé — un motif est souvent joint |
+| **Refusée** | L'un des deux a refusé, un motif est souvent joint |
 
 > **« En attente » ne dit pas lequel des deux manque.** Ouvrez le détail de la demande pour voir où elle en est.
 
@@ -46,7 +46,7 @@ Cliquez dessus : vous y trouvez les informations de votre enfant, l'offre concer
 
 Un e-mail part à chaque changement de statut, depuis **team@notif.bacastages.fr**.
 
-> Si vous ne recevez rien, vérifiez votre courrier indésirable — et voyez l'article **« Je ne reçois pas les emails de Bacastages »**.
+> Si vous ne recevez rien, vérifiez votre courrier indésirable, et voyez l'article **« Je ne reçois pas les emails de Bacastages »**.
 
 ---
 
@@ -62,7 +62,7 @@ Vous pouvez ensuite envoyer une demande sur **une autre offre**. Un refus ne vou
 
 ## Si rien ne bouge
 
-Une demande peut rester « En attente » plusieurs jours : deux établissements doivent la voir passer. Au-delà d'une semaine, contactez directement celui de votre enfant — c'est en général le premier à devoir se prononcer.
+Une demande peut rester « En attente » plusieurs jours : deux établissements doivent la voir passer. Au-delà d'une semaine, contactez directement celui de votre enfant : c'est en général le premier à devoir se prononcer.
 
 ---
 

@@ -31,7 +31,7 @@ Le menu **« Domaine »** regroupe les offres par famille de métiers.
 
 ## 4. Filtrer par dates
 
-Le menu **« Dates »** vous laisse choisir une période — celle des vacances de votre enfant, par exemple.
+Le menu **« Dates »** vous laisse choisir une période : celle des vacances de votre enfant, par exemple.
 
 ## 5. Ajuster la disponibilité
 
@@ -45,7 +45,7 @@ Le menu **« Disponibilité »** est réglé sur **« Places disponibles »**.
 
 **Domaine**, **Région**, **Dates**, **Disponibilité**. Il n'existe pas de filtre « Secteur », ni par type d'établissement, ni par demi-journée.
 
-Pour tout le reste — une spécialité précise, un nom d'établissement — utilisez la **recherche par texte**.
+Pour tout le reste (une spécialité précise, un nom d'établissement), utilisez la **recherche par texte**.
 
 ---
 
@@ -56,7 +56,7 @@ Sa fiche annonce, dans l'encadré de droite :
 - le nombre de **places restantes**, ou la mention **« Complet »** ;
 - la **date** ;
 - l'**horaire** ;
-- le **lieu** — l'établissement d'accueil, et la salle quand elle est précisée.
+- le **lieu** : l'établissement d'accueil, et la salle quand elle est précisée.
 
 Le reste de la page présente le programme du mini-stage, la filière concernée et l'établissement qui accueille.
 

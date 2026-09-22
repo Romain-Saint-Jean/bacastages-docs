@@ -23,7 +23,7 @@ Cliquez sur **« Mon compte »** dans la navigation.
 
 ## 2. Ouvrir l'onglet « Établissements »
 
-C'est le quatrième onglet. Il s'intitule **« Mes Établissements »** — *« Vos actions seront automatiquement associées à l'établissement avec lequel vous êtes actif. »*
+C'est le quatrième onglet. Il s'intitule **« Mes Établissements »** : *« Vos actions seront automatiquement associées à l'établissement avec lequel vous êtes actif. »*
 
 Chaque ligne porte le **nom** de l'établissement et sa **ville**. Celui sur lequel vous travaillez affiche **« Actif »**.
 
@@ -74,7 +74,7 @@ La liste s'intitule **« Vos établissements »**. Au-delà d'une poignée d'ent
 
 Sur la ligne de l'établissement concerné, l'icône de corbeille vous en dissocie.
 
-> **On ne peut pas se dissocier de l'établissement actif.** Basculez d'abord sur un autre : l'écran vous le rappelle — *« Veuillez changer d'établissement avant de vous dissocier. »*
+> **On ne peut pas se dissocier de l'établissement actif.** Basculez d'abord sur un autre : l'écran vous le rappelle : *« Veuillez changer d'établissement avant de vous dissocier. »*
 
 ---
 
