@@ -23,6 +23,10 @@ Voir d'un coup d'œil les créneaux de mini-stages de la semaine.
 
 Cliquez sur **« Calendrier »** dans la navigation. La page s'intitule **« Calendrier »** et annonce *« Tous les créneaux de mini-stages de la semaine, par formation. »*
 
+Une colonne de gauche résume la semaine : le nombre de créneaux, les places libres, la répartition par formation, et un filtre **« Disponibilité »**.
+
+![Le calendrier d'un professeur, avec le résumé de la semaine à gauche et la grille horaire](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/consulter-le-calendrier-de-ses-mini-stages/1-ouvrir-le-calendrier.png)
+
 ## 2. Lire la semaine affichée
 
 Le calendrier s'ouvre sur la **semaine en cours**. Les créneaux y sont rangés par formation.
@@ -37,9 +41,11 @@ Les deux flèches de la barre du haut affichent la **semaine précédente** ou l
 
 Le bouton **« Aujourd'hui »**, à gauche de la barre, vous y ramène d'un clic.
 
+![La barre du calendrier, avec les deux flèches de semaine et le bouton Aujourd'hui](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/consulter-le-calendrier-de-ses-mini-stages/2-naviguer-de-semaine-en-semaine.png)
+
 ## 5. Ouvrir le détail d'un créneau
 
-Cliquez sur un créneau : une fenêtre affiche la session, ses dates et sa position dans le mini-stage — **« Jour 2 sur 3 »**, par exemple, pour un mini-stage qui court sur plusieurs jours.
+Cliquez sur un créneau : une fenêtre **« Détails du mini-stage »** affiche la date, les horaires, les professeurs encadrants, les places et la liste des élèves inscrits.
 
 ---
 

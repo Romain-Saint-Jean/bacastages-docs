@@ -26,15 +26,22 @@ const DEMO_PASSWORD = 'Demo-Bacastages-2026';
 const MAX_WIDTH = 1400;
 const HIGHLIGHT = '#F97316';
 
-// Outils de développement qui n'existent pas en production, et animations qui
+// Outils de développement qui n'existent pas en production, et transitions qui
 // figeraient une capture à mi-course.
+//
+// Les **animations**, elles, ne sont plus coupées ici : le produit s'en sert pour
+// *révéler* du contenu. `HomeLanding.module.css` pose `.heroIn { opacity: 0;
+// animation: heroIn … forwards }` — c'est l'animation qui remonte l'opacité à 1, et la
+// tuer figeait le héros de la page d'accueil à `opacity: 0`, soit un aplat bleu de
+// 480 px sans titre ni recherche. Le contexte demande désormais `reducedMotion:
+// 'reduce'`, et le produit applique sa propre règle `prefers-reduced-motion`, qui
+// force `opacity: 1` sur ces blocs. Suivre le produit plutôt que le doubler.
 const HIDDEN_CSS = `
   nextjs-portal,
   .tsqd-open-btn-container,
   .fixed:has(> button[aria-label^="Intercom placeholder"]) { display: none !important; }
   *, *::before, *::after {
     transition: none !important;
-    animation: none !important;
     caret-color: transparent !important;
   }
 `;
@@ -70,6 +77,7 @@ async function browse(article, scenario, { account, onboarding = 'collapsed', he
       deviceScaleFactor: 2,
       locale: 'fr-FR',
       timezoneId: 'Europe/Paris',
+      reducedMotion: 'reduce',
     });
     await context.addInitScript((css) => {
       const inject = () => {
@@ -114,6 +122,45 @@ async function collapseOnboarding(page) {
   await close.click({ timeout: 5_000 }).catch(() => {});
 }
 
+/**
+ * Déplie et épingle la barre de navigation de gauche.
+ *
+ * Les comptes d'établissement ont une barre latérale repliée sur ses icônes : une
+ * capture d'« ouvrir le Suivi » y montre un pictogramme sans nom, alors que l'article
+ * dit « cliquez sur Suivi ». Le produit offre le dépliage par le bouton d'épinglage,
+ * et le lecteur l'obtient aussi en survolant la barre. Les comptes famille, eux, ont
+ * une navigation haute déjà libellée : le bouton n'y existe pas, et l'appel ne fait
+ * rien.
+ */
+/**
+ * Amène la cible au milieu de l'écran.
+ *
+ * `scrollIntoViewIfNeeded` s'arrête dès qu'un pixel de l'élément est visible : une
+ * cible à cheval sur le pli reste à cheval, et la garde de `boxOf` la refuse, à
+ * raison. `block: 'center'` la pose au milieu, avec la place qu'il faut autour pour
+ * son encadré et son numéro.
+ */
+export async function bringIntoView(locator) {
+  await locator.evaluate((el) => el.scrollIntoView({ block: 'center', behavior: 'instant' }));
+}
+
+/** Replie la barre épinglée : une ligne de tableau large tient mieux sans elle. */
+export async function unpinMenu(page) {
+  const unpin = page.getByRole('button', { name: 'Réduire le menu' });
+  if (!(await unpin.count())) return;
+  await unpin.click({ timeout: 5_000 });
+  await page.waitForTimeout(400);
+}
+
+export async function pinMenu(page) {
+  // À appeler une fois l'écran chargé : l'épinglage n'est pas mémorisé d'une
+  // navigation à l'autre, et un appel posé avant le `goto` se perd.
+  const pin = page.getByRole('button', { name: 'Épingler le menu déplié' });
+  if (!(await pin.count())) return;
+  await pin.click({ timeout: 5_000 });
+  await page.waitForTimeout(400);
+}
+
 export async function settle(page) {
   await page.waitForLoadState('networkidle').catch(() => {});
   await page.waitForTimeout(800);
@@ -137,9 +184,30 @@ async function clearHighlights(page) {
   });
 }
 
-async function boxOf(name, locator) {
+// Un encadré se dessine sur le calque de la capture, aux coordonnées de l'écran : une
+// cible sortie du viewport produisait une image sans encadré, sans erreur, et un texte
+// alternatif qui promettait un bouton absent de l'image. Le défaut ne se voyait qu'en
+// ouvrant le fichier. On échoue bruyamment : au scénario de faire défiler, de replier
+// ce qui gêne, ou de relever la hauteur du contexte.
+async function boxOf(name, locator, page) {
   const box = await locator.boundingBox();
   if (!box) throw new Error(`${name} : élément absent ou invisible`);
+
+  const viewport = page.viewportSize();
+  const debord = [
+    box.y < 0 && 'au-dessus du haut',
+    box.x < 0 && 'à gauche du bord',
+    box.y + box.height > viewport.height && 'sous le pli',
+    box.x + box.width > viewport.width && 'à droite du bord',
+  ].filter(Boolean);
+  if (debord.length) {
+    throw new Error(
+      `${name} : la cible déborde du viewport (${debord.join(', ')}).`
+      + ` Boîte ${Math.round(box.x)},${Math.round(box.y)} ${Math.round(box.width)}×${Math.round(box.height)}`
+      + ` pour un écran de ${viewport.width}×${viewport.height}.`
+      + ` Faites défiler jusqu'à elle, ou passez une hauteur plus grande à la session.`
+    );
+  }
   return box;
 }
 
@@ -161,7 +229,7 @@ function capturer(page, article) {
     for (const locator of highlights) await highlight(locator);
 
     const boxes = [];
-    for (const locator of locators) boxes.push(await boxOf(name, locator));
+    for (const locator of locators) boxes.push(await boxOf(name, locator, page));
     const viewport = page.viewportSize();
     const left = Math.max(0, Math.min(...boxes.map((b) => b.x)) - padding);
     const top = Math.max(0, Math.min(...boxes.map((b) => b.y)) - padding);
@@ -182,7 +250,7 @@ function capturer(page, article) {
   // Les encadrés sont dessinés sur l'image, pas dans la page : ils ne décalent rien.
   shoot.screen = async function screen(name, marks, { dim = 0.12 } = {}) {
     const boxes = [];
-    for (const [label, locator] of marks) boxes.push({ label, ...(await boxOf(name, locator)) });
+    for (const [label, locator] of marks) boxes.push({ label, ...(await boxOf(name, locator, page)) });
     const { width, height } = page.viewportSize();
     const obstacles = await visibleContent(page);
     const buffer = await page.screenshot();

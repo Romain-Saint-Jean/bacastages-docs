@@ -9,9 +9,9 @@ intercom_us_updated_at: 1770302954
 ---
 ## Objectif
 
-Modifier une offre de mini-stage, ou la retirer — sans détruire ce qu'il ne faut pas.
+Modifier une offre de mini-stage, ou la retirer, sans détruire ce qu'il ne faut pas.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -25,7 +25,7 @@ Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissem
 | Vous voulez | L'action | Ce qu'elle garde |
 |---|---|---|
 | Corriger une information | **Modifier** | Tout |
-| Retirer l'offre de la recherche, sans rien perdre | **Rendre non-visible** | Tout — l'offre repasse en « Prête à publier » |
+| Retirer l'offre de la recherche, sans rien perdre | **Rendre non-visible** | Tout : l'offre repasse en « Prête à publier » |
 | Annoncer que le mini-stage n'aura pas lieu | **Annuler l'offre** | Les données : *« l'offre sera marquée comme annulée mais les données seront conservées »* |
 | Effacer l'offre et tout ce qui s'y rattache | **Supprimer définitivement** | **Rien.** *« Tous les mini-stages associés seront également supprimés. Cette action est irréversible. »* |
 
@@ -41,9 +41,15 @@ Chaque offre porte son état : **Visible**, **Prête à publier**, **Pleine**, *
 
 > **« Prête à publier » et non « Brouillon »** : l'écran nomme l'action attendue, pas l'état technique.
 
+Les mêmes états servent d'onglets au-dessus de la liste, chacun avec son compteur.
+
+![La liste Mes offres, avec les onglets par état et la colonne Statut](../../assets/mini-stages/lycees-modifier-depublier-annuler-ou-supprimer-une-offre/1-mes-offres.png)
+
 ## 2. Ouvrir l'offre
 
-Cliquez sur sa ligne.
+Cliquez sur sa ligne. Un tiroir s'ouvre à droite, avec le détail de l'offre et ses actions.
+
+![La liste des offres, avec la ligne d'une offre à ouvrir](../../assets/mini-stages/lycees-modifier-depublier-annuler-ou-supprimer-une-offre/2-ouvrir-l-offre.png)
 
 ## 3. Modifier l'offre
 
@@ -52,11 +58,17 @@ Cliquez sur **« Modifier »**. Le formulaire reprend les trois étapes de la cr
 Vous y reprenez notamment :
 
 - les **dates** et les **horaires** d'arrivée et de départ ;
-- la **filière**, la **salle**, et jusqu'à **trois professeurs encadrants** — seul le premier est obligatoire ;
+- la **filière**, la **salle**, et jusqu'à **trois professeurs encadrants**, seul le premier étant obligatoire ;
 - la **capacité d'accueil** de l'offre ;
 - la **description** du programme.
 
 > **La capacité ne peut pas descendre sous le nombre de places déjà occupées.** Le formulaire refuse l'enregistrement et vous le dit : désinscrivez d'abord, ou gardez la capacité actuelle.
+
+> **Dès qu'un élève est inscrit, trois champs se verrouillent.** Le formulaire l'annonce en haut de sa première étape : *« Vous ne pouvez pas modifier la date ou les horaires ou la filière, des inscriptions ont déjà été enregistrées. »* Le reste, salle, encadrants, capacité et description, se modifie toujours.
+
+![Les trois boutons du tiroir : Modifier, Dupliquer et Rendre non-visible](../../assets/mini-stages/lycees-modifier-depublier-annuler-ou-supprimer-une-offre/3-modifier-ou-depublier.png)
+
+![La première étape du formulaire de modification, avec l'avertissement sur les champs verrouillés](../../assets/mini-stages/lycees-modifier-depublier-annuler-ou-supprimer-une-offre/5-le-formulaire-de-modification.png)
 
 ## 4. Enregistrer
 
@@ -77,6 +89,8 @@ C'est une bascule : le même bouton affiche **« Publier l'offre »** quand l'of
 ## Annuler ou supprimer
 
 Les deux actions vivent dans un encadré rouge, **« Actions irréversibles »**, au bas de la fiche.
+
+![Le bas du tiroir, avec l'encadré Actions irréversibles et ses deux boutons](../../assets/mini-stages/lycees-modifier-depublier-annuler-ou-supprimer-une-offre/4-actions-irreversibles.png)
 
 ## 6. Annuler l'offre
 

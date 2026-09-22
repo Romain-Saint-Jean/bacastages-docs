@@ -34,6 +34,8 @@ L'entrée **« Suivi »** de la barre de gauche ouvre la page **« Suivi des él
 
 Cliquez sur **« Suivi »** dans la barre de gauche.
 
+![La barre de navigation du lycée, l'entrée Suivi encadrée, devant la liste des dossiers d'élèves](../../assets/mini-stages/lycees-suivre-les-eleves-accueillis-et-pointer-leur-presence/1-ouvrir-le-suivi.png)
+
 ## 2. Se placer sur « Stages chez nous »
 
 Réglez le sens sur **« Stages chez nous »** pour ne voir que les élèves que vous accueillez.
@@ -50,7 +52,9 @@ Cinq onglets, rangés comme une boîte de réception :
 - **Sans suite** — refus et désinscriptions
 - **Toutes**
 
-> **Ce n'est pas une frise.** Un même dossier passe par « À traiter » plusieurs fois — décider, signer, pointer — et repasse par « En attente » entre chaque. Le dernier passage arrive tout seul, le jour du stage, sans que personne ait cliqué.
+> **Ce n'est pas une frise.** Un même dossier passe par « À traiter » plusieurs fois, pour décider, signer, pointer, et repasse par « En attente » entre chaque. Le dernier passage arrive tout seul, le jour du stage, sans que personne ait cliqué.
+
+![Le sélecteur de sens sur Stages chez nous, et la rangée des cinq onglets avec leurs compteurs](../../assets/mini-stages/lycees-suivre-les-eleves-accueillis-et-pointer-leur-presence/2-le-sens-et-les-onglets.png)
 
 ## 4. Vérifier l'année scolaire
 
@@ -58,19 +62,27 @@ Le sélecteur **« Année scolaire »**, en haut de l'écran, borne la liste à 
 
 > **C'est la cause n°1 d'une liste vide à la rentrée.** En septembre, les dossiers de l'année précédente ne s'affichent plus tant que vous n'avez pas changé d'année.
 >
-> Si vous cherchez un élève par son nom et qu'il ne sort pas, un lien apparaît sous la liste — **« N dossiers dans une autre année »** — avec les années concernées : un clic vous y emmène.
+> Si vous cherchez un élève par son nom et qu'il ne sort pas, un lien apparaît sous la liste, **« N dossiers dans une autre année »**, avec les années concernées : un clic vous y emmène.
+
+![Le sélecteur d'année scolaire en haut de l'écran, réglé sur l'année en cours](../../assets/mini-stages/lycees-suivre-les-eleves-accueillis-et-pointer-leur-presence/3-l-annee-scolaire.png)
 
 ## 5. Pointer la présence
 
-Sur la ligne de l'élève, le sélecteur de présence propose deux positions : **« Présent »** et **« Absent »**.
+Sur la ligne de l'élève, le sélecteur de présence propose deux positions, dans cet ordre : **« Absent »** puis **« Présent »**.
 
 > **Le pointage n'ouvre que le premier jour du mini-stage.** Avant cette date, le bouton est inactif et le dossier le dit : *« Le pointage ouvre le premier jour du mini-stage »*. Il n'y a pas d'heure à saisir : un élève est présent ou absent.
+
+![La ligne de l'élève accueilli ce jour, avec le sélecteur Absent ou Présent actif, les autres lignes restant grisées](../../assets/mini-stages/lycees-suivre-les-eleves-accueillis-et-pointer-leur-presence/4-pointer-la-presence.png)
 
 ## 6. Ouvrir un dossier pour en savoir plus
 
 Cliquez sur la ligne de l'élève : un tiroir s'ouvre à droite, avec la frise **« Avancement du dossier »**, l'état de la convention, les informations de l'élève et de son établissement.
 
-> Le lien **« Ouvrir en pleine page »**, en haut du tiroir, affiche le même dossier sur toute la largeur.
+Le tiroir porte aussi le sélecteur de présence, dans un encadré qui rappelle ce qui reste à faire.
+
+> Le lien **« Ouvrir en pleine page »**, en haut du tiroir, affiche le même dossier sur toute la largeur. À côté, **« Voir l'offre associée »** ouvre l'offre de mini-stage.
+
+![Le tiroir du dossier, avec la frise Avancement du dossier et ses six jalons](../../assets/mini-stages/lycees-suivre-les-eleves-accueillis-et-pointer-leur-presence/5-ouvrir-le-dossier.png)
 
 ---
 
@@ -78,7 +90,7 @@ Cliquez sur la ligne de l'élève : un tiroir s'ouvre à droite, avec la frise *
 
 - **Le champ de recherche** filtre sur le nom.
 - **La colonne « Étape »** se trie **dans l'ordre du circuit** — et non par ordre alphabétique : c'est le moyen de remettre les dossiers dans leur fil.
-- **Le bouton d'affichage** bascule entre **Tableau** et **Cartes**.
+- **Le bouton « Affichage »** ouvre un menu : le mode **Tableau** ou **Cartes**, et **« Afficher les désinscrits »**.
 
 ---
 

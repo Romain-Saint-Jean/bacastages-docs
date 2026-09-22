@@ -30,15 +30,23 @@ Quatre onglets : **Tous**, **Passés**, **Aujourd'hui**, **À venir**.
 
 > **« Aujourd'hui » est l'onglet du jour J** : c'est celui à ouvrir pour faire l'appel.
 
+![L'écran Mini-stages d'un professeur, avec ses quatre onglets de période](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/2-guide-gerer-vos-mini-stages-en-tant-que-professeur/1-ouvrir-mini-stages-prof.png)
+
 ## 3. Déplier une session
 
 Chaque ligne est une **session** de mini-stage. Cliquez sur la flèche à sa gauche pour voir les élèves qu'elle rassemble.
 
 Le tableau donne, pour chaque élève : son **nom**, son **établissement** d'origine, son **statut** et les **actions** possibles.
 
+> **Les deux boutons de présence sont déjà sur la ligne**, à côté de « Ajouter un compte rendu » : vous pouvez pointer sans ouvrir le dossier.
+
+![Une session de mini-stage, la flèche qui la déplie encadrée](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/2-guide-gerer-vos-mini-stages-en-tant-que-professeur/2-deplier-une-session.png)
+
 ## 4. Ouvrir le dossier d'un élève
 
-Cliquez sur sa ligne. Un panneau s'ouvre avec ses informations, sa **présence** et son **compte rendu**.
+Cliquez sur son nom. Un panneau s'ouvre avec ses informations, sa **présence** et son **compte rendu**.
+
+![La session dépliée, avec ses élèves et le nom de l'un d'eux encadré](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/2-guide-gerer-vos-mini-stages-en-tant-que-professeur/3-ouvrir-le-dossier-d-un-eleve.png)
 
 ## 5. Pointer sa présence
 
@@ -48,7 +56,9 @@ Dans la carte **« Présence »**, deux boutons : **« Absent »** et **« Prés
 
 ## 6. Ouvrir le compte rendu
 
-Dans la carte **« Compte rendu »**, cliquez sur **« Rédiger le compte rendu »** — ou **« Voir / modifier le compte rendu »** si vous en avez déjà écrit un.
+Dans la carte **« Compte rendu »**, cliquez sur **« Rédiger le compte rendu »**, ou sur **« Voir / modifier le compte rendu »** si vous en avez déjà écrit un.
+
+![Le panneau de l'élève, avec la carte Présence et le bouton Rédiger le compte rendu](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/2-guide-gerer-vos-mini-stages-en-tant-que-professeur/4-pointer-et-ouvrir-le-compte-rendu.png)
 
 La suite est décrite dans l'article **« Rédiger le compte rendu d'un élève »**.
 
@@ -57,7 +67,7 @@ La suite est décrite dans l'article **« Rédiger le compte rendu d'un élève 
 ## Retrouver un élève
 
 - **Triez par date** avec la flèche de la première colonne, ou **par élève** avec celle de la colonne « Élève ».
-- Les filtres restreignent la liste ; si elle se vide, l'écran vous le dit : *« Aucune session ne correspond à ces filtres — élargissez la période ou changez d'onglet. »*
+- Les filtres restreignent la liste ; si elle se vide, l'écran vous le dit et propose d'élargir la période ou de changer d'onglet.
 
 ---
 

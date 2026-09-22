@@ -36,17 +36,23 @@ Les préinscriptions à traiter concernent les élèves que vous accueillez.
 
 ## 3. Rester sur l'onglet « À traiter »
 
-C'est l'onglet ouvert par défaut. Les dossiers en attente de votre décision y portent l'étape **« En attente de décision »**.
+C'est l'onglet ouvert par défaut. Les dossiers en attente de votre décision y portent l'étape **« En attente de décision »**, et la colonne **« Action requise »** dit **« À valider : votre établissement »**.
+
+![L'onglet À traiter du Suivi, avec trois dossiers à l'étape En attente de décision](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/1-les-dossiers-a-decider.png)
 
 ## 4. Ouvrir le dossier pour vérifier
 
 Cliquez sur la ligne de l'élève. Le tiroir affiche son nom, sa classe, son établissement d'origine, les coordonnées de son responsable légal et le détail de l'offre demandée.
 
-> Vérifiez le **nombre de places restantes** de l'offre avant d'accepter : la ligne de l'offre l'affiche dans « Mes offres ».
+> Vérifiez le **nombre de places restantes** de l'offre avant d'accepter : la colonne **« Places restantes »** l'affiche sur la ligne du dossier.
+
+![Le tiroir du dossier, ouvert sur la frise d'avancement et le détail de la demande](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/2-ouvrir-le-dossier.png)
 
 ## 5. Accepter
 
 Sur la ligne de l'élève, cliquez sur **« Accepter »**.
+
+![Les deux boutons Accepter et Refuser, sur la ligne du dossier](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/3-accepter-ou-refuser.png)
 
 ## 6. Ou refuser
 
@@ -54,7 +60,7 @@ Cliquez sur **« Refuser »**. Une fenêtre **« Confirmer le refus »** s'ouvre
 
 ## 7. Indiquer un motif, si vous le souhaitez
 
-Le champ **« Motif du refus »** est **facultatif**.
+Le champ s'intitule **« Motif du refus (optionnel) »** : il est bien facultatif.
 
 > **Renseignez-le quand même.** Ce motif est *« visible par les familles et l'autre établissement »* : sans lui, la famille ne sait pas si l'offre était pleine, le dossier incomplet, ou la filière inadaptée — et elle rappelle.
 
@@ -62,13 +68,21 @@ Le champ **« Motif du refus »** est **facultatif**.
 
 Cliquez sur **« Confirmer le refus »**.
 
+![La fenêtre Confirmer le refus, avec le champ de motif facultatif et le bouton de confirmation](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/4-le-motif-du-refus.png)
+
 ---
 
 ## Revenir sur un refus
 
 Tant que **l'autre établissement n'a pas validé**, un bouton **« Revenir sur le refus »** apparaît sur la ligne du dossier. Il ouvre une confirmation, **« Revenir sur le refus »**, dont le bouton final est **« Accepter la préinscription »**.
 
+Le dossier se retrouve dans l'onglet **« Sans suite »**, à l'étape **« Refusée »**.
+
+> **Le retour n'appartient qu'à celui qui a refusé.** Un dossier refusé par l'établissement d'origine s'affiche dans la même liste, sans aucun bouton de votre côté.
+
 > La famille et l'autre établissement sont informés du changement.
+
+![Deux dossiers refusés côte à côte : celui que le lycée a refusé porte le bouton Revenir sur le refus, celui que le collège a refusé n'a aucune action](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/5-revenir-sur-le-refus.png)
 
 ---
 

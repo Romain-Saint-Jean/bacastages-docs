@@ -9,7 +9,7 @@ intercom_us_updated_at: 1770656994
 ---
 ## Objectif
 
-Obtenir la liste des élèves attendus dans votre établissement sur une période donnée — pour l'imprimer, la diffuser, ou la traiter.
+Obtenir la liste des élèves attendus dans votre établissement sur une période donnée, pour l'imprimer, la diffuser, ou la traiter.
 
 Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
 
@@ -32,6 +32,8 @@ Le sélecteur **« Année scolaire »**, en haut de l'écran, borne aussi l'expo
 
 Cliquez sur **« Exporter »**, en haut à droite. La fenêtre **« Exporter la liste des mini-stages »** s'ouvre.
 
+![Le Suivi des élèves, avec le sélecteur d'année scolaire et le bouton Exporter en haut à droite](../../assets/mini-stages/lycees-exporter-la-liste-des-eleves-accueillis/1-lancer-l-export.png)
+
 ## 4. Choisir la période
 
 Sous **« Période »**, sélectionnez la **date de début** et la **date de fin**.
@@ -44,9 +46,13 @@ Sous **« Format d'export »** : **PDF** ou **Excel (.xlsx)**.
 
 > **PDF** pour imprimer et afficher à l'accueil. **Excel** pour trier, compter, ou croiser avec vos propres listes.
 
+![La fenêtre d'export, avec le choix de la période et les deux formats PDF et Excel](../../assets/mini-stages/lycees-exporter-la-liste-des-eleves-accueillis/2-la-periode-et-le-format.png)
+
 ## 6. Choisir les filières
 
 La case **« Exportation de toutes les filières »** est cochée par défaut.
+
+![La case Exportation de toutes les filières, cochée, sous le choix du format](../../assets/mini-stages/lycees-exporter-la-liste-des-eleves-accueillis/3-toutes-les-filieres.png)
 
 ## 7. Ou n'en garder que certaines
 
@@ -55,6 +61,8 @@ Décochez-la : la liste **« Filières à exporter »** apparaît, et vous y sé
 ## 8. Confirmer
 
 Cliquez sur **« Exporter »**. Le fichier se télécharge.
+
+![La case décochée : la liste Filières à exporter apparaît avec les filières de l'établissement, toutes décochées](../../assets/mini-stages/lycees-exporter-la-liste-des-eleves-accueillis/4-choisir-les-filieres.png)
 
 ---
 
