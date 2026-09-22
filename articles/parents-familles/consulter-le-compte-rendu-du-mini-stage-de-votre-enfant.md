@@ -13,7 +13,7 @@ Lire ce que l'établissement d'accueil a écrit sur le mini-stage de votre enfan
 
 ## Ce qu'il faut savoir avant de chercher
 
-**Ce n'est pas vous qui rédigez le compte rendu.** C'est **l'établissement d'accueil** — en pratique le professeur qui a encadré votre enfant. De votre côté, la rubrique est **en lecture seule** : il n'y a ni formulaire à remplir, ni bouton d'envoi.
+**Ce n'est pas vous qui rédigez le compte rendu.** C'est **l'établissement d'accueil** : en pratique le professeur qui a encadré votre enfant. De votre côté, la rubrique est **en lecture seule** : il n'y a ni formulaire à remplir, ni bouton d'envoi.
 
 > Si vous cherchiez comment donner votre avis sur le mini-stage, il n'y a pas d'écran pour cela dans Bacastages. Adressez-vous directement à l'établissement d'accueil ou à celui de votre enfant.
 
@@ -40,7 +40,7 @@ Selon l'établissement d'accueil, il comporte :
 
 - une **appréciation générale** ;
 - un **texte** écrit par le professeur encadrant ;
-- et parfois la **ponctualité** et neuf critères notés — intérêt, motivation, participation, initiative, comportement, communication, interaction, connaissances, curiosité.
+- et parfois la **ponctualité** et neuf critères notés : intérêt, motivation, participation, initiative, comportement, communication, interaction, connaissances, curiosité.
 
 > Certains établissements ont activé le format court : dans ce cas, seules l'appréciation et le texte apparaissent. C'est un choix de l'établissement, pas un compte rendu incomplet.
 
@@ -54,7 +54,7 @@ L'écran vous le dit lui-même :
 
 **Il n'y a rien à faire de votre côté, et aucun bouton pour le réclamer.** Le compte rendu apparaîtra tout seul une fois écrit.
 
-> Si le délai vous paraît long, c'est à l'établissement d'accueil qu'il faut s'adresser — Bacastages ne peut pas le rédiger à sa place.
+> Si le délai vous paraît long, c'est à l'établissement d'accueil qu'il faut s'adresser : Bacastages ne peut pas le rédiger à sa place.
 
 ---
 

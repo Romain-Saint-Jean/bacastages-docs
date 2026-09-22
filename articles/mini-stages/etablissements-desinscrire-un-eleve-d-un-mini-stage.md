@@ -11,7 +11,7 @@ intercom_us_updated_at: 1768839971
 
 Retirer un élève d'un mini-stage auquel il ne participera pas.
 
-Cet article s'adresse aux **établissements** — le lycée d'accueil comme l'établissement d'origine. Une famille ne peut pas désinscrire elle-même : elle passe par son établissement.
+Cet article s'adresse aux **établissements** : le lycée d'accueil comme l'établissement d'origine. Une famille ne peut pas désinscrire elle-même : elle passe par son établissement.
 
 ## Ce qu'il vous faut
 
@@ -28,7 +28,7 @@ Cliquez sur **« Suivi »** dans la barre de gauche.
 
 Cherchez-le par son nom, ou parcourez la liste.
 
-> Si l'élève ne ressort pas, vérifiez le **sens** — « Stages chez nous » ou « Stage ailleurs » — et **l'année scolaire**.
+> Si l'élève ne ressort pas, vérifiez le **sens** (« Stages chez nous » ou « Stage ailleurs ») et **l'année scolaire**.
 
 ## 3. Ouvrir son dossier
 
@@ -42,7 +42,7 @@ Le bouton est **au bas du tiroir**, dans la zone des actions destructrices, à c
 
 La fenêtre **« Désinscription d'un élève »** propose un champ **« Justifications »**, **facultatif**.
 
-> **Renseignez-le.** L'écran le dit : *« Les justifications seront envoyées aux parties concernées. »* Sans motif, l'autre établissement et la famille reçoivent une annulation sans explication — et vous rappellent.
+> **Renseignez-le.** L'écran le dit : *« Les justifications seront envoyées aux parties concernées. »* Sans motif, l'autre établissement et la famille reçoivent une annulation sans explication, et vous rappellent.
 
 ## 6. Confirmer
 
@@ -53,7 +53,7 @@ Cliquez sur **« Désinscrire »**.
 ## Ce qui se passe ensuite
 
 - Le dossier bascule dans l'onglet **« Sans suite »** et son étape devient **« Désinscrit »**.
-- Les parties concernées — famille, autre établissement — sont prévenues par e-mail, avec votre justification.
+- Les parties concernées (famille, autre établissement) sont prévenues par e-mail, avec votre justification.
 - La place est rendue à l'offre.
 
 ---

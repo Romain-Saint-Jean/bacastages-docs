@@ -8,9 +8,9 @@ intercom_us_url: ""
 ---
 ## Objectif
 
-Soigner la fiche publique de votre établissement — celle qu'une famille consulte avant de préinscrire son enfant.
+Soigner la fiche publique de votre établissement : celle qu'une famille consulte avant de préinscrire son enfant.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -25,7 +25,7 @@ Cliquez sur **« Établissement »** dans la barre de gauche.
 
 ## 2. Ouvrir la carte « Présentation de l'établissement »
 
-L'écran se partage en deux : à gauche ce que vous remplissez, à droite **« Aperçu de la fiche publique — ce que voient les familles »**, qui se met à jour en direct.
+L'écran se partage en deux : à gauche ce que vous remplissez, à droite **« Aperçu de la fiche publique · ce que voient les familles »**, qui se met à jour en direct.
 
 ## 3. Rédiger la description
 
@@ -35,7 +35,7 @@ La section **« Description »** porte *« le texte d'accueil de votre fiche pub
 
 ## 4. Choisir le type d'établissement
 
-Dans **« Profil de l'établissement »**, sélectionnez **Lycée général**, **Lycée polyvalent** ou **Lycée professionnel** — ou saisissez un autre intitulé.
+Dans **« Profil de l'établissement »**, sélectionnez **Lycée général**, **Lycée polyvalent** ou **Lycée professionnel**, ou saisissez un autre intitulé.
 
 > La **ville** est affichée mais non modifiable : elle vient du référentiel de l'Éducation nationale.
 
@@ -71,7 +71,7 @@ Votre fiche est complète, et l'aperçu vous montre exactement ce qu'une famille
 
 ## Ce qui n'est pas ici
 
-Les **coordonnées** de l'établissement — proviseur, e-mail et téléphone de contact, signataire des conventions — vivent sur la carte voisine, **« Informations de l'établissement »**.
+Les **coordonnées** de l'établissement (proviseur, e-mail et téléphone de contact, signataire des conventions) vivent sur la carte voisine, **« Informations de l'établissement »**.
 
 ---
 

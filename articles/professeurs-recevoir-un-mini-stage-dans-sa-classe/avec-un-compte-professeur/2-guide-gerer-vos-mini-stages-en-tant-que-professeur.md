@@ -48,7 +48,7 @@ Dans la carte **« Présence »**, deux boutons : **« Absent »** et **« Prés
 
 ## 6. Ouvrir le compte rendu
 
-Dans la carte **« Compte rendu »**, cliquez sur **« Rédiger le compte rendu »** — ou **« Voir / modifier le compte rendu »** si vous en avez déjà écrit un.
+Dans la carte **« Compte rendu »**, cliquez sur **« Rédiger le compte rendu »**, ou **« Voir / modifier le compte rendu »** si vous en avez déjà écrit un.
 
 La suite est décrite dans l'article **« Rédiger le compte rendu d'un élève »**.
 
@@ -57,7 +57,7 @@ La suite est décrite dans l'article **« Rédiger le compte rendu d'un élève 
 ## Retrouver un élève
 
 - **Triez par date** avec la flèche de la première colonne, ou **par élève** avec celle de la colonne « Élève ».
-- Les filtres restreignent la liste ; si elle se vide, l'écran vous le dit : *« Aucune session ne correspond à ces filtres — élargissez la période ou changez d'onglet. »*
+- Les filtres restreignent la liste ; si elle se vide, l'écran vous le dit : *« Aucune session ne correspond à ces filtres »*, puis *« Élargissez la période ou changez d'onglet. »*
 
 ---
 

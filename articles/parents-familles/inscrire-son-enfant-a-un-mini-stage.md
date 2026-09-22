@@ -47,7 +47,7 @@ La colonne de droite rappelle les informations du mini-stage pendant toute la sa
 
 ## 7. Envoyer la demande
 
-Le bouton s'appelle **« Préinscrire »** — ou **« Inscrire »** si l'établissement d'accueil n'exige pas de préinscription.
+Le bouton s'appelle **« Préinscrire »**, ou **« Inscrire »** si l'établissement d'accueil n'exige pas de préinscription.
 
 ---
 
@@ -65,8 +65,8 @@ Vous voyez à la place un encadré **« Inscription via votre établissement »*
 
 Votre demande doit être acceptée **par deux établissements** :
 
-1. **celui de votre enfant** — il confirme que l'absence est possible ;
-2. **celui qui accueille** — il confirme qu'il a la place.
+1. **celui de votre enfant** : il confirme que l'absence est possible ;
+2. **celui qui accueille** : il confirme qu'il a la place.
 
 Tant que les deux n'ont pas répondu, la demande reste **« En attente »**. Vous êtes prévenu par e-mail à chaque décision.
 

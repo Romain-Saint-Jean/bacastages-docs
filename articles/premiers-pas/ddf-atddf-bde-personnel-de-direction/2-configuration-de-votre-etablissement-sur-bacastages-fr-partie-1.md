@@ -37,7 +37,7 @@ Chaque étape indique en une phrase ce qu'elle attend, et un lien mène directem
 
 > Une **septième étape, « Zones de signature »**, apparaît uniquement si vous téléversez votre propre modèle de convention. Un lycée qui reste sur le modèle officiel ne la voit jamais.
 
-Cet article couvre les trois premières étapes. Les trois suivantes sont décrites dans *3. Configuration de votre établissement — Partie 2*.
+Cet article couvre les trois premières étapes. Les trois suivantes sont décrites dans *3. Configuration de votre établissement - Partie 2*.
 
 ---
 
@@ -65,7 +65,7 @@ De retour dans le panneau, cliquez sur **« Ajouter un professeur »**.
 
 Cliquez sur **« Ajouter »**, puis renseignez le nom, le prénom et la discipline.
 
-> **Une fiche n'est pas un compte.** La fiche professeur sert à désigner qui encadre un mini-stage ; elle suffit pour publier une offre. Le professeur peut, séparément, disposer d'un compte pour remplir ses comptes rendus — mais ce n'est pas obligatoire à cette étape.
+> **Une fiche n'est pas un compte.** La fiche professeur sert à désigner qui encadre un mini-stage ; elle suffit pour publier une offre. Le professeur peut, séparément, disposer d'un compte pour remplir ses comptes rendus, mais ce n'est pas obligatoire à cette étape.
 
 ## 6. Enregistrer
 
@@ -79,7 +79,7 @@ De retour dans le panneau, cliquez sur **« Déclarer une filière »**.
 
 ## 8. Déclarer une filière
 
-Une filière se déclare comme une **combinaison diplôme × domaine** — par exemple *Bac Pro* × *Commerce*, ou *BTS* × *Électrotechnique*.
+Une filière se déclare comme une **combinaison diplôme × domaine**, par exemple *Bac Pro* × *Commerce*, ou *BTS* × *Électrotechnique*.
 
 Choisissez le diplôme, puis le domaine.
 
@@ -97,7 +97,7 @@ L'étape est comptée comme faite dès qu'une filière existe.
 
 ## Vous y êtes, à mi-chemin
 
-Les trois premières étapes sont franchies. La suite — convention, signature, présentation publique — est décrite dans *3. Configuration de votre établissement — Partie 2*.
+Les trois premières étapes sont franchies. La suite (convention, signature, présentation publique) est décrite dans *3. Configuration de votre établissement - Partie 2*.
 
 ## Modifier ces informations plus tard
 

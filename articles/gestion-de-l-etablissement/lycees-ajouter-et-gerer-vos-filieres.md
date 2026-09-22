@@ -9,9 +9,9 @@ intercom_us_updated_at: 1770302969
 ---
 ## Objectif
 
-Créer et tenir à jour les filières de votre établissement — ce sont elles qui portent vos offres de mini-stage.
+Créer et tenir à jour les filières de votre établissement : ce sont elles qui portent vos offres de mini-stage.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -36,11 +36,11 @@ Le formulaire s'ouvre sur un assistant en **quatre étapes** : **Informations**,
 
 ---
 
-## Étape 1 — Informations
+## Étape 1 · Informations
 
 ## 4. Nommer la filière
 
-Renseignez le **nom de la filière** — « Bac Pro Commerce », « CAP Cuisine ».
+Renseignez le **nom de la filière** : « Bac Pro Commerce », « CAP Cuisine ».
 
 ## 5. Choisir une couleur
 
@@ -56,7 +56,7 @@ Cliquez sur **« Suivant »**.
 
 ---
 
-## Étape 2 — Débouchés
+## Étape 2 · Débouchés
 
 ## 8. Déclarer vers quoi mène la filière
 
@@ -72,7 +72,7 @@ Si le référentiel ne contient pas ce que vous cherchez, saisissez-le : un bout
 
 ---
 
-## Étape 3 — Préinscriptions
+## Étape 3 · Préinscriptions
 
 ## 10. Choisir le mode de validation
 
@@ -86,7 +86,7 @@ Quand la validation manuelle est active, la section **« Documents à fournir pa
 
 ---
 
-## Étape 4 — Professeurs & Fichiers
+## Étape 4 · Professeurs & Fichiers
 
 ## 12. Associer des professeurs référents
 

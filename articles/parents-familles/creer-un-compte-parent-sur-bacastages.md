@@ -1,6 +1,6 @@
 ---
 title: "Créer un compte famille sur Bacastages"
-description: "Créer votre compte en trois étapes, et renseigner le bon établissement — celui où votre enfant est scolarisé."
+description: "Créer votre compte en trois étapes, et renseigner le bon établissement : celui où votre enfant est scolarisé."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635203"
@@ -24,15 +24,15 @@ Sur **bacastages.fr**, cliquez sur **« Créer un compte gratuit »**.
 
 ## 2. Choisir la carte « Une famille »
 
-L'écran **« Étape 1 sur 3 · Votre profil »** propose plusieurs cartes de profil. Prenez **« Une famille »** — *« Préinscrivez votre enfant à un mini-stage et suivez son parcours. »*
+L'écran **« Étape 1 sur 3 · Votre profil »** propose plusieurs cartes de profil. Prenez **« Une famille »** : *« Préinscrivez votre enfant à un mini-stage et suivez son parcours. »*
 
 > **La carte « Élève » porte la mention « Bientôt »** et n'ouvre pas de parcours : un élève ne peut pas encore créer son propre compte. C'est bien depuis votre compte famille que se font les demandes.
 
 ---
 
-## Étape 1 — Profil
+## Étape 1 · Profil
 
-L'écran s'intitule **« Créez votre compte famille »** — *« Vous pourrez ajouter vos enfants une fois connecté. »*
+L'écran s'intitule **« Créez votre compte famille »** : *« Vous pourrez ajouter vos enfants une fois connecté. »*
 
 ## 3. Renseigner votre prénom
 
@@ -44,7 +44,7 @@ L'écran s'intitule **« Créez votre compte famille »** — *« Vous pourrez a
 
 ---
 
-## Étape 2 — Sécurité
+## Étape 2 · Sécurité
 
 L'écran s'intitule **« Sécurisez votre compte »**.
 
@@ -64,7 +64,7 @@ Elle servira d'identifiant, et recevra les conventions, les rappels et les compt
 
 ---
 
-## Étape 3 — Établissement
+## Étape 3 · Établissement
 
 L'écran s'intitule **« L'établissement de votre enfant »**.
 
@@ -78,7 +78,7 @@ Le champ s'appelle **« Établissement actuel de votre enfant »**.
 
 ## 12. Le sélectionner dans la liste
 
-> Si vous ne le trouvez pas, essayez son **code UAI** ou le **code postal** de la commune — voyez **« Mon établissement n'apparaît pas dans la recherche »**.
+> Si vous ne le trouvez pas, essayez son **code UAI** ou le **code postal** de la commune : voyez **« Mon établissement n'apparaît pas dans la recherche »**.
 
 ## 13. Créer le compte
 

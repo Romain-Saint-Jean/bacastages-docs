@@ -1,6 +1,6 @@
 ---
 title: "Modifier ses informations personnelles"
-description: "Mettre à jour votre nom, votre téléphone ou votre adresse e-mail — et ce qui change quand c'est l'adresse."
+description: "Mettre à jour votre nom, votre téléphone ou votre adresse e-mail, et ce qui change quand c'est l'adresse."
 state: draft
 collections: [compte-bacastages]
 intercom_us_id: "13635272"
@@ -19,11 +19,11 @@ Corriger ou mettre à jour vos coordonnées.
 
 ## 1. Ouvrir votre compte
 
-Cliquez sur **« Mon compte »** dans la navigation — en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
+Cliquez sur **« Mon compte »** dans la navigation, en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
 
 ## 2. Rester sur l'onglet « Informations »
 
-C'est le premier des quatre onglets, et celui qui s'ouvre par défaut. La section s'intitule **« Informations personnelles »** — *« Ces coordonnées figurent sur vos conventions et dans vos échanges avec les établissements. »*
+C'est le premier des quatre onglets, et celui qui s'ouvre par défaut. La section s'intitule **« Informations personnelles »** : *« Ces coordonnées figurent sur vos conventions et dans vos échanges avec les établissements. »*
 
 ## 3. Modifier ce qui doit l'être
 
@@ -35,7 +35,7 @@ Quatre champs : **Prénom**, **Nom**, **Adresse e-mail**, **Téléphone**.
 
 Cliquez sur **« Enregistrer les modifications »**.
 
-> **Le bouton reste inactif tant que rien n'a changé.** S'il vous paraît grisé, c'est que le formulaire est identique à ce qui est déjà enregistré — ce n'est pas une panne.
+> **Le bouton reste inactif tant que rien n'a changé.** S'il vous paraît grisé, c'est que le formulaire est identique à ce qui est déjà enregistré : ce n'est pas une panne.
 >
 > Dès que vous modifiez quelque chose, un bouton **« Annuler »** apparaît à côté : il remet le formulaire dans son état d'origine.
 

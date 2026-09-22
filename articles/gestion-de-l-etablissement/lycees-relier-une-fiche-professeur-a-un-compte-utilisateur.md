@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770151627
 
 Faire correspondre la **fiche** d'un professeur et son **compte** Bacastages, pour qu'il retrouve ses mini-stages en se connectant.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -56,7 +56,7 @@ Bacastages rapproche les fiches et les comptes **par adresse e-mail**, pour tout
 
 ## La méthode manuelle : une personne à la fois
 
-À utiliser quand l'adresse du compte diffère de celle de la fiche — une adresse personnelle d'un côté, académique de l'autre.
+À utiliser quand l'adresse du compte diffère de celle de la fiche : une adresse personnelle d'un côté, académique de l'autre.
 
 ## 4. Repérer la fiche dans la liste
 

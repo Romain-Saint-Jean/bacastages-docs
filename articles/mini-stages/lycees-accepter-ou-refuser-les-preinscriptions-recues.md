@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302952
 
 Décider, dossier par dossier, des demandes de préinscription reçues sur vos offres de mini-stage.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -56,7 +56,7 @@ Cliquez sur **« Refuser »**. Une fenêtre **« Confirmer le refus »** s'ouvre
 
 Le champ **« Motif du refus »** est **facultatif**.
 
-> **Renseignez-le quand même.** Ce motif est *« visible par les familles et l'autre établissement »* : sans lui, la famille ne sait pas si l'offre était pleine, le dossier incomplet, ou la filière inadaptée — et elle rappelle.
+> **Renseignez-le quand même.** Ce motif est *« visible par les familles et l'autre établissement »* : sans lui, la famille ne sait pas si l'offre était pleine, le dossier incomplet, ou la filière inadaptée, et elle rappelle.
 
 ## 8. Confirmer
 

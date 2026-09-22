@@ -24,7 +24,7 @@ Supprimer définitivement votre compte Bacastages.
 
 Deux alternatives valent souvent mieux :
 
-- **Vous quittez un établissement** ? Détachez-vous-en depuis l'onglet **« Établissements »** — votre compte reste.
+- **Vous quittez un établissement** ? Détachez-vous-en depuis l'onglet **« Établissements »** : votre compte reste.
 - **Vous faites une pause** ? Écrivez au support plutôt que de supprimer : d'autres options existent.
 
 ---

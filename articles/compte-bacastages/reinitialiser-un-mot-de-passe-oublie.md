@@ -30,7 +30,7 @@ Le lien se trouve à droite du champ *Mot de passe*.
 
 ## 3. Saisir votre adresse e-mail
 
-Sur la page **« Réinitialiser votre mot de passe »** — *« Entrez l'adresse e-mail associée à votre compte pour recevoir un lien de réinitialisation de mot de passe. »*
+Sur la page **« Réinitialiser votre mot de passe »** : *« Entrez l'adresse e-mail associée à votre compte pour recevoir un lien de réinitialisation de mot de passe. »*
 
 ## 4. Envoyer
 

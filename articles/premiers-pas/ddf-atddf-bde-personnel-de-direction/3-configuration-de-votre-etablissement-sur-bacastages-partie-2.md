@@ -11,7 +11,7 @@ intercom_us_updated_at: 1764148162
 
 Franchir les **trois dernières étapes** de mise en place de votre lycée : la convention, la méthode de signature, et la présentation que liront les familles.
 
-Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lycée**. Il fait suite à *2. Configuration de votre établissement — Partie 1*.
+Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lycée**. Il fait suite à *2. Configuration de votre établissement - Partie 1*.
 
 ## Ce qu'il vous faut
 

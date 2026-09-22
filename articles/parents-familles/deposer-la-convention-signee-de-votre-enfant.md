@@ -1,6 +1,6 @@
 ---
 title: "Déposer la convention signée de votre enfant"
-description: "Télécharger la convention, la faire signer, puis la déposer — depuis le lien reçu par e-mail ou depuis votre espace."
+description: "Télécharger la convention, la faire signer, puis la déposer, depuis le lien reçu par e-mail ou depuis votre espace."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635215"
@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302949
 
 Récupérer la convention de mini-stage, la faire signer, et la remettre à l'établissement d'accueil.
 
-Cet article s'adresse aux **familles** — le responsable légal, **ou l'élève lui-même s'il est majeur**, qui dispose exactement des mêmes droits et des mêmes écrans.
+Cet article s'adresse aux **familles** : le responsable légal, **ou l'élève lui-même s'il est majeur**, qui dispose exactement des mêmes droits et des mêmes écrans.
 
 ## Ce qu'il vous faut
 
@@ -22,7 +22,7 @@ Cet article s'adresse aux **familles** — le responsable légal, **ou l'élève
 
 ## Le plus simple : le lien reçu par e-mail
 
-Bacastages vous envoie un e-mail dès que la convention est prête, puis des rappels si elle tarde. **Le bouton de cet e-mail ouvre directement le dossier de votre enfant** — c'est le chemin le plus court, et celui que nous vous recommandons.
+Bacastages vous envoie un e-mail dès que la convention est prête, puis des rappels si elle tarde. **Le bouton de cet e-mail ouvre directement le dossier de votre enfant** : c'est le chemin le plus court, et celui que nous vous recommandons.
 
 Ces e-mails partent de **team@notif.bacastages.fr**. S'ils n'arrivent pas, regardez votre courrier indésirable.
 
@@ -52,7 +52,7 @@ Dans l'encadré **« Convention transmise »**, en haut du dossier, cliquez sur 
 
 ## 5. La faire signer
 
-Par vous — ou par votre enfant s'il est majeur — puis par **l'établissement d'origine** de votre enfant.
+Par vous (ou par votre enfant s'il est majeur), puis par **l'établissement d'origine** de votre enfant.
 
 > **Le lycée d'accueil signe en dernier**, au moment où il valide. Ne l'attendez pas pour déposer.
 
@@ -84,8 +84,8 @@ Cliquez sur **« Déposer »**.
 
 Le lycée d'accueil relit la convention, puis :
 
-- **il la valide** — vous la recevez alors **en pièce jointe** par e-mail, et il n'y a plus rien à faire ;
-- **il la refuse** — avec un motif, qui vous est transmis. Corrigez ce qui manque, puis déposez à nouveau.
+- **il la valide** : vous la recevez alors **en pièce jointe** par e-mail, et il n'y a plus rien à faire ;
+- **il la refuse** : avec un motif, qui vous est transmis. Corrigez ce qui manque, puis déposez à nouveau.
 
 > Certains établissements valident **automatiquement** les conventions déposées. Dans ce cas, la vôtre passe « Validée » dès son arrivée.
 
@@ -101,7 +101,7 @@ Rouvrez le dossier : le bouton devient **« Déposer une nouvelle version »**. 
 
 Quatre explications possibles :
 
-- **la convention se signe en ligne** — il n'y a alors rien à déposer, et vous recevez une invitation à signer par e-mail ;
+- **la convention se signe en ligne** : il n'y a alors rien à déposer, et vous recevez une invitation à signer par e-mail ;
 - **elle est déjà validée** ;
 - **votre enfant a été désinscrit** du mini-stage ;
 - **vous n'êtes pas encore arrivé à l'étape** : l'inscription doit être définitive.

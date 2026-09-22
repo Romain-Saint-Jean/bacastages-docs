@@ -13,7 +13,7 @@ Signaler qu'un élève attendu en mini-stage ne s'est pas présenté.
 
 ## Ce qu'il vous faut
 
-- Un mini-stage **commencé** — le pointage n'ouvre pas avant
+- Un mini-stage **commencé** : le pointage n'ouvre pas avant
 - Un compte professeur, **ou** le lien d'accès reçu par e-mail
 
 ---
@@ -50,7 +50,7 @@ Recliquez simplement sur l'autre bouton. Un élève marqué absent par erreur re
 
 **Le pointage n'ouvre que le jour du mini-stage.** Avant cette date, les deux boutons sont inactifs et l'écran l'explique : *« La présence sera saisissable le jour du mini-stage. »*
 
-Ce n'est pas un droit qui vous manque — c'est simplement trop tôt.
+Ce n'est pas un droit qui vous manque : c'est simplement trop tôt.
 
 ---
 

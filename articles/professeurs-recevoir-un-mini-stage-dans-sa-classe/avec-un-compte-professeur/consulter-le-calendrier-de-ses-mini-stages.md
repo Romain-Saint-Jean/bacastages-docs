@@ -39,7 +39,7 @@ Le bouton **« Aujourd'hui »**, à gauche de la barre, vous y ramène d'un clic
 
 ## 5. Ouvrir le détail d'un créneau
 
-Cliquez sur un créneau : une fenêtre affiche la session, ses dates et sa position dans le mini-stage — **« Jour 2 sur 3 »**, par exemple, pour un mini-stage qui court sur plusieurs jours.
+Cliquez sur un créneau : une fenêtre affiche la session, ses dates et sa position dans le mini-stage : **« Jour 2 sur 3 »**, par exemple, pour un mini-stage qui court sur plusieurs jours.
 
 ---
 
