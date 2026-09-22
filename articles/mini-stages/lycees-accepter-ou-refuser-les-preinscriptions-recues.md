@@ -82,7 +82,7 @@ Le dossier se retrouve dans l'onglet **« Sans suite »**, à l'étape **« Refu
 
 > La famille et l'autre établissement sont informés du changement.
 
-![L'onglet Sans suite, avec le bouton Revenir sur le refus sur le dossier que le lycée a refusé](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/5-revenir-sur-le-refus.png)
+![Deux dossiers refusés côte à côte : celui que le lycée a refusé porte le bouton Revenir sur le refus, celui que le collège a refusé n'a aucune action](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/5-revenir-sur-le-refus.png)
 
 ---
 

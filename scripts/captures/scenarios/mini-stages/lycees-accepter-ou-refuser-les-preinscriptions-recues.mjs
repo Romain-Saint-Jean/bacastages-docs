@@ -9,7 +9,7 @@
 // sans aucun bouton : c'est elle qui prouve que le retour n'appartient qu'à celui qui
 // a refusé.
 
-import { BASE_URL, pinMenu, settle, withSession } from '../../lib.mjs';
+import { BASE_URL, pinMenu, settle, unpinMenu, withSession } from '../../lib.mjs';
 
 const ARTICLE = 'mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues';
 
@@ -63,8 +63,31 @@ await withSession('philippe.rousseau', ARTICLE, async ({ page, shoot }) => {
 
   await page.getByRole('tab', { name: /^Sans suite/ }).click();
   await settle(page);
-  const retour = page.getByRole('row').filter({ hasText: 'Gabriel Roy' })
-    .getByRole('button', { name: 'Revenir sur le refus' });
+  // La barre épinglée coûte 190 px et une ligne du tableau en mesure 1454 : sans ce
+  // repli, la ligne déborde à droite et la garde de `boxOf` refuse la capture.
+  await unpinMenu(page);
+  await settle(page);
+  // `shoot` et non `shoot.screen` : « Revenir sur un refus » est une section sans
+  // numéro d'étape, et un encadré numéroté renverrait à une étape qui n'existe pas.
+  // Le recadrage sur les deux lignes oppose le dossier que le lycée a refusé, qui
+  // porte le bouton, à celui que le collège a refusé, qui n'en a aucun.
+  //
+  // Le cadrage porte sur les cellules et non sur les lignes : la table a une largeur
+  // minimale de 1454 px posée à 248 px du bord, si bien que la ligne déborde de 22 px
+  // alors que tout son contenu est à l'écran. Viser les cellules donne le même
+  // rectangle, sans le vide de fin que la garde refuse à juste titre.
+  const refuseParNous = page.getByRole('row').filter({ hasText: 'Gabriel Roy' });
+  const refuseParEux = page.getByRole('row').filter({ hasText: 'Léna Vasseur' });
+  const retour = refuseParNous.getByRole('button', { name: 'Revenir sur le refus' });
   await retour.waitFor({ timeout: 20_000 });
-  await shoot.screen('5-revenir-sur-le-refus', [[9, retour]]);
+  await shoot(
+    '5-revenir-sur-le-refus',
+    [
+      refuseParNous.getByRole('cell').first(),
+      refuseParNous.getByRole('cell').last(),
+      refuseParEux.getByRole('cell').first(),
+      refuseParEux.getByRole('cell').last(),
+    ],
+    { highlights: [retour] },
+  );
 });
