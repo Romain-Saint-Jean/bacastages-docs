@@ -132,6 +132,18 @@ async function collapseOnboarding(page) {
  * une navigation haute déjà libellée : le bouton n'y existe pas, et l'appel ne fait
  * rien.
  */
+/**
+ * Amène la cible au milieu de l'écran.
+ *
+ * `scrollIntoViewIfNeeded` s'arrête dès qu'un pixel de l'élément est visible : une
+ * cible à cheval sur le pli reste à cheval, et la garde de `boxOf` la refuse, à
+ * raison. `block: 'center'` la pose au milieu, avec la place qu'il faut autour pour
+ * son encadré et son numéro.
+ */
+export async function bringIntoView(locator) {
+  await locator.evaluate((el) => el.scrollIntoView({ block: 'center', behavior: 'instant' }));
+}
+
 /** Replie la barre épinglée : une ligne de tableau large tient mieux sans elle. */
 export async function unpinMenu(page) {
   const unpin = page.getByRole('button', { name: 'Réduire le menu' });
