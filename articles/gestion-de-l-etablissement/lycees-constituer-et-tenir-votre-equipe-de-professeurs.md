@@ -74,7 +74,31 @@ Un professeur qui a créé son compte Bacastages accède en plus au calendrier d
 
 ## Importer une équipe entière
 
-Le bouton **« Importer »** de « Mes professeur(e)s » permet de créer les fiches en une fois à partir d'un fichier, et d'envoyer les liens d'accès dans la foulée.
+Le bouton **« Importer »** de « Mes professeur(e)s » crée les fiches en une fois à partir d'un classeur.
+
+### 1. Partir du modèle
+
+La boîte s'ouvre sur un bouton **« Télécharger le modèle »**, en pleine largeur au-dessus de la zone de dépôt. C'est le chemin normal : le modèle porte les en-têtes exacts sur lesquels vos colonnes seront reconnues, soit **nom**, **prénom**, **civilité** et **email**.
+
+> Le même modèle se télécharge depuis **Établissement → Ressources → Modèles d'import**, à côté de celui des offres.
+
+### 2. Remplacer les lignes d'exemple
+
+Le modèle arrive avec trois lignes d'exemple. **Remplacez-les par vos données.** Laissées en place, elles seront importées comme les autres.
+
+### 3. Déposer le classeur
+
+La zone **« Classeur Excel »** n'accepte que le format **.xlsx**.
+
+### 4. Décider d'envoyer les liens d'accès
+
+La case **« Envoyer le lien d'accès aux fiches créées »** est **décochée par défaut**. Cochez-la pour que chaque personne créée reçoive son e-mail de bienvenue avec son lien personnel.
+
+> Les lignes ignorées, celles dont l'e-mail est déjà présent, ne reçoivent rien.
+>
+> Laissée décochée, la case crée les fiches sans prévenir personne. Vous enverrez les liens plus tard depuis la liste, en sélectionnant les professeurs concernés.
+
+Une fois l'import terminé, Bacastages annonce le nombre de fiches créées et, s'il y a lieu, les erreurs ligne par ligne.
 
 ---
 
