@@ -84,7 +84,7 @@ Puis cliquez sur **« Enregistrer »**.
 
 Sur **Mes professeur(e)s**, cliquez sur **« Ajouter »**.
 
-![La liste des professeurs et le bouton « Ajouter »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/3-la-liste-des-professeurs.png)
+![La liste des professeurs, encore vide, et le bouton « Ajouter »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/3-la-liste-des-professeurs.png)
 
 ## 9. Saisir son nom
 
@@ -106,7 +106,7 @@ Sur **Mes professeur(e)s**, cliquez sur **« Ajouter »**.
 
 Sur **Mes filières**, cliquez sur **« Ajouter »**.
 
-![La liste des filières et le bouton « Ajouter »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/5-la-liste-des-filieres.png)
+![L'écran « Mes filières », encore vide, et son bouton « Ajouter »](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/5-la-liste-des-filieres.png)
 
 ## 14. Nommer la filière
 
