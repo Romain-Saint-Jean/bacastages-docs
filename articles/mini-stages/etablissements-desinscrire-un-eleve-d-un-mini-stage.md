@@ -22,7 +22,9 @@ Cet article s'adresse aux **établissements** : le lycée d'accueil comme l'éta
 
 ## 1. Ouvrir le Suivi
 
-Cliquez sur **« Suivi »** dans la barre de gauche.
+Cliquez sur **« Suivi »** dans la barre de navigation.
+
+> **Sa place dépend de votre établissement.** Un établissement abonné a une barre verticale à gauche, comme sur les captures de cet article ; un établissement qui inscrit sans publier a une barre horizontale en haut. Les rubriques y portent les mêmes noms.
 
 ## 2. Retrouver l'élève
 
