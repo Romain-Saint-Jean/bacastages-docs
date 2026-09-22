@@ -11,14 +11,22 @@ intercom_us_updated_at: 1770302971
 
 Donner accès à Bacastages aux personnes de votre établissement, et tenir ces accès à jour.
 
-Cet article s'adresse aux **administrateurs d'établissement** et aux **DDF**.
+Cet article s'adresse aux **administrateurs d'établissement**, et pour partie aux **DDF** : créer un compte et bloquer un accès leur sont ouverts, traiter les demandes ne l'est pas.
 
 > **Un compte n'est pas une fiche professeur.** L'écran le dit en toutes lettres : *« Les fiches, et leur lien éventuel avec un compte, se gèrent depuis Mes professeur(e)s. »* Ici, on n'administre que des accès.
 
 ## Ce qu'il vous faut
 
-- Un compte **Administrateur établissement** ou **DDF, ATDDF, BDE, Personnel de direction**
 - Le nom, le prénom, l'e-mail et le téléphone de la personne
+- Selon le geste, un compte **Administrateur établissement** ou **DDF, ATDDF, BDE, Personnel de direction** :
+
+| Le geste | Administrateur établissement | DDF, ATDDF, BDE, Personnel de direction |
+|---|---|---|
+| Créer le compte d'un collègue | Oui | Oui |
+| Bloquer ou débloquer un accès | Oui | Oui |
+| Traiter les trois files de demandes | Oui | **Non** |
+
+> **Votre établissement n'a pas encore d'administrateur ?** Un DDF peut prendre le rôle lui-même, et ouvrir ainsi les trois files de demandes. Voir « DDF : devenir administrateur de votre établissement ».
 
 ---
 
@@ -31,6 +39,8 @@ Cliquez sur **« Établissement »** dans la barre de gauche.
 L'écran s'intitule **« Gestion des comptes »** — *« Les accès à Bacastages : rôles, blocages et demandes de rattachement. »*
 
 Il compte jusqu'à quatre onglets : **Utilisateurs**, **Demandes de rattachement**, **Demandes de rôle**, **Demandes d'école**. Une pastille rouge signale ce qui attend une décision.
+
+> **Un DDF ne voit que l'onglet « Utilisateurs ».** Les trois files de demandes sont réservées aux administrateurs d'établissement.
 
 ---
 
@@ -88,7 +98,7 @@ Sur la ligne de la personne, le bouton **« Bloquer »** suspend son accès. Il 
 
 ## Traiter les demandes
 
-Trois onglets, trois files :
+Trois onglets, trois files, **réservés aux administrateurs d'établissement** :
 
 - **Demandes de rattachement** — une personne a demandé à rejoindre votre établissement. Son compte existe déjà, elle attend votre accord.
 - **Demandes de rôle** — un utilisateur de votre établissement demande à changer de rôle.
