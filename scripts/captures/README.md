@@ -5,9 +5,18 @@ base dédiée `bacastages_docs`. Aucun établissement, élève ou adulte n'exist
 toutes les adresses sont en `@demo.bacastages.fr`, un domaine qui ne reçoit rien.
 
 ```bash
+scripts/captures/prepare-db.sh          # une fois par base : schéma, fonctions, index
 scripts/captures/seed-demo.sh           # nettoie puis recrée l'univers (idempotent)
 scripts/captures/seed-demo.sh --clean   # nettoie seulement
 ```
+
+- **Schéma** : `prepare-db.sh` applique `postgres/init/*.sql` du back **puis** les
+  migrations Prisma. Les migrations seules ne suffisent pas : les fonctions SQL, les
+  déclencheurs et les index du produit vivent dans les scripts d'init, que Postgres
+  n'exécute qu'à la création de sa toute première base. `bacastages_docs`, créée ensuite
+  dans le même serveur, ne les a jamais vus. Sans `search_schools`, par exemple, la
+  dernière étape de la création de compte ne renvoie aucun établissement — sans erreur à
+  l'écran, la liste reste seulement vide.
 
 - **Base** : `seed-demo.sh` dérive l'URL de celle du back (`bacastages` → `bacastages_docs`)
   sans l'afficher, et les deux scripts refusent toute autre base.
@@ -62,6 +71,8 @@ Mot de passe commun : **`Demo-Bacastages-2026`**
 | `support@demo.bacastages.fr` | `super_admin` | — (établissement courant : Val d'Arnon) | `/announcements` |
 | `lucas.fabre@demo.bacastages.fr` | `professor` — **rattachement en attente** | Lycée professionnel du Val d'Arnon | `/school-approval-pending` |
 | `mathieu.lambert@demo.bacastages.fr` | `viewer` — **demande le rôle professeur** | Lycée professionnel du Val d'Arnon | `/ministages` |
+| `nathalie.faure@demo.bacastages.fr` | `school_admin` — **lycée qui vient d'arriver**, abonné, rien de configuré | Lycée des métiers de la Sablière | `/announcements` |
+| `olivier.chevrier@demo.bacastages.fr` | `school_admin` — **collège qui vient d'arriver**, sans abonnement | Collège du Pré-aux-Clercs | `/announcements` |
 
 Tous les comptes ont leur e-mail confirmé et leur domaine validé : aucune fenêtre bloquante.
 
@@ -73,6 +84,15 @@ Tous les comptes ont leur e-mail confirmé et leur domaine validé : aucune fen�
 | Collège Les Châtaigniers (Arnay-la-Rivière) | `9990002B` | Collège d'origine, avec ses comptes |
 | Collège de la Garenne (Villiers-le-Moutier) | `9990003C` | Second collège d'origine, sans compte |
 | Lycée polyvalent des Coteaux (Bellerive-sur-Arnon) | `9990004D` | Second lycée d'accueil (parcours multi-établissements), autorisation annuelle de signature active |
+| Lycée des métiers de la Sablière (Pont-sur-Arnon) | `9990005E` | **Arrivée d'un lycée** : abonné, rien de configuré — panneau de mise en place à six étapes |
+| Collège du Pré-aux-Clercs (Pont-sur-Arnon) | `9990006F` | **Arrivée d'un collège** : sans abonnement — panneau à deux étapes, toutes deux bloquantes |
+
+Les deux derniers n'existent que pour les articles de mise en place de « Premiers pas ».
+Ils n'ont **ni informations, ni professeurs, ni filières, ni réglages** — donc pas de
+ligne `school_settings`, que le produit crée au premier enregistrement. C'est
+**l'abonnement**, et non le type d'établissement, qui fait passer le panneau de deux
+étapes à six : `resolveOnboardingMode` rend `NONE` sans abonnement actif. Un lycée qui
+crée son compte sans s'abonner voit donc deux étapes, comme un collège.
 
 Dates notées en jours ouvrés depuis le jour du seed : J-8 = huit jours ouvrés avant.
 
