@@ -56,7 +56,7 @@ Le détail complet est dans l'article **« Circuit de validation des conventions
 
 ## 6. Le jour du mini-stage
 
-Le lycée d'accueil **pointe la présence** de chaque élève : **« Présent »** ou **« Absent »**.
+Le lycée d'accueil **pointe la présence** de chaque élève : **« Absent »** ou **« Présent »**.
 
 > **Le pointage n'ouvre que le premier jour du mini-stage.** Avant, le bouton est inactif.
 
