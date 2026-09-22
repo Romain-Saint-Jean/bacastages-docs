@@ -1,6 +1,6 @@
 ---
 title: "Suivre les préinscriptions de son enfant"
-description: "Voir où en sont vos demandes, comprendre les trois statuts, et savoir quoi faire en cas de refus."
+description: "Voir où en sont vos demandes depuis la rubrique Suivi, lire l'étape de chaque dossier, et savoir quoi faire en cas de refus."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635210"
@@ -18,27 +18,51 @@ Savoir où en est chaque demande que vous avez envoyée.
 
 ---
 
-## 1. Ouvrir la rubrique
+## 1. Ouvrir la rubrique « Suivi »
 
-Cliquez sur **« Préinscriptions »** dans la navigation.
+Cliquez sur **« Suivi »** dans la navigation.
 
-> **Le mot s'écrit sans trait d'union** : « Préinscriptions », et non « Pré-inscriptions ». Si vous cherchez la seconde orthographe dans l'aide ou dans le menu, vous ne la trouverez pas.
+> **Il n'y a plus de rubrique « Préinscriptions ».** Elle a été fusionnée dans **« Suivi »**, qui réunit désormais les préinscriptions, les conventions et les présences. Un ancien lien vers `/preregistrations` vous y renvoie tout seul.
 
-## 2. Lire le statut de chaque demande
+![La navigation d'un compte famille, avec la rubrique Suivi et la liste des dossiers de l'enfant](../../assets/parents-familles/suivre-les-pre-inscriptions-de-son-enfant/1-ouvrir-le-suivi.png)
 
-Trois statuts, et trois seulement :
+## 2. Choisir ce que vous voulez voir
 
-| Statut | Ce que cela veut dire |
+Six onglets, chacun avec son compte : **À traiter**, **En attente**, **Terminés**, **Sans suite**, **Toutes**, **Aujourd'hui**.
+
+> **« Toutes » est le bon onglet pour faire le point** : il met côte à côte toutes les demandes de votre enfant, quelle que soit leur avancée.
+
+## 3. Lire l'étape de chaque dossier
+
+La colonne **« Étape »** dit où en est le dossier. Elle ne compte pas trois statuts mais sept, dans cet ordre :
+
+| Étape | Ce que cela veut dire |
 |---|---|
-| **En attente** | Au moins un des deux établissements n'a pas encore répondu |
-| **Validée** | Les **deux** établissements ont accepté |
-| **Refusée** | L'un des deux a refusé — un motif est souvent joint |
+| **En attente de décision** | Au moins un des deux établissements n'a pas encore répondu |
+| **Convention transmise** | Les deux ont accepté, la convention est partie |
+| **Convention à signer** | Elle attend une signature |
+| **Convention validée** | Le lycée d'accueil l'a validée |
+| **Présent** ou **Absent** | La présence a été pointée, le dossier est clos |
+| **Refusée** | L'un des deux établissements a refusé |
+| **Désinscrit** | Votre enfant a été retiré du mini-stage |
 
-> **« En attente » ne dit pas lequel des deux manque.** Ouvrez le détail de la demande pour voir où elle en est.
+> Une colonne **« Action requise »** signale, à côté, ce qui attend quelque chose de vous.
 
-## 3. Ouvrir le détail d'une demande
+![La liste des dossiers de l'enfant, avec la colonne Étape et ses pastilles](../../assets/parents-familles/suivre-les-pre-inscriptions-de-son-enfant/2-lire-l-etape-de-chaque-dossier.png)
 
-Cliquez dessus : vous y trouvez les informations de votre enfant, l'offre concernée, les dates du mini-stage et l'avancement des validations.
+## 4. Ouvrir le détail d'une demande
+
+Cliquez sur la ligne : un panneau s'ouvre sur la droite. **« Avancement du dossier »** en tête déroule les six jalons du circuit, chacun marqué *Étape complétée*, *En cours* ou *À venir*.
+
+![Le panneau de détail ouvert sur l'avancement du dossier et ses six jalons](../../assets/parents-familles/suivre-les-pre-inscriptions-de-son-enfant/3-l-avancement-du-dossier.png)
+
+## 5. Voir laquelle des deux réponses manque
+
+Plus bas dans le même panneau, le bloc **« Décisions »** donne les deux séparément : **« Établissement d'origine »** et **« Établissement d'accueil »**, chacun avec sa réponse.
+
+> **C'est le seul endroit qui le dise.** La pastille « En attente de décision » de la liste ne distingue pas les deux.
+
+![Le bloc Décisions du panneau, avec la réponse de chacun des deux établissements](../../assets/parents-familles/suivre-les-pre-inscriptions-de-son-enfant/4-les-deux-decisions-attendues.png)
 
 ---
 
@@ -62,7 +86,7 @@ Vous pouvez ensuite envoyer une demande sur **une autre offre**. Un refus ne vou
 
 ## Si rien ne bouge
 
-Une demande peut rester « En attente » plusieurs jours : deux établissements doivent la voir passer. Au-delà d'une semaine, contactez directement celui de votre enfant — c'est en général le premier à devoir se prononcer.
+Une demande peut rester « En attente de décision » plusieurs jours : deux établissements doivent la voir passer. Au-delà d'une semaine, contactez directement celui de votre enfant : c'est en général le premier à devoir se prononcer.
 
 ---
 

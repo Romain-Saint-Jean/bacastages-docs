@@ -32,27 +32,37 @@ Cliquez sur **« Comptes-rendus »** dans la navigation.
 
 ## 2. Ouvrir le mini-stage concerné
 
-Cliquez sur la ligne du mini-stage. Le compte rendu s'affiche.
+Trois onglets trient la liste : **Tous**, **Non complétés**, **Complétés**. Cliquez sur la ligne du mini-stage, et le compte rendu s'affiche dans un panneau sur la droite.
+
+![La liste des comptes-rendus, avec ses trois onglets et la colonne qui dit si chacun est complété](../../assets/parents-familles/consulter-le-compte-rendu-du-mini-stage-de-votre-enfant/1-ouvrir-les-comptes-rendus.png)
 
 ## 3. Lire le compte rendu
 
 Selon l'établissement d'accueil, il comporte :
 
-- une **appréciation générale** ;
-- un **texte** écrit par le professeur encadrant ;
-- et parfois la **ponctualité** et neuf critères notés — intérêt, motivation, participation, initiative, comportement, communication, interaction, connaissances, curiosité.
+- une **satisfaction globale**, et la **présence** et la **ponctualité** à côté d'elle ;
+- une **évaluation détaillée** en neuf critères, rangés en trois groupes : *engagement et participation* (intérêt, motivation, participation, initiative), *comportement et attitude* (comportement, communication, interaction), *connaissance et curiosité* (connaissances, curiosité) ;
+- des **commentaires** écrits par le ou les professeurs encadrants.
 
-> Certains établissements ont activé le format court : dans ce cas, seules l'appréciation et le texte apparaissent. C'est un choix de l'établissement, pas un compte rendu incomplet.
+> Certains établissements ont activé le format court : dans ce cas, seules la satisfaction globale et les commentaires apparaissent. C'est un choix de l'établissement, pas un compte rendu incomplet.
+
+> **Les auteurs des commentaires ne sont pas nommés** : ils apparaissent en « Professeur 1 », « Professeur 2 ». Les professeurs encadrants, eux, sont bien nommés dans la liste, colonne **« Professeur(s) »** : c'est la signature du commentaire qui reste anonyme, pas l'encadrement.
+
+> Un bouton **« Télécharger (PDF) »** en bas du panneau vous en donne une copie à conserver.
+
+![Le panneau du compte-rendu, avec la satisfaction globale, les neuf critères notés et le commentaire du professeur](../../assets/parents-familles/consulter-le-compte-rendu-du-mini-stage-de-votre-enfant/2-lire-le-compte-rendu.png)
 
 ---
 
 ## Le compte rendu n'est pas encore là
 
-L'écran vous le dit lui-même :
+Le mini-stage est marqué **« Non complété »** dans la liste, et le panneau vous le dit lui-même, sous le titre **« Appréciation en attente »** :
 
 > *« L'établissement d'accueil n'a pas encore rédigé le compte-rendu de ce mini-stage. Il apparaîtra ici dès qu'il sera complété. »*
 
 **Il n'y a rien à faire de votre côté, et aucun bouton pour le réclamer.** Le compte rendu apparaîtra tout seul une fois écrit.
+
+![Le panneau d'un mini-stage dont le compte-rendu n'est pas écrit, avec le message d'attente](../../assets/parents-familles/consulter-le-compte-rendu-du-mini-stage-de-votre-enfant/3-le-compte-rendu-n-est-pas-encore-la.png)
 
 > Si le délai vous paraît long, c'est à l'établissement d'accueil qu'il faut s'adresser — Bacastages ne peut pas le rédiger à sa place.
 
