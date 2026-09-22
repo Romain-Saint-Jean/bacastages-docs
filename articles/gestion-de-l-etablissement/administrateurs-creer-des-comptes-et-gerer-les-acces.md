@@ -72,7 +72,7 @@ Cliquez sur **« Créer l'utilisateur »**.
 | **Vie scolaire - Accueil** | Consulte les dossiers **et pointe les présences** |
 | **Compte Inscriptions** | Inscrit des élèves dans les mini-stages d'autres établissements |
 
-> **« Vie scolaire - Accueil » n'est pas un rôle en lecture seule.** Il pointe les présences : c'est sa raison d'être : la personne qui accueille les élèves à la grille est celle qui sait qui est arrivé.
+> **« Vie scolaire - Accueil » n'est pas un rôle en lecture seule.** Il pointe les présences, et c'est sa raison d'être : la personne qui accueille les élèves à la grille est celle qui sait qui est arrivé.
 
 > **Vous ne pouvez pas créer d'administrateur.** La fenêtre de création n'en propose pas : seuls professeur, DDF, Vie scolaire et Compte Inscriptions y figurent. Pour un second administrateur, écrivez au support.
 

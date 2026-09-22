@@ -36,10 +36,10 @@ Les deux erreurs ne se corrigent pas de la même façon.
 Pour savoir si votre rôle est le bon, voici ce que propose réellement l'écran **« Étape 1 sur 3 · Votre profil »** :
 
 - **Une famille** : préinscrire son enfant et suivre son parcours
-- **Compte Inscription** : *Collège, Lycée, CIO, 3 PM, etc.* : inscrire un élève ou valider une préinscription
+- **Compte Inscription** (*Collège, Lycée, CIO, 3 PM, etc.*) : inscrire un élève ou valider une préinscription
 - **Lycée** : gérer les offres et suivre les mini-stages de son lycée
 - **Autre structure** : gérer une structure éducative et ses mini-stages
-- **Élève** : marqué **« Bientôt »** : ce profil ne se crée pas encore
+- **Élève**, marqué **« Bientôt »** : ce profil ne se crée pas encore
 
 > **Le choix « Lycée » ouvre un second écran**, intitulé **« Votre rôle au lycée »**, avec trois fonctions : **Professeur encadrant**, **Vie scolaire – Accueil**, et **DDF, ATDDF, BDE, Personnel de direction**.
 

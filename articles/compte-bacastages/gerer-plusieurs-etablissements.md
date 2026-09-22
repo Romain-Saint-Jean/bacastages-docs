@@ -74,7 +74,7 @@ La liste s'intitule **« Vos établissements »**. Au-delà d'une poignée d'ent
 
 Sur la ligne de l'établissement concerné, l'icône de corbeille vous en dissocie.
 
-> **On ne peut pas se dissocier de l'établissement actif.** Basculez d'abord sur un autre : l'écran vous le rappelle : *« Veuillez changer d'établissement avant de vous dissocier. »*
+> **On ne peut pas se dissocier de l'établissement actif.** Basculez d'abord sur un autre. L'écran vous le rappelle : *« Veuillez changer d'établissement avant de vous dissocier. »*
 
 ---
 

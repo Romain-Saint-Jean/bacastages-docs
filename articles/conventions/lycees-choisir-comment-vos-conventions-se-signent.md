@@ -66,7 +66,7 @@ L'étape **« Signature en ligne »** apparaît alors dans l'assistant. Elle ne 
 *Qui reçoit la convention, et dans quel ordre.* Deux options :
 
 - **Tout le monde en même temps** : l'établissement d'origine, la famille et le vôtre reçoivent leur invitation ensemble. Le parcours va aussi vite que le signataire le plus lent.
-- **Votre établissement signe en dernier** : l'établissement d'origine, puis la famille, puis vous : vous voyez leurs engagements avant de donner le vôtre. En contrepartie, les délais s'additionnent.
+- **Votre établissement signe en dernier** : l'établissement d'origine, puis la famille, puis vous. Vous voyez ainsi leurs engagements avant de donner le vôtre. En contrepartie, les délais s'additionnent.
 
 ## 7. Déclarer une autorisation annuelle, si vous le souhaitez
 

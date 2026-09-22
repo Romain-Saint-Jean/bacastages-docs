@@ -105,5 +105,5 @@ Certaines messageries académiques ou d'entreprise appliquent des filtres que vo
 
 ## Besoin d'aide ?
 
-- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr) : précisez l'adresse concernée et l'email que vous attendez
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr), en précisant l'adresse concernée et l'email que vous attendez
 - **Par le chat :** la bulle en bas à droite de votre écran

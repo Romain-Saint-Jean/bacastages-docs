@@ -101,7 +101,7 @@ La barre de filtres range votre équipe par état d'accès :
 
 **L'écran ne fait pas toujours la même chose, et il vous le dit avant :**
 
-- **La fiche n'a jamais servi** : *« aucune offre ni aucun compte rendu ne la mentionne »* : elle est **supprimée**.
+- **La fiche n'a jamais servi**, *« aucune offre ni aucun compte rendu ne la mentionne »* : elle est **supprimée**.
 - **Des offres passées ou des comptes rendus la mentionnent** : elle est **archivée** et *« restera visible dessus. Elle disparaîtra de votre équipe et des listes de sélection. »*
 
 > **C'est voulu, et c'est protecteur.** Supprimer une fiche citée sur un compte rendu laisserait un document signé par personne. L'archivage garde le nom là où il a un sens et l'enlève partout ailleurs.
