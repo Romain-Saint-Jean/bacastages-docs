@@ -46,7 +46,7 @@ Selon l'établissement d'accueil, il comporte :
 
 > Certains établissements ont activé le format court : dans ce cas, seules la satisfaction globale et les commentaires apparaissent. C'est un choix de l'établissement, pas un compte rendu incomplet.
 
-> **Les auteurs des commentaires ne sont pas nommés** de votre côté : ils apparaissent en « Professeur 1 », « Professeur 2 ». Seul l'établissement d'accueil lit les noms de ses propres enseignants.
+> **Les auteurs des commentaires ne sont pas nommés** : ils apparaissent en « Professeur 1 », « Professeur 2 ». Les professeurs encadrants, eux, sont bien nommés dans la liste, colonne **« Professeur(s) »** : c'est la signature du commentaire qui reste anonyme, pas l'encadrement.
 
 > Un bouton **« Télécharger (PDF) »** en bas du panneau vous en donne une copie à conserver.
 

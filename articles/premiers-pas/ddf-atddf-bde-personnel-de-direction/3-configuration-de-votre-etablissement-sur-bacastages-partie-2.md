@@ -63,7 +63,7 @@ Sous **« Signataire des conventions »**, renseignez **« Nom et prénom »**, 
 
 > C'est cette adresse qui recevra l'invitation à signer, **y compris si votre lycée reste au papier**. Vérifiez-la.
 
-![Les deux modes de signature proposés, dont celui qui est coché par défaut](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/3-comment-vous-signez.png)
+![Les trois champs du signataire des conventions et le bouton qui mène à l'étape suivante](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/4-le-signataire-des-conventions.png)
 
 ## 5. Choisir comment vous signez
 
@@ -72,11 +72,13 @@ Sous **« Comment vous signez »**, deux modes, et ce choix vaut pour tout l'ét
 - **Signature visuelle** (le réglage par défaut) : la convention est générée, signée à la main, puis redéposée sur Bacastages.
 - **Signature électronique, avec repli papier** : les trois parties signent en ligne, et une convention peut repasser au papier au cas par cas.
 
-> La signature électronique **n'est pas activée par défaut**, et il n'y a **aucune fenêtre de confirmation** : le choix est pris dès que vous cochez le second mode. Vous le verrez à deux signes : un avertissement apparaît sous l'option, et l'assistant passe de cinq à six étapes, avec une étape **« Signature en ligne »** en plus.
+> **La signature électronique ne s'active pas au clic.** Cocher le second mode ne change rien encore : le réglage ne part qu'au moment où vous quittez l'étape, et Bacastages vous pose alors la question, **« Activer la signature électronique ? »**, en rappelant que les prochaines conventions partiront en ligne et que les familles et les établissements d'origine recevront une invitation à signer. Tant que vous n'avez pas confirmé, votre établissement reste au papier.
+>
+> Une fois l'activation enregistrée, l'assistant passe de cinq à six étapes, avec une étape **« Signature en ligne »** en plus.
 
-> **Avant de généraliser la signature électronique, lancez une convention de test.** L'écran le dit : elle s'appuie sur un modèle préparé pour votre établissement, et sans ce modèle, chaque lancement échouera.
+> **Avant de généraliser la signature électronique, lancez une convention de test.** Un avertissement apparaît sous l'option dès que vous la cochez : elle s'appuie sur un modèle préparé pour votre établissement, et sans ce modèle, chaque lancement échouera.
 
-![Les trois champs du signataire des conventions et le bouton qui mène à l'étape suivante](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/4-le-signataire-des-conventions.png)
+![Les deux modes de signature proposés, dont celui qui est coché par défaut](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/3-configuration-de-votre-etablissement-sur-bacastages-partie-2/3-comment-vous-signez.png)
 
 ## 6. Passer à l'étape suivante
 
