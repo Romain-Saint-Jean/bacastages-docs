@@ -34,7 +34,7 @@ Cet article s'adresse aux **DDF, ATDDF, BDE et personnels de direction d'un lyc�
 5. **Méthode de signature** *(optionnel)*
 6. **Présentation de l'établissement** *(optionnel)*
 
-> **Vous n'en voyez que deux ?** Le panneau affiche ses six étapes une fois votre **abonnement actif**. Avant cela, il n'en demande que deux — *Informations de l'établissement* et *Signataire des conventions* — car les autres ne servent qu'à publier des offres, ce qu'un établissement sans abonnement ne fait pas.
+> **Vous n'en voyez que deux ?** Le panneau affiche ses six étapes une fois votre **abonnement actif**. Avant cela, il n'en demande que deux (*Informations de l'établissement* et *Signataire des conventions*), car les autres ne servent qu'à publier des offres, ce qu'un établissement sans abonnement ne fait pas.
 
 Le panneau annonce ce qu'il bloque : *« Vous ne pourrez pas publier d'offre ni inscrire d'élève avant d'avoir terminé les étapes obligatoires. »* Les deux étapes marquées *(optionnel)* n'entrent pas dans ce blocage.
 
@@ -74,7 +74,7 @@ Puis cliquez sur **« Enregistrer »**.
 
 > Ces informations **figurent en en-tête des conventions** signées par les familles et les établissements d'origine, et sur les détails de vos mini-stages.
 
-> Cet écran porte aussi le **signataire des conventions**, qui relève de l'étape *Méthode de signature* — vous pouvez le remplir dans la foulée, ou y revenir par la partie 2.
+> Cet écran porte aussi le **signataire des conventions**, qui relève de l'étape *Méthode de signature* : vous pouvez le remplir dans la foulée, ou y revenir par la partie 2.
 
 ![L'écran Informations : chef d'établissement et contact](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/2-les-informations-de-l-etablissement.png)
 
@@ -96,7 +96,7 @@ Sur **Mes professeur(e)s**, cliquez sur **« Ajouter »**.
 
 > **Une fiche n'est pas un compte.** La fiche sert à désigner qui encadre un mini-stage, et elle suffit pour publier une offre. Le panneau le dit : *« Le compte utilisateur n'est pas obligatoire. »* L'écran propose d'ailleurs un **accès sans compte**.
 
-> Vous pouvez aussi lui **assigner des filières** — utile une fois l'étape suivante franchie.
+> Vous pouvez aussi lui **assigner des filières** : utile une fois l'étape suivante franchie.
 
 ![La fiche d'un nouveau professeur](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1/4-la-fiche-professeur.png)
 
@@ -112,7 +112,7 @@ Sur **Mes filières**, cliquez sur **« Ajouter »**.
 
 ## 15. Parcourir les quatre étapes
 
-La création d'une filière est un assistant en quatre temps : **Informations**, **Débouchés**, **Préinscriptions**, **Professeurs & Fichiers**. Le premier écran demande le nom, une couleur et une description facultative — *« Cette description sera affichée sur les offres de mini-stages de cette filière »*.
+La création d'une filière est un assistant en quatre temps : **Informations**, **Débouchés**, **Préinscriptions**, **Professeurs & Fichiers**. Le premier écran demande le nom, une couleur et une description facultative : *« Cette description sera affichée sur les offres de mini-stages de cette filière »*.
 
 Cliquez sur **« Suivant »** pour passer au suivant.
 

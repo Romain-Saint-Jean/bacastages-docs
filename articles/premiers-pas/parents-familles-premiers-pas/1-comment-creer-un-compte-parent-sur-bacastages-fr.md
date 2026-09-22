@@ -79,7 +79,7 @@ C'est elle qui vous servira d'identifiant pour vous connecter.
 
 Saisissez son **nom** ou son **code UAI**. Les suggestions arrivent au bout d'une seconde environ.
 
-> C'est l'établissement où votre enfant est **scolarisé aujourd'hui** — son collège, le plus souvent — et **non** le lycée où il souhaite faire un mini-stage.
+> C'est l'établissement où votre enfant est **scolarisé aujourd'hui** (son collège, le plus souvent) et **non** le lycée où il souhaite faire un mini-stage.
 
 ## 12. Le sélectionner dans la liste
 
@@ -89,7 +89,7 @@ Cliquez sur la bonne ligne : le nom, la ville et l'académie vous permettent de 
 
 ## 13. Confirmer votre choix
 
-Une fenêtre s'ouvre — **« Vérifiez votre sélection »** — et vous redemande : *« Est-ce bien l'établissement où votre enfant est actuellement scolarisé ? »*
+Une fenêtre **« Vérifiez votre sélection »** s'ouvre et vous redemande : *« Est-ce bien l'établissement où votre enfant est actuellement scolarisé ? »*
 
 Cliquez sur **« Oui, c'est le bon établissement »**, ou sur **« Non, changer d'établissement »** pour relancer la recherche.
 

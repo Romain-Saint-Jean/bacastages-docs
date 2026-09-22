@@ -85,7 +85,7 @@ Cliquez sur la bonne ligne : le nom, la ville et l'académie vous permettent de 
 
 ## 13. Confirmer votre choix
 
-Une fenêtre s'ouvre — **« Vérifiez votre sélection »** — et vous redemande : *« Est-ce bien votre établissement d'origine (celui qui inscrit les élèves) ? »*
+Une fenêtre **« Vérifiez votre sélection »** s'ouvre et vous redemande : *« Est-ce bien votre établissement d'origine (celui qui inscrit les élèves) ? »*
 
 Cliquez sur **« Oui, c'est le bon établissement »**, ou sur **« Non, changer d'établissement »** pour relancer la recherche.
 
