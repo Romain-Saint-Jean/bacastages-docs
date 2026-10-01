@@ -11,92 +11,126 @@ intercom_us_updated_at: 1764149006
 
 Publier une offre de mini-stage sur Bacastages.fr pour accueillir des collégiens dans votre établissement.
 
-## Prérequis
+## Ce qu'il vous faut
 
-- Avoir un compte actif sur Bacastages.fr
-- Être connecté à la plateforme
+- Un compte actif, connecté à Bacastages.fr
+- Au moins une filière et un professeur déclarés : voir *2. Configuration de votre établissement, Partie 1*
+- Les dates, l'horaire et le nombre de places du mini-stage
 
 ---
 
-## Étapes
+## 1. Ouvrir le formulaire de création
 
-## 1\. Accéder au formulaire de création
+Dans **« Mes offres »**, la carte **« Proposez un mini-stage »** porte deux boutons :
 
-1. Rendez-vous dans l'onglet **Mes offres**
-2. Cliquez sur le bouton **Ajouter**
+- **« Publier »** ouvre le formulaire, une offre à la fois. C'est ce que décrit cet article.
+- **« Importer »** charge un lot d'offres depuis un tableur, quand vous en avez plusieurs dizaines à créer.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850318758.png -->
+![La carte Proposez un mini-stage, ses deux boutons et la liste des offres en dessous](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1-proposez-un-mini-stage.png)
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850320087.png -->
+> **Le formulaire tient en trois volets** : *Dates & Horaires*, *Établissement*, *Description*. Le fil en haut de l'écran dit toujours où vous en êtes, et **« Précédent »** revient en arrière sans rien perdre.
 
-## 2\. Remplir les informations obligatoires
+---
 
-**Dates et horaires**
+## Volet 1 : Dates & Horaires
 
-- Sélectionnez une ou plusieurs dates (utile pour les mini-stages récurrents, ex : tous les lundis après-midi)
-- Indiquez l'horaire d'arrivée et de départ de l'élève
+## 2. Choisir une ou plusieurs dates
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850324350.png -->
+Cliquez sur chaque jour dans le calendrier. L'écran récapitule votre choix en dessous : *« 1 date sélectionnée »*, puis la liste.
 
-**Capacité et filière**
+## 3. Décider si les dates forment une seule session
 
-- Renseignez le nombre de places disponibles
-- Choisissez la filière concernée
+La case **« Session de plusieurs jours »** change tout :
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850326610.png -->
+- **cochée**, les dates forment **une seule session** et l'élève s'inscrit une fois pour l'ensemble ;
+- **décochée**, chaque date devient **une offre indépendante**, avec sa propre inscription.
 
-**Encadrement**
+## 4. Indiquer l'horaire
 
-- Ajoutez jusqu'à 3 professeurs présents lors du mini-stage
-- Le premier professeur indiqué devra remplir le compte-rendu
-- Les autres pourront ajouter des commentaires
+Chaque date a son bloc d'horaires. Prenez un des créneaux proposés (*08:00 à 11:00*, *09:00 à 12:00*, *13:30 à 17:30*…), ou saisissez le vôtre sous **« Ou personnalisé »**, en heure d'arrivée et heure de départ.
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850330067.png -->
+## 5. Continuer
 
-## 3\. Compléter les informations complémentaires (optionnel)
+![Le calendrier, la case session de plusieurs jours et les créneaux horaires proposés](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/2-les-dates-et-les-horaires.png)
 
-- **Salle** : précisez le lieu si nécessaire
-- **Description** : décrivez les activités prévues et les informations importantes pour les élèves
+---
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850333054.png -->
+## Volet 2 : Établissement
 
-## 4\. Choisir le mode de publication
+## 6. Renseigner le nombre de places
 
-**Option 1 : Publication immédiate**
+Tapez le nombre, utilisez les boutons plus et moins, ou prenez un des raccourcis proposés.
 
-- Laissez cochée la case **Publier l'offre maintenant**
-- L'offre sera visible par les collèges dès l'enregistrement
+## 7. Choisir la filière
 
-**Option 2 : Publication ultérieure**
+> **La filière commande la suite** : c'est elle qui fournit la description affichée aux familles, et c'est sur elle qu'est filtrée la liste des professeurs.
 
-- Décochez la case **Publier l'offre maintenant**
-- L'offre sera enregistrée en brouillon
-- Vous pourrez la publier plus tard depuis votre liste d'offres
+## 8. Préciser la salle ou l'atelier
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850333616.png -->
+Facultatif. Le lieu apparaît sur la fiche de l'offre, sous l'établissement.
 
-## 5\. Finaliser
+![Le nombre de places, la filière choisie et le champ de la salle](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/3-les-places-la-filiere-et-la-salle.png)
 
-1. Cliquez sur **Enregistrer**
-2. Vous serez redirigé vers votre liste d'offres
+## 9. Désigner le premier professeur
+
+**Seul le premier professeur pourra noter le compte-rendu et l'absence.** Les suivants ne pourront qu'ajouter des commentaires.
+
+> La liste ne propose d'abord que **les professeurs de la filière choisie**. **« Afficher les autres professeurs »** ouvre le reste de l'équipe, et **« Ajouter un professeur »** crée une fiche sans quitter durablement le formulaire.
+
+## 10. Ajouter jusqu'à deux autres professeurs
+
+Un champ **« Professeur(e) 2 (optionnel) »** apparaît dès que le premier est désigné, puis un troisième. Trois au maximum.
+
+![La liste des professeurs de la filière ouverte sous le premier champ, et le second champ apparu à côté](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/4-les-professeurs-encadrants.png)
+
+---
+
+## Volet 3 : Description
+
+## 11. Compléter la description (facultatif)
+
+La **description de la filière** est rappelée en haut du volet : elle s'affiche toujours, vous n'avez rien à recopier. Le champ **« Description (optionnel) »** s'ajoute à elle, pour ce qui est propre à cette session : activités prévues, tenue à prévoir, consignes d'accueil.
+
+## 12. Choisir le mode de publication
+
+La case **« Publier l'offre maintenant »** est **cochée par défaut** :
+
+- **laissée cochée**, l'offre devient visible par les collèges et les familles dès l'enregistrement ;
+- **décochée**, elle est enregistrée en brouillon. *« Vous pouvez revenir dessus et la publier plus tard. »*
+
+## 13. Enregistrer
+
+Vous revenez à votre liste d'offres.
+
+![Le volet Description avec la description de la filière rappelée, la case de publication et le bouton d'enregistrement](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/5-la-description-et-la-publication.png)
 
 ---
 
 ## Résultat attendu
 
-Votre offre de mini-stage apparaît dans **Mes offres**. Si elle est publiée, elle est immédiatement visible par les collèges, dans l'onglet "Offres de mini-stages". Si elle est en brouillon, vous pouvez la modifier et la publier quand vous le souhaitez.
+Votre offre apparaît dans **« Mes offres »**, et les onglets disent où elle s'est rangée :
 
-<!-- Capture de l'espace US à refaire : premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/1850335485.png -->
+## 14. Une offre en brouillon se range dans « Prêtes à publier »
+
+Vous pouvez encore la modifier, puis la publier quand vous le voulez.
+
+## 15. Une offre publiée se range dans « Visibles »
+
+Elle est immédiatement visible par les collèges et les familles, dans **« Toutes les offres »**.
+
+> Les autres onglets suivent la vie de l'offre toute seule : **« Pleines »** quand il n'y a plus de place, **« Passées »** une fois la date franchie, **« Annulées »** si vous l'annulez.
+
+![Les onglets de la liste des offres, avec le compte de chaque état](../../../assets/premiers-pas/ddf-atddf-bde-personnel-de-direction/4-ajouter-vos-premieres-offres-de-mini-stage/6-ou-se-range-votre-offre.png)
 
 ---
 
 ## Conseils pratiques
 
-✅ **Pour gagner du temps** : sélectionnez plusieurs dates dès la création si votre mini-stage se répète régulièrement.
+✅ **Pour gagner du temps** : sélectionnez plusieurs dates dès la création si votre mini-stage se répète régulièrement, et laissez la case « Session de plusieurs jours » décochée pour obtenir autant d'offres indépendantes.
 
 ✅ **Description claire** : précisez les activités prévues pour aider les élèves à choisir un mini-stage adapté à leurs intérêts.
 
-✅ **Mode brouillon** : utilisez cette option si vous souhaitez valider les informations avec vos collègues avant publication.
+✅ **Mode brouillon** : décochez « Publier l'offre maintenant » si vous souhaitez valider les informations avec vos collègues avant publication.
 
 ---
 

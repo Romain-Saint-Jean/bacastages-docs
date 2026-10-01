@@ -15,6 +15,7 @@ Demander une place pour votre enfant sur une offre de mini-stage.
 
 - Un compte famille connecté
 - Le nom, le prénom, la date de naissance et la classe de votre enfant
+- L'adresse e-mail de la personne à prévenir dans l'établissement de votre enfant : professeur principal, secrétariat…
 - Les pièces éventuellement demandées par l'établissement d'accueil
 
 ---
@@ -29,25 +30,43 @@ Le bouton se trouve dans l'encadré de droite, sous les informations pratiques.
 
 > **Si le bouton affiche « Offre complète »** et reste inactif, il n'y a plus de place sur ce créneau. Cherchez un autre créneau de la même filière.
 
+![La fiche d'une offre, avec le bouton d'inscription sous les informations pratiques](../../assets/parents-familles/inscrire-son-enfant-a-un-mini-stage/1-s-inscrire-depuis-la-fiche.png)
+
 ## 3. Renseigner votre enfant
 
-Le formulaire demande son **nom**, son **prénom**, sa **date de naissance** et sa **classe**, ainsi que la mention **« Élève bénéficiant du dispositif ULIS »** si elle s'applique.
+Sous **« Élève »**, le formulaire demande son **nom**, son **prénom**, sa **date de naissance** et sa **classe**.
 
-## 4. Vérifier votre adresse e-mail
+## 4. Signaler le dispositif ULIS, s'il s'applique
 
-C'est à elle que partiront la convention, les rappels et le compte rendu.
+Deux boutons, **« Non »** et **« Oui »**, sous la mention **« Élève bénéficiant du dispositif ULIS »**.
 
-## 5. Joindre les pièces demandées
+![La partie Élève du formulaire, avec les quatre champs et les deux boutons du dispositif ULIS](../../assets/parents-familles/inscrire-son-enfant-a-un-mini-stage/2-les-informations-de-l-eleve.png)
 
-Certaines offres réclament des documents. Les pièces marquées **obligatoires** empêchent l'envoi tant qu'elles manquent.
+## 5. Indiquer qui prévenir dans l'établissement de votre enfant
 
-## 6. Relire le récapitulatif
+Sous **« Préinscription »**, le champ **« Email à notifier de la pré-inscription »** attend l'adresse du professeur principal, du secrétariat ou de la personne qui suivra la demande. *« Notification pour que le collège puisse valider la pré-inscription. »*
 
-La colonne de droite rappelle les informations du mini-stage pendant toute la saisie.
+> **Votre propre adresse ne vous est pas redemandée.** C'est celle de votre compte qui recevra la convention, les rappels et le compte rendu. Vous la changez, s'il le faut, depuis **« Mon compte »**.
 
-## 7. Envoyer la demande
+## 6. Renseigner les contacts de votre enfant (facultatif)
 
-Le bouton s'appelle **« Préinscrire »** — ou **« Inscrire »** si l'établissement d'accueil n'exige pas de préinscription.
+Sous **« Contacts »**, l'**e-mail** et le **téléphone** de l'élève.
+
+> **L'e-mail de l'élève n'est pas décoratif.** Un élève majeur le jour où la convention part en signature la signe lui-même : c'est à cette adresse qu'il la recevra. Sans elle, l'invitation part à l'adresse du responsable légal.
+
+![Le champ de l'adresse à notifier et les deux contacts de l'élève](../../assets/parents-familles/inscrire-son-enfant-a-un-mini-stage/3-l-email-a-notifier-et-les-contacts.png)
+
+## 7. Relire le récapitulatif
+
+La colonne de droite rappelle la filière, les places restantes, la date, l'horaire et l'établissement pendant toute la saisie.
+
+## 8. Envoyer la demande
+
+Le bouton s'appelle **« Préinscrire »**, ou **« Inscrire »** si l'établissement d'accueil n'exige pas de préinscription.
+
+![Le récapitulatif de l'offre à droite et le bouton d'envoi en bas du formulaire](../../assets/parents-familles/inscrire-son-enfant-a-un-mini-stage/4-le-recapitulatif-et-l-envoi.png)
+
+> **Certaines offres réclament des pièces jointes.** Elles apparaissent alors dans le formulaire, et celles marquées obligatoires empêchent l'envoi tant qu'elles manquent. La plupart des offres n'en demandent aucune.
 
 ---
 

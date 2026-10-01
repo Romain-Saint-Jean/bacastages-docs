@@ -40,6 +40,10 @@ Cliquez sur **« Suivi »** dans la navigation.
 
 Cliquez sur sa ligne. Un panneau s'ouvre.
 
+> L'onglet **« Toutes »** montre tous ses dossiers d'un coup. La colonne **« Étape »** vous dira lequel en est à la convention.
+
+![La rubrique Suivi d'un compte famille, avec la ligne du dossier à ouvrir](../../assets/parents-familles/deposer-la-convention-signee-de-votre-enfant/1-ouvrir-le-dossier-de-votre-enfant.png)
+
 ---
 
 ## Télécharger, signer, déposer
@@ -47,6 +51,8 @@ Cliquez sur sa ligne. Un panneau s'ouvre.
 ## 3. Télécharger la convention
 
 Dans l'encadré **« Convention transmise »**, en haut du dossier, cliquez sur **« Télécharger la convention vierge »**.
+
+![Le haut du panneau du dossier, avec l'encadré de la convention et son bouton de téléchargement](../../assets/parents-familles/deposer-la-convention-signee-de-votre-enfant/2-telecharger-la-convention-vierge.png)
 
 ## 4. L'imprimer
 
@@ -101,10 +107,12 @@ Rouvrez le dossier : le bouton devient **« Déposer une nouvelle version »**. 
 
 Quatre explications possibles :
 
-- **la convention se signe en ligne** — il n'y a alors rien à déposer, et vous recevez une invitation à signer par e-mail ;
+- **la convention se signe en ligne.** Il n'y a alors rien à déposer, et l'écran vous le dit à la place du bouton : *« La convention se signe en ligne : ouvrez "À signer" pour la signer. »* Vous recevez aussi une invitation par e-mail ;
 - **elle est déjà validée** ;
 - **votre enfant a été désinscrit** du mini-stage ;
 - **vous n'êtes pas encore arrivé à l'étape** : l'inscription doit être définitive.
+
+![Le dossier d'un enfant dont la convention part en signature électronique, sans bouton de dépôt](../../assets/parents-familles/deposer-la-convention-signee-de-votre-enfant/3-la-convention-se-signe-en-ligne.png)
 
 ---
 
