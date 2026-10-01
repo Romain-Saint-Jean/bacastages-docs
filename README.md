@@ -54,6 +54,27 @@ python3 scripts/import_articles.py ~/.local/share/bacastages/intercom-us/help-ce
 Les URL d'images renvoyées par Intercom sont signées et expirent en une trentaine
 d'heures : la conversion doit suivre l'export de près.
 
+## Publication vers Intercom
+
+```bash
+set -a; . ~/.config/bacastages/intercom-us.env; set +a
+export INTERCOM_TOKEN="$INTERCOM_US_TOKEN"
+node scripts/intercom_publish.mjs --dry-run              # ce qui partirait
+node scripts/intercom_publish.mjs                        # garde l'état de chaque article
+node scripts/intercom_publish.mjs --state published      # publie tout
+node scripts/intercom_publish.mjs articles/mini-stages   # un fichier ou une collection
+```
+
+Le dépôt est la source, Intercom la copie. Un article connu est mis à jour **par son
+`intercom_us_id`**, jamais recréé : son URL est citée dans des e-mails déjà envoyés. Un
+article sans identifiant est créé, et l'identifiant rendu par Intercom est réécrit dans
+son en-tête : **commiter après une publication**, sinon le prochain passage le crée une
+seconde fois.
+
+Les images partent par leur URL publique sur GitHub, et Intercom les recopie sur son CDN
+à l'enregistrement : les captures doivent être **sur `main`** (ou sur la branche nommée
+par `DOCS_REF`) avant la publication, pas seulement dans une PR.
+
 ## Captures d'écran
 
 Produites par Playwright sur les données de démo, jamais à la main : une capture se
