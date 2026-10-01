@@ -13,7 +13,7 @@ Signaler qu'un élève attendu en mini-stage ne s'est pas présenté.
 
 ## Ce qu'il vous faut
 
-- Un mini-stage **commencé** — le pointage n'ouvre pas avant
+- Un mini-stage **commencé** : le pointage n'ouvre pas avant
 - Un compte professeur, **ou** le lien d'accès reçu par e-mail
 
 ---
@@ -26,17 +26,27 @@ Ou, si vous n'avez pas de compte, ouvrez le **lien reçu par e-mail**.
 
 Il rassemble les mini-stages du jour.
 
+![L'écran Mini-stages d'un professeur, l'onglet Aujourd'hui encadré](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/signaler-l-absence-d-un-eleve-en-mini-stage/1-l-onglet-aujourd-hui.png)
+
 ## 3. Déplier la session
 
 Cliquez sur la flèche à gauche de la ligne pour voir les élèves attendus.
 
+![La session du jour, la flèche qui la déplie encadrée](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/signaler-l-absence-d-un-eleve-en-mini-stage/2-deplier-la-session.png)
+
 ## 4. Ouvrir le dossier de l'élève absent
 
-Cliquez sur sa ligne.
+Cliquez sur son nom.
+
+![La session dépliée, avec le nom de l'élève encadré](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/signaler-l-absence-d-un-eleve-en-mini-stage/3-ouvrir-le-dossier.png)
+
+> **Les deux boutons sont aussi sur la ligne de l'élève**, sans ouvrir le dossier. Le geste et l'effet sont les mêmes.
 
 ## 5. Cliquer sur « Absent »
 
 Dans la carte **« Présence »**, les deux boutons **« Absent »** et **« Présent »** se font face. Un clic suffit : **rien n'est à enregistrer ensuite**, le pointage part immédiatement.
+
+![Le panneau de l'élève, avec le bouton Absent encadré](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/signaler-l-absence-d-un-eleve-en-mini-stage/4-cliquer-sur-absent.png)
 
 ---
 
@@ -50,7 +60,7 @@ Recliquez simplement sur l'autre bouton. Un élève marqué absent par erreur re
 
 **Le pointage n'ouvre que le jour du mini-stage.** Avant cette date, les deux boutons sont inactifs et l'écran l'explique : *« La présence sera saisissable le jour du mini-stage. »*
 
-Ce n'est pas un droit qui vous manque — c'est simplement trop tôt.
+Ce n'est pas un droit qui vous manque : c'est simplement trop tôt.
 
 ---
 

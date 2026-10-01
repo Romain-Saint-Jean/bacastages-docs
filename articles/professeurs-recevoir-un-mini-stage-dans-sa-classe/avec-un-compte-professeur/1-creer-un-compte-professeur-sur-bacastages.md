@@ -13,11 +13,11 @@ Créer votre compte professeur sur Bacastages.
 
 ## Avant de commencer : en avez-vous besoin ?
 
-**Un professeur n'a pas obligatoirement de compte Bacastages.** Votre établissement peut vous envoyer un **lien d'accès personnel** qui vous ouvre vos mini-stages de l'année — appel et comptes rendus compris — **sans mot de passe et sans inscription**.
+**Un professeur n'a pas obligatoirement de compte Bacastages.** Votre établissement peut vous envoyer un **lien d'accès personnel** qui vous ouvre vos mini-stages de l'année, appel et comptes rendus compris, **sans mot de passe et sans inscription**.
 
 | Vous voulez | Ce qu'il vous faut |
 |---|---|
-| Faire l'appel et rédiger vos comptes rendus | **Rien à créer.** Demandez le lien d'accès à votre établissement — voyez **« Guide : gérer les mini-stages sans compte professeur »** |
+| Faire l'appel et rédiger vos comptes rendus | **Rien à créer.** Demandez le lien d'accès à votre établissement, et voyez **« Guide : gérer les mini-stages sans compte professeur »** |
 | Consulter le calendrier, retrouver vos anciens mini-stages, gérer vos accès | **Un compte**, décrit ci-dessous |
 
 > **Si vous avez déjà reçu un lien par e-mail, vous n'avez rien à faire ici.** Ce lien suffit.
@@ -36,23 +36,31 @@ Rendez-vous sur **bacastages.fr** et cliquez sur **« Créer un compte »**.
 
 > Le bouton porte **« Créer un compte gratuit »** en bas de la page d'accueil, et **« Créer un compte »** sur la page dédiée aux lycées. Les deux mènent au même endroit.
 
+![La page d'accueil de Bacastages, avec le bouton Créer un compte en haut à droite](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/1-ouvrir-la-page-d-inscription.png)
+
 ## 2. Choisir le profil « Lycée »
 
 L'écran **« Étape 1 sur 3 · Votre profil »** propose plusieurs cartes. Choisissez **« Lycée »**.
 
 > **Ne prenez pas « Compte Inscription »** : cette carte est celle des collèges, CIO et structures qui *inscrivent* des élèves dans les mini-stages d'un autre établissement.
 
+![L'étape 1 sur 3, avec la carte Lycée encadrée](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/2-choisir-le-profil-lycee.png)
+
 ## 3. Choisir « Professeur encadrant »
 
-L'écran suivant, **« Votre rôle au lycée »**, propose trois fonctions. Sélectionnez **« Professeur encadrant »** — *« Remplir vos comptes-rendus, suivre les informations relatives à vos mini-stages en attente. »*
+L'écran suivant, **« Votre rôle au lycée »**, propose trois fonctions. Sélectionnez **« Professeur encadrant »** : *« Remplir vos comptes-rendus, suivre les informations relatives à vos mini-stages en attente. »*
 
 ## 4. Continuer
 
 Cliquez sur **« Continuer »**.
 
+![L'écran des fonctions au lycée, avec Professeur encadrant et le bouton Continuer encadrés](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/3-choisir-professeur-encadrant.png)
+
 ## 5. Renseigner votre identité
 
 Complétez votre **nom**, votre **prénom** et votre **numéro de téléphone**.
+
+![Le volet d'identité du formulaire, renseigné](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/4-votre-identite.png)
 
 ## 6. Créer vos identifiants
 
@@ -68,13 +76,21 @@ Il doit compter **au moins 8 caractères**, dont **une minuscule, une majuscule,
 
 Ressaisissez-le à l'identique.
 
+![Le volet des identifiants, avec l'adresse e-mail et les deux champs de mot de passe](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/5-vos-identifiants.png)
+
 ## 9. Rattacher votre établissement
 
 Cherchez votre lycée par son nom ou par son **code UAI**, puis sélectionnez-le dans la liste.
 
 > Si votre établissement ne ressort pas, voyez **« Mon établissement n'apparaît pas dans la recherche »**.
 
+![La recherche d'établissement, avec le lycée trouvé dans la liste](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/6-rattacher-votre-etablissement.png)
+
 ## 10. Valider l'inscription
+
+Acceptez les conditions, puis cliquez sur **« Créer mon compte »**.
+
+![Le dernier écran de l'inscription, avec le bouton Créer mon compte](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/1-creer-un-compte-professeur-sur-bacastages/7-valider-l-inscription.png)
 
 ## 11. Ouvrir l'e-mail de validation
 

@@ -11,7 +11,7 @@ intercom_us_updated_at: 1768299865
 
 Faire l'appel et rédiger vos comptes rendus **sans créer de compte Bacastages**.
 
-Cet article s'adresse aux **professeurs qui n'ont pas de compte** — et qui n'en ont pas besoin.
+Cet article s'adresse aux **professeurs qui n'ont pas de compte**, et qui n'en ont pas besoin.
 
 ## Ce qu'il vous faut
 
@@ -22,7 +22,7 @@ Cet article s'adresse aux **professeurs qui n'ont pas de compte** — et qui n'e
 
 ---
 
-## Deux liens différents — sachez lequel vous avez
+## Deux liens différents, sachez lequel vous avez
 
 | Le lien | Ce qu'il ouvre | Quand vous le recevez |
 |---|---|---|
@@ -43,25 +43,31 @@ L'écran liste vos mini-stages et, pour chacun, les élèves attendus.
 
 > Avec le lien d'accès personnel, **les mini-stages à venir y figurent aussi**, même quand aucun compte rendu n'a encore été ouvert.
 
-## 3. Ouvrir le dossier d'un élève
+![L'écran Gestion des mini-stages ouvert par le lien, avec ses sessions et leurs élèves](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte/guide-gerer-les-mini-stages-sans-compte-professeur/1-ouvrir-le-lien.png)
 
-## 4. Pointer sa présence
+## 3. Pointer sa présence
 
-Deux boutons, **« Absent »** et **« Présent »**. Un clic suffit : rien n'est à enregistrer ensuite.
+Sur la ligne de l'élève, deux boutons : **« Absent »** et **« Présent »**. Un clic suffit : rien n'est à enregistrer ensuite.
+
+> **Tout se fait sur la ligne de l'élève.** Cet écran n'a pas de fiche à ouvrir : la présence et le compte rendu y sont directement.
 
 > Les boutons ne s'activent **que le jour du mini-stage**.
 
-## 5. Ouvrir son compte rendu
+## 4. Ouvrir son compte rendu
 
-Cliquez sur **« Rédiger le compte rendu »** — ou **« Voir / modifier le compte rendu »** s'il en existe déjà un.
+Cliquez sur **« Ajouter compte rendu »**, ou sur **« Modifier compte rendu »** s'il en existe déjà un.
 
-## 6. Remplir le compte rendu
+![La ligne d'un élève, avec les deux boutons de présence et celui du compte rendu](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte/guide-gerer-les-mini-stages-sans-compte-professeur/2-pointer-et-ouvrir-le-compte-rendu.png)
 
-Le formulaire est le même que pour un professeur connecté : une **appréciation générale** obligatoire, un champ **« Votre appréciation »**, et — si votre établissement utilise le compte rendu détaillé — la **ponctualité** et **neuf critères** en trois familles.
+## 5. Remplir le compte rendu
+
+Le formulaire est le même que pour un professeur connecté : une **appréciation générale** obligatoire, un champ **« Votre appréciation »**, et, si votre établissement utilise le compte rendu détaillé, la **ponctualité** et **neuf critères** en trois familles.
 
 Le détail est dans l'article **« Rédiger le compte rendu d'un élève »**.
 
-## 7. Enregistrer
+![Le formulaire de compte rendu ouvert sous la ligne de l'élève](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte/guide-gerer-les-mini-stages-sans-compte-professeur/3-remplir-le-compte-rendu.png)
+
+## 6. Enregistrer
 
 ---
 

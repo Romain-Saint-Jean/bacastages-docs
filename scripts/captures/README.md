@@ -247,6 +247,26 @@ elle qui a pointé les présences.
 - **Comptes-rendus** : un validé, un à rédiger.
 - **Paramètres** : autorisation annuelle de signature **active** pour l'année en cours.
 
+## Le lien d'accès d'un professeur
+
+Un scénario vise `/prof-link?token=…`, l'écran qu'ouvre le lien envoyé aux professeurs
+sans compte. Le jeton ne peut pas vivre dans ce dépôt, qui est public, et il n'est
+lisible nulle part après coup : `SendProfessorAccessLinkUseCase` ne le pose que dans
+l'e-mail. Il se passe donc par l'environnement, et le scénario s'arrête proprement sans
+lui.
+
+Pour en fabriquer un sur la démo, un script jetable dans le worktree back, supprimé
+après usage, qui résout `AnonymousTokenService` depuis le conteneur et appelle
+`generateProfessorLinkToken` avec l'identifiant du professeur, son e-mail, le `schoolId`
+au format `<uai>-<siteId>` et le `token_version` lu dans la table `professors`. Reprendre
+cette version telle quelle : l'incrémenter invaliderait les liens déjà envoyés, ce que
+fait précisément l'envoi d'un nouveau lien.
+
+```bash
+CAPTURES_PROF_LINK_TOKEN=<jeton> \
+  node scripts/captures/scenarios/professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte/guide-gerer-les-mini-stages-sans-compte-professeur.mjs
+```
+
 ## Ce que la démo ne couvre pas
 
 - **Fichiers.** Aucun fichier n'est déposé dans le stockage S3. Les conventions déposées,

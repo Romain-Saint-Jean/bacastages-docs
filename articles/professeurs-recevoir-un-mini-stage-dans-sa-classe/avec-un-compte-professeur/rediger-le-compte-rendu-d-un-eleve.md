@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302978
 
 Rédiger le compte rendu d'un élève que vous avez reçu en mini-stage.
 
-> **On dit « compte rendu », pas « bilan ».** « Bilan » désigne autre chose dans Bacastages — le dernier créneau d'une journée dans l'éditeur de déroulé.
+> **On dit « compte rendu », pas « bilan ».** « Bilan » désigne autre chose dans Bacastages : le dernier créneau d'une journée dans l'éditeur de déroulé.
 
 ## Ce qu'il vous faut
 
@@ -32,6 +32,8 @@ Ou, si vous n'avez pas de compte, ouvrez le **lien reçu par e-mail**.
 
 Le bouton se trouve dans la carte **« Compte rendu »**. S'il affiche **« Voir / modifier le compte rendu »**, c'est qu'un compte rendu existe déjà : vous pouvez le reprendre.
 
+![Le panneau de l'élève, avec le bouton Rédiger le compte rendu encadré](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/rediger-le-compte-rendu-d-un-eleve/1-ouvrir-le-compte-rendu.png)
+
 ---
 
 ## Le formulaire
@@ -42,31 +44,45 @@ Une **carte de progression** en tête vous dit ce qui reste à remplir.
 
 La première section, **« Remplir le compte-rendu »**, demande votre niveau de satisfaction sur une échelle à trois positions.
 
-> C'est la seule réponse **obligatoire**. Tant qu'elle manque, la section affiche **« Satisfaction manquante »**.
+> C'est la seule réponse **obligatoire**. Tant qu'elle manque, la section affiche **« Satisfaction manquante »** ; une fois cochée, ce badge devient **« Appréciation conseillée »**.
+
+Les trois positions sont **« Réservé »**, **« Favorable »** et **« Très favorable »**.
+
+![Le formulaire de compte rendu, avec la section Satisfaction globale et ses trois positions](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/rediger-le-compte-rendu-d-un-eleve/2-la-satisfaction-globale.png)
 
 ## 6. Écrire votre appréciation
 
 Sous l'échelle, le champ **« Votre appréciation »** attend *« quelques phrases sur le déroulé du mini-stage et le profil de l'élève »*.
 
-> Il est conseillé sans être obligatoire — la section l'indique par **« Appréciation conseillée »**. C'est pourtant la partie que l'élève et sa famille liront vraiment.
+> Il est conseillé sans être obligatoire. Un compteur sous le champ indique la longueur attendue : *« 40 caractères conseillés »*. C'est pourtant la partie que l'élève et sa famille liront vraiment.
+
+![Le champ Votre appréciation, rempli, sous la satisfaction cochée](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/rediger-le-compte-rendu-d-un-eleve/3-votre-appreciation.png)
 
 ## 7. Renseigner la ponctualité
 
 Uniquement si votre établissement utilise le **compte rendu détaillé** : une section **« Ponctualité »**, à répondre par **Oui** ou **Non**.
 
+![La section Ponctualité, avec ses deux réponses](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/rediger-le-compte-rendu-d-un-eleve/4-la-ponctualite.png)
+
 ## 8. Noter les neuf critères
 
 Toujours en compte rendu détaillé, ils sont regroupés en trois familles :
 
-- **Engagement et participation** — intérêt, motivation, participation, initiative
-- **Comportement et attitude** — comportement, communication, interaction
-- **Connaissance et curiosité** — connaissances, curiosité
+- **Engagement et participation** : intérêt, motivation, participation, initiative
+- **Comportement et attitude** : comportement, communication, interaction
+- **Connaissance et curiosité** : connaissances, curiosité
+
+Chaque critère se note **« Peut mieux faire »**, **« Bien »** ou **« Très bien »**, et reste sur **« Non évalué »** tant que vous n'avez pas tranché.
 
 > **Si votre établissement a activé les « comptes rendus courts »**, ces deux dernières sections n'apparaissent pas : votre compte rendu tient en une appréciation et un texte. C'est un réglage de l'établissement, pas une option de votre côté.
+
+![La section Évaluation détaillée et ses neuf critères en trois familles](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/rediger-le-compte-rendu-d-un-eleve/5-les-neuf-criteres.png)
 
 ## 9. Enregistrer
 
 Cliquez sur **« Enregistrer »**.
+
+![Le bas du formulaire, avec le bouton Enregistrer](../../../assets/professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur/rediger-le-compte-rendu-d-un-eleve/6-enregistrer.png)
 
 ---
 
@@ -74,7 +90,7 @@ Cliquez sur **« Enregistrer »**.
 
 Il arrive que le compte rendu ait déjà été rempli et validé. Vous le lisez alors en tête d'écran, sous **« Évaluation du compte-rendu »**, et le formulaire ne vous demande plus qu'une chose : **« Votre commentaire »**. Le bouton final s'appelle **« Enregistrer le commentaire »**.
 
-> **Votre commentaire remplace le précédent.** Si vous aviez déjà écrit quelque chose, relisez-le avant d'enregistrer — l'écran vous avertit quand c'est le cas.
+> **Votre commentaire remplace le précédent.** Si vous aviez déjà écrit quelque chose, relisez-le avant d'enregistrer : l'écran vous avertit quand c'est le cas.
 
 ## Plusieurs professeurs sur un même élève
 
