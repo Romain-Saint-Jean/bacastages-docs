@@ -10,7 +10,7 @@ intercom_us_url: ""
 
 Retrouver pourquoi une convention générée depuis votre modèle personnalisé sort avec des cases vides ou des informations fausses, et corriger la cause.
 
-Cet article s'adresse aux **lycées d'accueil** — DDF et administrateurs d'établissement — qui ont téléversé leur propre modèle de convention.
+Cet article s'adresse aux **lycées d'accueil** (DDF et administrateurs d'établissement) qui ont téléversé leur propre modèle de convention.
 
 > **Vous êtes une famille ou un collège, et c'est le PDF lui-même qui s'ouvre vide ?** C'est un autre sujet : voyez l'article **« Familles, élèves et collèges : la convention est vierge, ne s'imprime pas ou refuse d'être déposée »**.
 
@@ -30,7 +30,7 @@ Un champ vide a quatre causes possibles, et elles ne se corrigent pas au même e
 | Vos propres coordonnées manquent | Votre fiche établissement est incomplète | Établissement → **Informations de l'établissement** |
 | Le signataire ou sa qualité manquent | Le signataire n'est pas déclaré | Établissement → **Informations de l'établissement**, bloc **Signataire des conventions** |
 | Un champ n'apparaît nulle part sur le document | Le champ n'a pas été posé sur le modèle | Établissement → **Convention** → **Conventions personnalisées** |
-| Les informations de l'établissement d'origine manquent | Ce n'est pas vous qui les saisissez | Rien à faire de votre côté — voir plus bas |
+| Les informations de l'établissement d'origine manquent | Ce n'est pas vous qui les saisissez | Rien à faire de votre côté, voir plus bas |
 
 ---
 
@@ -62,16 +62,16 @@ C'est l'étape de l'assistant où vivent vos modèles.
 
 Ouvrez votre modèle dans l'éditeur. Sous **« Champs disponibles »**, la bibliothèque les range en six familles :
 
-- **Votre établissement** — vos coordonnées, votre logo, la signature du / de la proviseur(e)
-- **Établissement de l'élève** — les coordonnées de l'établissement d'origine
-- **Mini-stage** — l'élève, sa classe, ses dates, son responsable légal
+- **Votre établissement** : vos coordonnées, votre logo, la signature du / de la proviseur(e)
+- **Établissement de l'élève** : les coordonnées de l'établissement d'origine
+- **Mini-stage** : l'élève, sa classe, ses dates, son responsable légal
 - **Offre de mini-stage**
-- **Signatures** — les emplacements réservés à chaque partie
+- **Signatures** : les emplacements réservés à chaque partie
 - **Texte personnalisé**
 
 Un champ qui n'a pas été déposé sur le document ne peut pas se remplir : c'est la cause la plus fréquente.
 
-> **La légende des couleurs** distingue les quatre natures de champ : 🔴 rouge, les données automatiques ; 🔵 bleu, le texte personnalisé ; 🟢 vert, les images ; 🟣 violet, les zones de signature. Une zone de signature n'imprime rien — c'est une réservation.
+> **La légende des couleurs** distingue les quatre natures de champ : 🔴 rouge, les données automatiques ; 🔵 bleu, le texte personnalisé ; 🟢 vert, les images ; 🟣 violet, les zones de signature. Une zone de signature n'imprime rien : c'est une réservation.
 
 ## 7. Vérifier que le bon modèle est affecté à la filière
 
@@ -97,7 +97,7 @@ Une convention générée depuis une offre de la filière concernée porte toute
 
 ## Besoin d'aide ?
 
-Joignez une convention générée — celle qui sort incomplète — à votre message : le champ fautif s'identifie en un coup d'œil.
+Joignez une convention générée (celle qui sort incomplète) à votre message : le champ fautif s'identifie en un coup d'œil.
 
 - **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
 - **Par le chat :** la bulle en bas à droite de votre écran

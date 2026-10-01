@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302966
 
 Faire figurer la signature de votre chef d'établissement et le logo de votre lycée sur les conventions générées.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
@@ -37,7 +37,7 @@ L'assistant Convention s'ouvre.
 
 Elle porte la mention **Facultatif**.
 
-> **Cette étape n'est pas réservée aux lycées « papier ».** Elle décrit ce que porte une convention signée à la main — et un lycée qui signe en ligne en émet aussi : famille injoignable, élève sans établissement d'origine, bascule au cas par cas.
+> **Cette étape n'est pas réservée aux lycées « papier ».** Elle décrit ce que porte une convention signée à la main, et un lycée qui signe en ligne en émet aussi : famille injoignable, élève sans établissement d'origine, bascule au cas par cas.
 
 ## 4. Déposer l'image de la griffe
 
@@ -55,17 +55,17 @@ L'image apparaît sur la carte dès qu'elle est enregistrée.
 
 ## 6. Basculer « Pré-signature des conventions »
 
-Sur la même étape, sous la griffe, activez **« Pré-signature des conventions »** — *votre griffe est apposée sur chaque convention générée.*
+Sur la même étape, sous la griffe, activez **« Pré-signature des conventions »** : *votre griffe est apposée sur chaque convention générée.*
 
 > **Le réglage s'enregistre au moment où vous le basculez**, sans bouton à valider.
 
-> **Ce que cela change pour vous, concrètement.** Une convention présignée arrive déjà signée de votre côté : quand elle vous revient déposée, il ne vous reste qu'à la relire et cliquer sur **« Valider »**. Sans pré-signature, valider revient à signer et valider en une seule action — l'écran vous le dit au moment de confirmer.
+> **Ce que cela change pour vous, concrètement.** Une convention présignée arrive déjà signée de votre côté : quand elle vous revient déposée, il ne vous reste qu'à la relire et cliquer sur **« Valider »**. Sans pré-signature, valider revient à signer et valider en une seule action : l'écran vous le dit au moment de confirmer.
 
 ---
 
 ## Le second réglage de cette étape
 
-**« Validation automatique des conventions déposées »** — *une convention déposée est validée sans relecture de votre part.*
+**« Validation automatique des conventions déposées »** : *une convention déposée est validée sans relecture de votre part.*
 
 > **À activer en connaissance de cause.** Avec ce réglage, toute convention déposée passe **Validée** dès son arrivée, quel qu'en soit le déposant : vous ne relisez plus rien, et vous ne voyez plus passer les documents illisibles ou incomplets. Sans lui, chaque convention déposée vous attend dans l'onglet **« À traiter »** du Suivi.
 
@@ -83,7 +83,7 @@ Glissez votre fichier sur la carte **« Logo de la convention »**.
 
 ## 9. Vérifier l'aperçu
 
-La colonne de droite, **« Aperçu — convention par défaut »**, montre où le logo tombera sur le document. Le bouton **« Actualiser »**, en haut à droite, recharge l'aperçu.
+La colonne de droite, **« Aperçu · convention par défaut »**, montre où le logo tombera sur le document. Le bouton **« Actualiser »**, en haut à droite, recharge l'aperçu.
 
 > Si vous ne déposez aucun logo, **celui de Bacastages est inclus par défaut** sur les conventions.
 
@@ -93,7 +93,7 @@ La colonne de droite, **« Aperçu — convention par défaut »**, montre où l
 
 Les deux images n'apparaissent d'elles-mêmes que sur la **convention par défaut**.
 
-Si votre établissement utilise son **propre modèle**, il faut y **placer les champs correspondants** — le logo et la signature du / de la proviseur(e), dans la famille **« Votre établissement »** de la bibliothèque de champs. Ce sont les champs 🟢 **verts**.
+Si votre établissement utilise son **propre modèle**, il faut y **placer les champs correspondants** : le logo et la signature du / de la proviseur(e), dans la famille **« Votre établissement »** de la bibliothèque de champs. Ce sont les champs 🟢 **verts**.
 
 Voyez l'article **« Lycées : créer et personnaliser votre modèle de convention »**.
 

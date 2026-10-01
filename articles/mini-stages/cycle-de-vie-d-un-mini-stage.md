@@ -42,7 +42,7 @@ L'inscription est faite par **l'établissement d'origine** de l'élève, ou par 
 
 ![La recherche d'offres vue d'un collège, avec la liste des mini-stages ouverts](../../assets/mini-stages/cycle-de-vie-d-un-mini-stage/2-l-inscription.png)
 
-## 4. La préinscription est validée — par les deux établissements
+## 4. La préinscription est validée, par les deux établissements
 
 Une préinscription n'est définitive que quand **l'établissement d'origine et le lycée d'accueil** l'ont tous deux acceptée.
 
@@ -56,7 +56,7 @@ Dans le Suivi de chaque établissement, ces dossiers portent l'étape **« En at
 
 Dès que l'inscription est définitive, une **convention** est générée, pré-remplie.
 
-Selon le réglage du lycée d'accueil, elle part **sur papier** — téléchargée, signée à la main, redéposée — ou **en signature en ligne**. Le circuit papier est celui de la grande majorité des établissements.
+Selon le réglage du lycée d'accueil, elle part **sur papier** (téléchargée, signée à la main, redéposée) ou **en signature en ligne**. Le circuit papier est celui de la grande majorité des établissements.
 
 > **Une convention en ligne peut repasser au papier toute seule**, quand l'établissement d'origine de l'élève n'a déclaré aucun signataire : il n'y a alors personne à inviter à signer. L'historique de la convention porte la mention **« Collège d'origine sans signataire déclaré »**.
 

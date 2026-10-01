@@ -70,7 +70,7 @@ Plus bas dans le même panneau, le bloc **« Décisions »** donne les deux sép
 
 Un e-mail part à chaque changement de statut, depuis **team@notif.bacastages.fr**.
 
-> Si vous ne recevez rien, vérifiez votre courrier indésirable — et voyez l'article **« Je ne reçois pas les emails de Bacastages »**.
+> Si vous ne recevez rien, vérifiez votre courrier indésirable, et voyez l'article **« Je ne reçois pas les emails de Bacastages »**.
 
 ---
 

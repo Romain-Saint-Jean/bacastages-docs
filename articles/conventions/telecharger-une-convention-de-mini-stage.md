@@ -11,7 +11,7 @@ intercom_us_updated_at: 1768833910
 
 Récupérer le PDF d'une convention de mini-stage.
 
-Cet article s'adresse à **toutes les parties** du dossier — la famille, l'élève majeur, l'établissement d'origine et le lycée d'accueil. Le chemin est le même pour tous ; seul ce que vous avez le droit de faire ensuite change.
+Cet article s'adresse à **toutes les parties** du dossier : la famille, l'élève majeur, l'établissement d'origine et le lycée d'accueil. Le chemin est le même pour tous ; seul ce que vous avez le droit de faire ensuite change.
 
 ## Ce qu'il vous faut
 
@@ -55,8 +55,8 @@ Dans l'encadré **« Convention transmise »**, en haut du dossier, cliquez sur 
 
 Descendez jusqu'à **« Gestion de la convention »**. Deux boutons y apparaissent dès qu'un document a été déposé :
 
-- **« Voir »** — ouvre le PDF sans le télécharger ;
-- **« Télécharger »** — l'enregistre sur votre ordinateur.
+- **« Voir »** : ouvre le PDF sans le télécharger ;
+- **« Télécharger »** : l'enregistre sur votre ordinateur.
 
 ---
 

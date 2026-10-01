@@ -83,7 +83,7 @@ Quand vous rouvrez un compte rendu que vous avez déjà commenté, l'écran vous
 
 Ce message signifie que votre établissement vous a envoyé un **nouveau** lien : l'envoi d'un lien d'accès invalide tous les précédents.
 
-**Cherchez le message le plus récent de Bacastages dans votre boîte** — c'est celui-là qui fonctionne. Si vous ne le retrouvez pas, demandez à votre établissement de vous le renvoyer.
+**Cherchez le message le plus récent de Bacastages dans votre boîte** : c'est celui-là qui fonctionne. Si vous ne le retrouvez pas, demandez à votre établissement de vous le renvoyer.
 
 > Votre établissement peut aussi **révoquer** l'accès par lien. Dans ce cas, aucun lien ne fonctionne plus tant qu'il ne vous en envoie pas un nouveau.
 

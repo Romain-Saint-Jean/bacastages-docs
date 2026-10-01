@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770651915
 
 Comprendre par où passe une convention de mini-stage, de sa génération à sa validation.
 
-Cet article est un **article de référence**. Il s'adresse à **toutes les parties** — le lycée d'accueil, l'établissement d'origine et la famille — parce qu'aucune ne voit le circuit en entier depuis son écran.
+Cet article est un **article de référence**. Il s'adresse à **toutes les parties** (le lycée d'accueil, l'établissement d'origine et la famille) parce qu'aucune ne voit le circuit en entier depuis son écran.
 
 ---
 
@@ -19,20 +19,20 @@ Cet article est un **article de référence**. Il s'adresse à **toutes les part
 
 **C'est le lycée d'accueil qui choisit comment ses conventions se signent**, et lui seul. Deux réglages existent :
 
-- **Signature visuelle** — la convention est générée, signée à la main, puis redéposée sur Bacastages. **C'est le réglage par défaut de tous les établissements**, et de très loin le cas le plus fréquent.
-- **Signature électronique, avec repli papier** — les trois parties signent en ligne, et une convention peut repasser au papier au cas par cas.
+- **Signature visuelle** : la convention est générée, signée à la main, puis redéposée sur Bacastages. **C'est le réglage par défaut de tous les établissements**, et de très loin le cas le plus fréquent.
+- **Signature électronique, avec repli papier** : les trois parties signent en ligne, et une convention peut repasser au papier au cas par cas.
 
 > L'établissement d'origine et la famille ne choisissent rien : ils suivent le circuit du lycée qui accueille.
 
 ---
 
-## Circuit 1 — La convention se signe à la main
+## Circuit 1 · La convention se signe à la main
 
 C'est le circuit par défaut.
 
 ### 1. Génération
 
-La convention est créée automatiquement dès que l'inscription devient définitive — inscription directe, ou validation finale d'une préinscription. Elle est **pré-remplie** avec les informations de l'élève, des deux établissements et du mini-stage.
+La convention est créée automatiquement dès que l'inscription devient définitive : inscription directe, ou validation finale d'une préinscription. Elle est **pré-remplie** avec les informations de l'élève, des deux établissements et du mini-stage.
 
 Son état est alors **« En attente de dépôt »**.
 
@@ -42,7 +42,7 @@ La famille, l'élève majeur ou l'établissement d'origine ouvre le dossier de l
 
 ### 3. Signature sur papier
 
-Le document est imprimé et signé hors de Bacastages : par la famille — le responsable légal, ou l'élève lui-même s'il est majeur — et par l'établissement d'origine.
+Le document est imprimé et signé hors de Bacastages : par la famille (le responsable légal, ou l'élève lui-même s'il est majeur) et par l'établissement d'origine.
 
 ### 4. Dépôt
 
@@ -60,13 +60,13 @@ La convention validée part **en pièce jointe** par e-mail à la famille et à 
 
 ---
 
-## Circuit 2 — La convention se signe en ligne
+## Circuit 2 · La convention se signe en ligne
 
 Réservé aux lycées qui ont choisi ce mode.
 
 ### 1. Génération
 
-Identique au circuit papier — mais la convention n'attend aucun dépôt : elle part en signature.
+Identique au circuit papier, mais la convention n'attend aucun dépôt : elle part en signature.
 
 Son état devient **« En signature électronique »**.
 
@@ -76,8 +76,8 @@ Chaque signataire reçoit son invitation **par e-mail**, sans avoir à se créer
 
 L'ordre dépend d'un réglage du lycée :
 
-- **Tout le monde en même temps** — les trois reçoivent leur invitation ensemble ; le parcours va aussi vite que le signataire le plus lent ;
-- **Votre établissement signe en dernier** — l'établissement d'origine, puis la famille, puis le lycée ; les délais s'additionnent, mais le lycée voit les engagements des autres avant de donner le sien.
+- **Tout le monde en même temps** : les trois reçoivent leur invitation ensemble ; le parcours va aussi vite que le signataire le plus lent ;
+- **Votre établissement signe en dernier** : l'établissement d'origine, puis la famille, puis le lycée ; les délais s'additionnent, mais le lycée voit les engagements des autres avant de donner le sien.
 
 ### 3. Signature du lycée, ou mandat annuel
 
@@ -95,7 +95,7 @@ Le repli papier n'est pas un incident : il fait partie du circuit électronique.
 
 **Automatiquement**, quand l'établissement d'origine de l'élève **n'a déclaré aucun signataire**. Il n'y a alors personne à inviter, et Bacastages bascule la convention sur le parcours papier plutôt que de la laisser sans suite. L'historique porte la mention **« Collège d'origine sans signataire déclaré »**.
 
-**Par décision**, quand la convention a été déclarée papier dès l'inscription — l'historique dit **« Convention papier choisie à l'inscription »** — ou quand le lycée bascule un dossier au cas par cas : famille injoignable, élève sans établissement d'origine.
+**Par décision**, quand la convention a été déclarée papier dès l'inscription (l'historique dit **« Convention papier choisie à l'inscription »**), ou quand le lycée bascule un dossier au cas par cas : famille injoignable, élève sans établissement d'origine.
 
 > **Une convention basculée sur papier suit le circuit 1 à partir de là** : téléchargement, signature à la main, dépôt, décision du lycée.
 

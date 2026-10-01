@@ -38,7 +38,7 @@ Les mots de passe trop courants, ou faits de répétitions, sont refusés même 
 
 ## 1. Ouvrir votre compte
 
-Cliquez sur **« Mon compte »** dans la navigation — en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
+Cliquez sur **« Mon compte »** dans la navigation, en bas de la barre de gauche, ou dans la barre du haut selon votre écran.
 
 ## 2. Ouvrir l'onglet « Sécurité »
 

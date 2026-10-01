@@ -1,6 +1,6 @@
 ---
 title: "Créer un compte famille sur Bacastages"
-description: "Créer votre compte en trois étapes, et renseigner le bon établissement — celui où votre enfant est scolarisé."
+description: "Créer votre compte en trois étapes, et renseigner le bon établissement : celui où votre enfant est scolarisé."
 state: draft
 collections: [parents-familles]
 intercom_us_id: "13635203"

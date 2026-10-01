@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302953
 
 Savoir qui vous accueillez, et pointer la présence de chaque élève le jour venu.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
 
 ## Ce qu'il vous faut
 
@@ -40,16 +40,16 @@ Cliquez sur **« Suivi »** dans la barre de gauche.
 
 Réglez le sens sur **« Stages chez nous »** pour ne voir que les élèves que vous accueillez.
 
-> Le même écran montre aussi vos propres élèves partis ailleurs — c'est le sens **« Stage ailleurs »**. **« Les deux sens »** affiche tout, et chaque ligne dit alors de quel côté elle est.
+> Le même écran montre aussi vos propres élèves partis ailleurs : c'est le sens **« Stage ailleurs »**. **« Les deux sens »** affiche tout, et chaque ligne dit alors de quel côté elle est.
 
 ## 3. Choisir l'onglet qui correspond à votre besoin
 
 Cinq onglets, rangés comme une boîte de réception :
 
-- **À traiter** — ce qui attend un geste de votre part *(onglet par défaut)*
-- **En attente** — ce qui avance sans vous
-- **Terminés** — les dossiers clos
-- **Sans suite** — refus et désinscriptions
+- **À traiter** : ce qui attend un geste de votre part *(onglet par défaut)*
+- **En attente** : ce qui avance sans vous
+- **Terminés** : les dossiers clos
+- **Sans suite** : refus et désinscriptions
 - **Toutes**
 
 > **Ce n'est pas une frise.** Un même dossier passe par « À traiter » plusieurs fois, pour décider, signer, pointer, et repasse par « En attente » entre chaque. Le dernier passage arrive tout seul, le jour du stage, sans que personne ait cliqué.

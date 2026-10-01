@@ -50,7 +50,7 @@ Le bouton est **tout en bas du tiroir**, sous le bloc **« Actions »** : faites
 
 La fenêtre **« Désinscription d'un élève »** propose un champ **« Justifications (optionnel) »**.
 
-> **Renseignez-le.** L'écran le dit : *« Les justifications seront envoyées aux parties concernées. »* Sans motif, l'autre établissement et la famille reçoivent une annulation sans explication — et vous rappellent.
+> **Renseignez-le.** L'écran le dit : *« Les justifications seront envoyées aux parties concernées. »* Sans motif, l'autre établissement et la famille reçoivent une annulation sans explication, et vous rappellent.
 
 ## 6. Confirmer
 

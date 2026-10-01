@@ -1,6 +1,6 @@
 ---
 title: "Lycées : modifier, dépublier, annuler ou supprimer une offre"
-description: "Reprendre une offre de mini-stage déjà créée, la retirer de la recherche, l'annuler, ou la supprimer définitivement — et savoir laquelle de ces quatre actions choisir."
+description: "Reprendre une offre de mini-stage déjà créée, la retirer de la recherche, l'annuler, ou la supprimer définitivement, et savoir laquelle de ces quatre actions choisir."
 state: draft
 collections: [mini-stages]
 intercom_us_id: "13635226"

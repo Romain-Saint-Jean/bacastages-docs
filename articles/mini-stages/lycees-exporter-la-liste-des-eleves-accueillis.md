@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770656994
 
 Obtenir la liste des élèves attendus dans votre établissement sur une période donnée, pour l'imprimer, la diffuser, ou la traiter.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement, DDF, ou **Vie scolaire – Accueil**.
 
 ## Ce qu'il vous faut
 

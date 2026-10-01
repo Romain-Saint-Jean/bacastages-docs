@@ -11,12 +11,12 @@ intercom_us_updated_at: 1770302974
 
 Écrire le message que portent les e-mails de rappel envoyés par votre établissement.
 
-Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissement ou DDF.
+Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissement ou DDF.
 
 ## Ce qu'il vous faut
 
 - Un compte **Administrateur établissement** ou **DDF, ATDDF, BDE, Personnel de direction**
-- Un **abonnement actif** — c'est une fonctionnalité premium
+- Un **abonnement actif** : c'est une fonctionnalité premium
 
 ---
 
@@ -24,7 +24,7 @@ Cet article s'adresse aux **lycées d'accueil** — administrateur d'établissem
 
 C'est la chose à savoir avant de commencer : il n'y a **pas de bibliothèque de modèles**, et **pas un texte par type de rappel**.
 
-Vous écrivez **un corps de message**, et il est *« utilisé pour tous les types de rappels »* — ceux envoyés aux parents, aux professeurs, et pour les départs.
+Vous écrivez **un corps de message**, et il est *« utilisé pour tous les types de rappels »* : ceux envoyés aux parents, aux professeurs, et pour les départs.
 
 **Les échéances d'envoi ne se règlent pas non plus** : elles sont fixées par Bacastages. Le réglage « Jours avant dépublication » des paramètres généraux concerne la dépublication des offres, pas les rappels.
 
@@ -46,7 +46,7 @@ Le texte actuel devient modifiable.
 
 ## 4. Écrire votre message
 
-L'éditeur permet la mise en forme — gras, listes, liens.
+L'éditeur permet la mise en forme : gras, listes, liens.
 
 > **Il n'y a pas de variables à insérer.** Le nom de l'élève, les dates et la filière sont ajoutés automatiquement par Bacastages autour de votre texte : vous n'avez pas à les écrire ni à les appeler.
 

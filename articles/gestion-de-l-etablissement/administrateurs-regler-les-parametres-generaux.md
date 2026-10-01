@@ -13,7 +13,7 @@ Régler la façon dont Bacastages se comporte pour votre établissement : préin
 
 Cet article s'adresse aux **administrateurs d'établissement** et aux **DDF**.
 
-> **Ce n'est pas ici que se règle la convention.** Tout son paramétrage — mode de signature, signataire, griffe, modèles — vit derrière la carte **« Convention »**.
+> **Ce n'est pas ici que se règle la convention.** Tout son paramétrage (mode de signature, signataire, griffe, modèles) vit derrière la carte **« Convention »**.
 
 ## Ce qu'il vous faut
 
@@ -33,15 +33,15 @@ Les réglages s'affichent, rangés en **trois sections**.
 
 ## Section « Préinscriptions »
 
-**Préinscriptions activées** — *« Permettre aux familles et aux étudiants de se préinscrire aux mini-stages avant validation par le collège. »*
+**Préinscriptions activées** : *« Permettre aux familles et aux étudiants de se préinscrire aux mini-stages avant validation par le collège. »*
 *Activé par défaut.*
 
 > **Coupez-le et les familles ne peuvent plus demander par elles-mêmes** : elles voient alors un encadré leur disant de se rapprocher de leur établissement. C'est le réglage qui décide si une famille peut vous solliciter directement.
 
-**Validation directe à l'arrivée** — *« Permettre de valider directement les préinscriptions à l'arrivée de l'élève (sans validation préalable du collège). »*
+**Validation directe à l'arrivée** : *« Permettre de valider directement les préinscriptions à l'arrivée de l'élève (sans validation préalable du collège). »*
 *Désactivé par défaut.*
 
-**Email parent obligatoire** — *« Rendre l'email du parent obligatoire lors de l'inscription d'un élève. »*
+**Email parent obligatoire** : *« Rendre l'email du parent obligatoire lors de l'inscription d'un élève. »*
 *Désactivé par défaut.*
 
 > Sans adresse de parent, la famille ne reçoit **rien** : ni convention, ni rappel, ni compte rendu. L'activer, c'est refuser une inscription incomplète plutôt que de la découvrir trop tard.
@@ -50,33 +50,33 @@ Les réglages s'affichent, rangés en **trois sections**.
 
 ## Section « Présence et suivi »
 
-**Présence par défaut** — *« Les participants sont marqués présents par défaut lors de la prise de présence. »*
+**Présence par défaut** : *« Les participants sont marqués présents par défaut lors de la prise de présence. »*
 *Désactivé par défaut.*
 
-**Suivi paiement cantine** — *« Activer le suivi du paiement de la cantine pour les ministages. »*
+**Suivi paiement cantine** : *« Activer le suivi du paiement de la cantine pour les ministages. »*
 *Désactivé par défaut.*
 
 ---
 
 ## Section « Comptes rendus de mini-stage »
 
-**Comptes rendus courts** — *« Utiliser le format de compte rendu simplifié avec moins de champs à remplir. »*
+**Comptes rendus courts** : *« Utiliser le format de compte rendu simplifié avec moins de champs à remplir. »*
 *Désactivé par défaut.*
 
 > Concrètement, ce réglage retire du formulaire la ponctualité et les neuf critères notés : il ne reste qu'une appréciation générale et un texte libre. **C'est le levier le plus efficace pour qu'un professeur remplisse ses comptes rendus.**
 
-**Validation automatique des comptes rendus** — *« Les comptes rendus sont automatiquement validés après soumission par le professeur. »*
+**Validation automatique des comptes rendus** : *« Les comptes rendus sont automatiquement validés après soumission par le professeur. »*
 *Activé par défaut.*
 
 ---
 
 ## Deux réglages qui ne sont pas des interrupteurs
 
-**Jours avant dépublication** — le nombre de jours avant le mini-stage à partir duquel l'offre sort de la recherche.
+**Jours avant dépublication** : le nombre de jours avant le mini-stage à partir duquel l'offre sort de la recherche.
 
 > **Ce réglage ne concerne pas les rappels.** C'est une confusion fréquente : les échéances des e-mails de rappel sont figées et ne se règlent nulle part.
 
-**Utilisateurs notifiés supplémentaires** — les comptes de votre établissement qui recevront, en plus des destinataires habituels, les notifications de mini-stage.
+**Utilisateurs notifiés supplémentaires** : les comptes de votre établissement qui recevront, en plus des destinataires habituels, les notifications de mini-stage.
 
 ---
 

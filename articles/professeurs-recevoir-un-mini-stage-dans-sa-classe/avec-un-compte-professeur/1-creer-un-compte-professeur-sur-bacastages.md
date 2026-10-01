@@ -1,6 +1,6 @@
 ---
 title: "1. Créer un compte professeur sur Bacastages"
-description: "Créer un compte professeur — après avoir vérifié que vous en avez besoin, car un lien d'accès permet aussi de travailler sans compte."
+description: "Créer un compte professeur, après avoir vérifié que vous en avez besoin, car un lien d'accès permet aussi de travailler sans compte."
 state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13375437"
@@ -108,7 +108,7 @@ Votre adresse est confirmée et vous pouvez vous connecter.
 
 Connectez-vous : l'entrée **« Mini-stages prof »** de la navigation vous donne accès à vos élèves.
 
-> **Votre compte n'est pas votre fiche professeur.** Ce sont deux choses distinctes : votre établissement tient une fiche à votre nom, sur laquelle il vous affecte des mini-stages. Il peut la **relier** à votre compte — c'est ce qui fait apparaître vos mini-stages dans « Mini-stages prof ». Si vous ne voyez rien après connexion, demandez-lui de faire ce lien.
+> **Votre compte n'est pas votre fiche professeur.** Ce sont deux choses distinctes : votre établissement tient une fiche à votre nom, sur laquelle il vous affecte des mini-stages. Il peut la **relier** à votre compte : c'est ce qui fait apparaître vos mini-stages dans « Mini-stages prof ». Si vous ne voyez rien après connexion, demandez-lui de faire ce lien.
 
 ---
 

@@ -13,7 +13,7 @@ Lire ce que l'établissement d'accueil a écrit sur le mini-stage de votre enfan
 
 ## Ce qu'il faut savoir avant de chercher
 
-**Ce n'est pas vous qui rédigez le compte rendu.** C'est **l'établissement d'accueil** — en pratique le professeur qui a encadré votre enfant. De votre côté, la rubrique est **en lecture seule** : il n'y a ni formulaire à remplir, ni bouton d'envoi.
+**Ce n'est pas vous qui rédigez le compte rendu.** C'est **l'établissement d'accueil** : en pratique le professeur qui a encadré votre enfant. De votre côté, la rubrique est **en lecture seule** : il n'y a ni formulaire à remplir, ni bouton d'envoi.
 
 > Si vous cherchiez comment donner votre avis sur le mini-stage, il n'y a pas d'écran pour cela dans Bacastages. Adressez-vous directement à l'établissement d'accueil ou à celui de votre enfant.
 

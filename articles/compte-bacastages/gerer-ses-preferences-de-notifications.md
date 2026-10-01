@@ -23,7 +23,7 @@ Cliquez sur **« Mon compte »** dans la navigation.
 
 ## 2. Ouvrir l'onglet « Notifications »
 
-C'est le troisième onglet. La section s'intitule **« Notifications emails »** — *« Les modifications sont enregistrées automatiquement. »*
+C'est le troisième onglet. La section s'intitule **« Notifications emails »** : *« Les modifications sont enregistrées automatiquement. »*
 
 ## 3. Basculer les interrupteurs
 
@@ -37,28 +37,28 @@ Toutes ne s'affichent pas pour tout le monde : vous ne voyez que celles qui conc
 
 ### Ministages
 
-- **Inscription à un ministage** — un élève est inscrit
-- **Annulation de ministage** — un mini-stage est annulé, ou un élève désinscrit
-- **Arrivée / départ de l'élève** — le pointage a été fait
+- **Inscription à un ministage** : un élève est inscrit
+- **Annulation de ministage** : un mini-stage est annulé, ou un élève désinscrit
+- **Arrivée / départ de l'élève** : le pointage a été fait
 - **Absence de l'élève**
 
 ### Préinscriptions
 
-- **Nouvelle demande de préinscription** — une demande arrive et attend d'être traitée
+- **Nouvelle demande de préinscription** : une demande arrive et attend d'être traitée
 - **Préinscription validée**
 - **Préinscription refusée**
 
 ### Conventions
 
-- **Convention uploadée** — une convention signée vient d'être déposée
-- **Convention à valider** — une convention attend votre décision
+- **Convention uploadée** : une convention signée vient d'être déposée
+- **Convention à valider** : une convention attend votre décision
 - **Convention validée**
 - **Convention rejetée**
 
 ### Rapports
 
-- **Rapports de ministage** — un compte rendu est disponible ou vient d'être mis à jour
-- **Lien vers les rapports** — le lien pour remplir ou consulter les comptes rendus
+- **Rapports de ministage** : un compte rendu est disponible ou vient d'être mis à jour
+- **Lien vers les rapports** : le lien pour remplir ou consulter les comptes rendus
 
 ### Rappels
 

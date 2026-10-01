@@ -42,7 +42,7 @@ Le panneau annonce ce qu'il bloque : *« Vous ne pourrez pas publier d'offre ni 
 
 > Le panneau se replie par **« Réduire »** et se rouvre par la pastille **« Mise en place »** en bas à gauche. Il retient ce qui est déjà fait.
 
-Cet article couvre les trois premières étapes. Les trois suivantes sont décrites dans *3. Configuration de votre établissement — Partie 2*.
+Cet article couvre les trois premières étapes. Les trois suivantes sont décrites dans *3. Configuration de votre établissement - Partie 2*.
 
 ---
 
@@ -122,7 +122,7 @@ Cliquez sur **« Suivant »** pour passer au suivant.
 
 ## Vous y êtes, à mi-chemin
 
-Les trois premières étapes sont franchies. La suite — convention, signature, présentation publique — est décrite dans *3. Configuration de votre établissement — Partie 2*.
+Les trois premières étapes sont franchies. La suite (convention, signature, présentation publique) est décrite dans *3. Configuration de votre établissement - Partie 2*.
 
 ## Modifier ces informations plus tard
 

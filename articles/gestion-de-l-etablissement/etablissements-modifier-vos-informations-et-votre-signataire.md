@@ -1,6 +1,6 @@
 ---
 title: "Établissements : modifier vos informations et votre signataire de conventions"
-description: "Mettre à jour les coordonnées de votre établissement et déclarer qui signe les conventions en son nom — deux blocs du même écran."
+description: "Mettre à jour les coordonnées de votre établissement et déclarer qui signe les conventions en son nom : deux blocs du même écran."
 state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13444558"
@@ -11,7 +11,7 @@ intercom_us_updated_at: 1768955896
 
 Tenir à jour les informations de votre établissement qui figurent sur les conventions.
 
-Cet article s'adresse à **tous les établissements** — lycées d'accueil comme collèges, CIO et structures qui inscrivent des élèves.
+Cet article s'adresse à **tous les établissements** : lycées d'accueil comme collèges, CIO et structures qui inscrivent des élèves.
 
 ## Ce qu'il vous faut
 
@@ -54,7 +54,7 @@ Le champ s'appelle **« Nom et prénom »**.
 
 ## 9. Renseigner sa qualité
 
-Le champ **« Qualité »** attend sa fonction — *« Principal, Principale adjointe… »*.
+Le champ **« Qualité »** attend sa fonction : *« Principal, Principale adjointe… »*.
 
 > **Le signataire n'est pas forcément le chef d'établissement.** C'est pourquoi ce bloc est distinct du premier : la personne qui signe peut être un adjoint, et c'est son nom qui doit figurer sur le document.
 

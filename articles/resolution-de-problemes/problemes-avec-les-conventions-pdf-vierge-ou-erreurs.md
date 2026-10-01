@@ -11,7 +11,7 @@ intercom_us_updated_at: 1770302992
 
 Récupérer, imprimer et déposer la convention de mini-stage quand le fichier ne se comporte pas comme prévu.
 
-Cet article s'adresse aux **familles**, aux **élèves majeurs** et aux **établissements d'origine** — c'est-à-dire à tous ceux qui téléchargent la convention vierge, la font signer, puis la déposent.
+Cet article s'adresse aux **familles**, aux **élèves majeurs** et aux **établissements d'origine** : c'est-à-dire à tous ceux qui téléchargent la convention vierge, la font signer, puis la déposent.
 
 > **Vous êtes un lycée et les champs de votre modèle restent vides ?** C'est un autre sujet : voyez l'article **« Lycées : les champs de votre modèle de convention restent vides »**.
 
@@ -37,7 +37,7 @@ Sur cette page, le bloc **« Gestion de la convention »** porte les actions : *
 
 ## 1. Télécharger le fichier au lieu de le lire dans le navigateur
 
-Enregistrez le PDF sur votre ordinateur, puis ouvrez-le avec un lecteur dédié — Adobe Acrobat Reader, ou Aperçu sur Mac.
+Enregistrez le PDF sur votre ordinateur, puis ouvrez-le avec un lecteur dédié : Adobe Acrobat Reader, ou Aperçu sur Mac.
 
 > C'est la solution qui marche le plus souvent : l'aperçu intégré de certains navigateurs affiche un document vide alors que le fichier, lui, est complet.
 
@@ -77,7 +77,7 @@ Seuls le **PDF** et les images **PNG**, **JPG** et **JPEG** sont acceptés. La f
 
 La limite est de **10 Mo**.
 
-> **Cette limite n'est pas annoncée avant l'envoi.** Vous ne la découvrez qu'en message d'erreur — *« Le fichier ne doit pas dépasser 10 Mo »* — une fois le fichier choisi. Si vous avez photographié une convention papier, réduisez la définition des images avant de réessayer : une photo de smartphone dépasse facilement cette taille.
+> **Cette limite n'est pas annoncée avant l'envoi.** Vous ne la découvrez qu'en message d'erreur, *« Le fichier ne doit pas dépasser 10 Mo »*, une fois le fichier choisi. Si vous avez photographié une convention papier, réduisez la définition des images avant de réessayer : une photo de smartphone dépasse facilement cette taille.
 
 ## 3. Renseigner votre nom complet
 
@@ -91,7 +91,7 @@ Une connexion instable interrompt l'envoi en cours de route. Réessayez depuis u
 
 ## Vous avez déposé une mauvaise version
 
-Rouvrez la page du dossier : le bouton devient **« Déposer une nouvelle version »**. Choisissez le bon fichier et déposez-le à nouveau — c'est la nouvelle version qui sera examinée.
+Rouvrez la page du dossier : le bouton devient **« Déposer une nouvelle version »**. Choisissez le bon fichier et déposez-le à nouveau : c'est la nouvelle version qui sera examinée.
 
 ---
 

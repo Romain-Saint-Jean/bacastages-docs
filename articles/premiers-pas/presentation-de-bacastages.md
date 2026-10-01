@@ -39,7 +39,7 @@ La plateforme est conçue pour tous les acteurs impliqués dans les mini-stages 
 
 ## Comment commencer ?
 
-Pour commencer à utiliser Bacastages, il vous suffit de créer un compte gratuit sur **bacastages.fr**. Choisissez le profil qui vous correspond — une famille, un établissement qui inscrit des élèves (collège, CIO…), un lycée qui accueille des mini-stagiaires, ou une autre structure éducative — et laissez-vous guider par la mise en place pas à pas. En quelques minutes, vous serez prêt à publier ou rechercher vos premiers mini-stages.
+Pour commencer à utiliser Bacastages, il vous suffit de créer un compte gratuit sur **bacastages.fr**. Choisissez le profil qui vous correspond : une famille, un établissement qui inscrit des élèves (collège, CIO…), un lycée qui accueille des mini-stagiaires, ou une autre structure éducative. Laissez-vous ensuite guider par la mise en place pas à pas. En quelques minutes, vous serez prêt à publier ou rechercher vos premiers mini-stages.
 
 ---
 
