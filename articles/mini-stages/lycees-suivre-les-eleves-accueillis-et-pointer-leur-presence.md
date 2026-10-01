@@ -62,7 +62,7 @@ Le sélecteur **« Année scolaire »**, en haut de l'écran, borne la liste à 
 
 ## 5. Pointer la présence
 
-Sur la ligne de l'élève, le sélecteur de présence propose deux positions : **« Présent »** et **« Absent »**.
+Sur la ligne de l'élève, le sélecteur de présence propose deux positions : **« Absent »** à gauche, **« Présent »** à droite.
 
 > **Le pointage n'ouvre que le premier jour du mini-stage.** Avant cette date, le bouton est inactif et le dossier le dit : *« Le pointage ouvre le premier jour du mini-stage »*. Il n'y a pas d'heure à saisir : un élève est présent ou absent.
 
