@@ -64,7 +64,7 @@ Le mini-stage est marqué **« Non complété »** dans la liste, et le panneau 
 
 ![Le panneau d'un mini-stage dont le compte-rendu n'est pas écrit, avec le message d'attente](../../assets/parents-familles/consulter-le-compte-rendu-du-mini-stage-de-votre-enfant/3-le-compte-rendu-n-est-pas-encore-la.png)
 
-> Si le délai vous paraît long, c'est à l'établissement d'accueil qu'il faut s'adresser — Bacastages ne peut pas le rédiger à sa place.
+> Si le délai vous paraît long, c'est à l'établissement d'accueil qu'il faut s'adresser : Bacastages ne peut pas le rédiger à sa place.
 
 ---
 

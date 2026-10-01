@@ -89,7 +89,7 @@ Le tiroir porte aussi le sélecteur de présence, dans un encadré qui rappelle 
 ## Retrouver un élève précis
 
 - **Le champ de recherche** filtre sur le nom.
-- **La colonne « Étape »** se trie **dans l'ordre du circuit** — et non par ordre alphabétique : c'est le moyen de remettre les dossiers dans leur fil.
+- **La colonne « Étape »** se trie **dans l'ordre du circuit**, et non par ordre alphabétique : c'est le moyen de remettre les dossiers dans leur fil.
 - **Le bouton « Affichage »** ouvre un menu : le mode **Tableau** ou **Cartes**, et **« Afficher les désinscrits »**.
 
 ---
