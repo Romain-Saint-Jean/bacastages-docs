@@ -291,7 +291,75 @@ const LYCEE_B: SchoolDef = {
     uploaderName: "Vie scolaire du lycée des Coteaux",
 };
 
-const SCHOOLS = [HOST, COLLEGE_A, COLLEGE_B, LYCEE_B];
+/*
+  Le lycée qui vient d'arriver. Il n'a que sa ligne `schools` et un compte
+  administrateur : ni informations, ni professeurs, ni filières, ni réglages — donc pas
+  de ligne `school_settings` non plus, ce que le produit sait faire (`schoolService.ts`
+  crée la ligne au premier enregistrement, et son commentaire note que c'est « le cas
+  courant du collège »).
+
+  Il porte en revanche un **abonnement actif**, et c'est lui qui décide : le panneau
+  n'affiche ses six étapes qu'en mode `SETUP`, et `resolveOnboardingMode`
+  (`schoolOnboardingPolicy.ts`) rend `NONE` — deux étapes — dès qu'il n'y a pas
+  d'abonnement, quel que soit le type d'établissement. Un lycée qui vient de créer son
+  compte sans s'abonner voit donc deux étapes, pas six.
+
+  Il existe pour les deux articles de mise en place d'un lycée dans « Premiers pas » :
+  ils décrivent le panneau tel qu'un établissement le découvre, six étapes à faire. Sur
+  les quatre autres établissements, déjà configurés, ce panneau n'affiche plus que des
+  boutons « Modifier » — on ne peut pas illustrer une arrivée avec eux.
+*/
+const LYCEE_NEUF: SchoolDef = {
+    uai: "9990005E",
+    siteId: 1,
+    officialName: "Lycée des métiers de la Sablière",
+    shortName: "lycée de la Sablière",
+    nature: "LYCEE PROFESSIONNEL",
+    natureId: 320,
+    establishmentType: "Lycée professionnel",
+    address: "4 route de la Sablière",
+    zipCode: "18993",
+    city: "Pont-sur-Arnon",
+    latitude: "47,0955",
+    longitude: "2,4820",
+    studentsNumber: 480,
+    head: { gender: "Mme.", firstName: "Nathalie", lastName: "Faure", email: mail("nathalie.faure"), title: "Proviseure" },
+    contactEmail: mail("accueil.sabliere"),
+    dispatchEmail: mail("secretariat.sabliere"),
+    uploaderName: "Secrétariat du lycée de la Sablière",
+};
+
+/*
+  Le collège qui vient d'arriver — même dénuement, et **sans abonnement**. Son panneau
+  est donc le mode `NONE` : deux étapes, toutes deux bloquantes, « Informations de
+  l'établissement » puis « Signataire des conventions ». C'est ce que décrit
+  `college-lycee-cio/2`, et les deux collèges installés de la démo ont déjà tout fait.
+*/
+const COLLEGE_NEUF: SchoolDef = {
+    uai: "9990006F",
+    siteId: 1,
+    officialName: "Collège du Pré-aux-Clercs",
+    shortName: "collège du Pré-aux-Clercs",
+    nature: "COLLEGE",
+    natureId: 340,
+    establishmentType: "Collège",
+    address: "17 rue du Pré-aux-Clercs",
+    zipCode: "18993",
+    city: "Pont-sur-Arnon",
+    latitude: "47,0902",
+    longitude: "2,4765",
+    studentsNumber: 350,
+    head: { gender: "M.", firstName: "Olivier", lastName: "Chevrier", email: mail("olivier.chevrier"), title: "Principal" },
+    contactEmail: mail("accueil.pre-aux-clercs"),
+    dispatchEmail: mail("secretariat.pre-aux-clercs"),
+    uploaderName: "Secrétariat du collège du Pré-aux-Clercs",
+};
+
+const SCHOOLS = [HOST, COLLEGE_A, COLLEGE_B, LYCEE_B, LYCEE_NEUF, COLLEGE_NEUF];
+
+/** Les établissements déjà installés — tous sauf les deux qui viennent d'arriver. */
+const NEW_SCHOOLS = [LYCEE_NEUF, COLLEGE_NEUF];
+const CONFIGURED_SCHOOLS = SCHOOLS.filter((school) => !NEW_SCHOOLS.includes(school));
 
 // ---------------------------------------------------------------------------
 // Comptes
@@ -321,6 +389,19 @@ const U = {
     eleve: { id: uuid(8), key: "eleve", firstName: "Yanis", lastName: "Haddad", email: mail("yanis.haddad"), role: "student", school: LYCEE_B },
     proviseureCoteaux: { id: uuid(9), key: "proviseure-coteaux", firstName: "Anne-Sophie", lastName: "Perrin", email: LYCEE_B.head.email, role: "school_admin", school: LYCEE_B },
     parent2: { id: uuid(10), key: "parent-2", firstName: "Stéphanie", lastName: "Collet", email: mail("stephanie.collet"), role: "parent", school: COLLEGE_A },
+    proviseureNeuf: {
+        id: uuid(14), key: "proviseure-neuf", firstName: "Nathalie", lastName: "Faure",
+        email: LYCEE_NEUF.head.email, role: "school_admin", school: LYCEE_NEUF,
+    },
+    /*
+      Rôle `college` et non `school_admin` : c'est ce que crée le parcours « Compte
+      Inscription » de la page d'inscription, donc l'état réel d'un collège au lendemain
+      de son arrivée — et le public auquel s'adresse `college-lycee-cio/2`.
+    */
+    inscriptionsNeuf: {
+        id: uuid(15), key: "inscriptions-neuf", firstName: "Olivier", lastName: "Chevrier",
+        email: COLLEGE_NEUF.head.email, role: "college", school: COLLEGE_NEUF,
+    },
     admin: { id: uuid(11), key: "admin", firstName: "Équipe", lastName: "Bacastages", email: mail("support"), role: "super_admin", school: HOST, member: false },
     demandeRattachement: {
         id: uuid(12), key: "demande-rattachement", firstName: "Lucas", lastName: "Fabre", email: mail("lucas.fabre"), role: "professor", school: HOST,
@@ -785,7 +866,9 @@ async function createSchools(prisma: Any): Promise<void> {
 
     const isHost = (s: SchoolDef) => HOST_STAFF.has(s.uai);
 
-    for (const school of SCHOOLS) {
+    // `CONFIGURED_SCHOOLS` et non `SCHOOLS` : le lycée de la Sablière vient d'arriver et
+    // n'a rien renseigné. C'est la première étape de son panneau de mise en place.
+    for (const school of CONFIGURED_SCHOOLS) {
         await prisma.schoolInformation.create({
             data: {
                 schoolUai: school.uai, schoolSiteId: school.siteId,
@@ -820,7 +903,10 @@ async function createSchools(prisma: Any): Promise<void> {
         update: {},
         create: { id: ACADEMIC_YEAR_ID, startDate: ACADEMIC_YEAR_START, endDate: ACADEMIC_YEAR_END },
     });
-    for (const [school, productId] of [[HOST, "2"], [LYCEE_B, "1"]] as Array<[SchoolDef, string]>) {
+    // Le lycée de la Sablière est abonné sans rien avoir configuré : c'est l'abonnement
+    // qui fait passer son panneau de mise en place de deux étapes à six. Le collège du
+    // Pré-aux-Clercs, lui, n'en a pas — il garde les deux étapes de son article.
+    for (const [school, productId] of [[HOST, "2"], [LYCEE_B, "1"], [LYCEE_NEUF, "2"]] as Array<[SchoolDef, string]>) {
         const product = await prisma.product.findUnique({ where: { id: productId } });
         if (!product) throw new Error(`Produit ${productId} absent : charger les données de référence (prisma/seed.ts).`);
         await prisma.subscription.create({

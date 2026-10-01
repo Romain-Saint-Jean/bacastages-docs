@@ -75,10 +75,14 @@ l'étape de l'article.
 Prérequis :
 
 - les worktrees `docs-captures` (`bacastages-roadmap/scripts/worktree.sh docs-captures both`) ;
-- la base `bacastages_docs`, migrée et seedée (`scripts/captures/README.md`) ;
-- deux modifications locales, non commitées, du front de ce worktree : l'API visée en dur
-  passe de `localhost:8000` à `localhost:8100` (`next.config.mjs`,
-  `src/utils/makeApiRequest.ts`), et `devIndicators: false` dans `next.config.mjs`.
+- la base `bacastages_docs`, **migrée** (`prisma migrate deploy` depuis le worktree back,
+  sur cette base seulement) puis seedée du jour (`scripts/captures/README.md`).
+
+Le front n'a plus besoin d'être modifié à la main : depuis `8aa5048`, ses deux chemins
+d'appel se pilotent par variable, et `env.sh` pose les deux. En oublier un est silencieux
+— l'écran répond, avec les données du back voisin. Avant la première capture, prouver
+l'isolation : les comptes `@demo.bacastages.fr` n'existent que dans `bacastages_docs`, donc
+une connexion qui réussit sur le front de captures et échoue sur le back voisin suffit.
 
 ## Captures de l'espace US
 
