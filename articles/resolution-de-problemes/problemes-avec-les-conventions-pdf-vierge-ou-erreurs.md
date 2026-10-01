@@ -1,11 +1,11 @@
 ---
 title: "Familles, élèves et collèges : la convention est vierge, ne s'imprime pas ou refuse d'être déposée"
 description: "Résoudre les problèmes d'affichage, d'impression et de dépôt d'une convention de mini-stage : PDF vide, mise en page décalée, fichier refusé."
-state: draft
+state: published
 collections: [resolution-de-problemes]
 intercom_us_id: "13635299"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302992
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635299-familles-eleves-et-colleges-la-convention-est-vierge-ne-s-imprime-pas-ou-refuse-d-etre-deposee"
+intercom_us_updated_at: 1790851028
 ---
 ## Objectif
 

@@ -1,11 +1,11 @@
 ---
 title: "Réinitialiser un mot de passe oublié"
 description: "Recevoir un lien de réinitialisation par e-mail et définir un nouveau mot de passe, quand la connexion est impossible."
-state: draft
+state: published
 collections: [compte-bacastages]
 intercom_us_id: "13635282"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302984
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635282-reinitialiser-un-mot-de-passe-oublie"
+intercom_us_updated_at: 1790850887
 ---
 ## Objectif
 

@@ -5,7 +5,7 @@ state: published
 collections: [conventions]
 intercom_us_id: "13673957"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673957-signer-une-convention-de-mini-stage-en-ligne"
-intercom_us_updated_at: 1770656431
+intercom_us_updated_at: 1790850903
 ---
 ## Cet article a été fusionné
 

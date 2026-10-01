@@ -1,8 +1,11 @@
 ---
 title: "DDF : devenir administrateur de votre établissement"
 description: "Votre établissement n'a pas encore d'administrateur : prendre le rôle vous-même depuis l'espace Établissement, ce que cela change, et ce que vous pourrez faire ensuite."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
+intercom_us_id: "17279387"
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/17279387-ddf-devenir-administrateur-de-votre-etablissement"
+intercom_us_updated_at: 1790850910
 ---
 ## Objectif
 

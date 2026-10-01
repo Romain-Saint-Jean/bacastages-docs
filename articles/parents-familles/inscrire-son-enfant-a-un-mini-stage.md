@@ -1,11 +1,11 @@
 ---
 title: "Inscrire son enfant à un mini-stage"
 description: "Envoyer une demande de préinscription depuis la fiche d'une offre, et savoir ce qui se passe ensuite."
-state: draft
+state: published
 collections: [parents-familles]
 intercom_us_id: "13635208"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302945
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635208-inscrire-son-enfant-a-un-mini-stage"
+intercom_us_updated_at: 1790850970
 ---
 ## Objectif
 

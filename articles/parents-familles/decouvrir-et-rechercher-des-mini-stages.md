@@ -1,11 +1,11 @@
 ---
 title: "Découvrir et rechercher des mini-stages"
 description: "Parcourir les offres, filtrer par domaine, région, dates et disponibilité, et lire une fiche d'offre."
-state: draft
+state: published
 collections: [parents-familles]
 intercom_us_id: "13635205"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302943
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635205-decouvrir-et-rechercher-des-mini-stages"
+intercom_us_updated_at: 1790850964
 ---
 ## Objectif
 

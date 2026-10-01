@@ -1,11 +1,11 @@
 ---
 title: "Gérer ses préférences de notifications"
 description: "Choisir, parmi quatorze notifications réparties en cinq familles, celles que vous voulez recevoir par e-mail."
-state: draft
+state: published
 collections: [compte-bacastages]
 intercom_us_id: "13635278"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302982
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635278-gerer-ses-preferences-de-notifications"
+intercom_us_updated_at: 1790850883
 ---
 ## Objectif
 

@@ -1,11 +1,11 @@
 ---
 title: "Créer un compte famille sur Bacastages"
 description: "Créer votre compte en trois étapes, et renseigner le bon établissement : celui où votre enfant est scolarisé."
-state: draft
+state: published
 collections: [parents-familles]
 intercom_us_id: "13635203"
-intercom_us_url: ""
-intercom_us_updated_at: 1770307632
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635203-creer-un-compte-famille-sur-bacastages"
+intercom_us_updated_at: 1790850960
 ---
 ## Objectif
 

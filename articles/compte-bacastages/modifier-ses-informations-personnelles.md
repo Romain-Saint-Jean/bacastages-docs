@@ -1,11 +1,11 @@
 ---
 title: "Modifier ses informations personnelles"
 description: "Mettre à jour votre nom, votre téléphone ou votre adresse e-mail, et ce qui change quand c'est l'adresse."
-state: draft
+state: published
 collections: [compte-bacastages]
 intercom_us_id: "13635272"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302980
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635272-modifier-ses-informations-personnelles"
+intercom_us_updated_at: 1790850885
 ---
 ## Objectif
 

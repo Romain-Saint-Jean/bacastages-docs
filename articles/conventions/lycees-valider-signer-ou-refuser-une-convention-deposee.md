@@ -4,8 +4,8 @@ description: "Retrouver une convention déposée dans le Suivi, la vérifier, pu
 state: published
 collections: [conventions]
 intercom_us_id: "13673767"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673767-valider-une-convention-de-mini-stage"
-intercom_us_updated_at: 1770653925
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673767-lycees-valider-signer-ou-refuser-une-convention-deposee"
+intercom_us_updated_at: 1790850898
 ---
 ## Objectif
 

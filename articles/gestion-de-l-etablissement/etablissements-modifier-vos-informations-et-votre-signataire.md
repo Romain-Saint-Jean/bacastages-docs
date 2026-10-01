@@ -4,8 +4,8 @@ description: "Mettre à jour les coordonnées de votre établissement et déclar
 state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13444558"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13444558-modifier-les-informations-de-l-etablissement"
-intercom_us_updated_at: 1768955896
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13444558-etablissements-modifier-vos-informations-et-votre-signataire-de-conventions"
+intercom_us_updated_at: 1790850912
 ---
 ## Objectif
 

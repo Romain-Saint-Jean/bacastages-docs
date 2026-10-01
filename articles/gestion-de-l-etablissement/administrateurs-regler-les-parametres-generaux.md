@@ -1,11 +1,11 @@
 ---
 title: "Administrateurs : régler les paramètres généraux de l'établissement"
 description: "Les sept interrupteurs de la carte « Paramètres généraux », ce qu'ils changent concrètement, plus la dépublication des offres et les destinataires supplémentaires des notifications."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13635256"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302972
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635256-administrateurs-regler-les-parametres-generaux-de-l-etablissement"
+intercom_us_updated_at: 1790850908
 ---
 ## Objectif
 

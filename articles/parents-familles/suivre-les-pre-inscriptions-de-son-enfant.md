@@ -1,11 +1,11 @@
 ---
 title: "Suivre les préinscriptions de son enfant"
 description: "Voir où en sont vos demandes depuis la rubrique Suivi, lire l'étape de chaque dossier, et savoir quoi faire en cas de refus."
-state: draft
+state: published
 collections: [parents-familles]
 intercom_us_id: "13635210"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302946
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635210-suivre-les-preinscriptions-de-son-enfant"
+intercom_us_updated_at: 1790850972
 ---
 ## Objectif
 

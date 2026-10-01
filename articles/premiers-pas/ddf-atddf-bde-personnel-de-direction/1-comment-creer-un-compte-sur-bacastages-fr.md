@@ -5,7 +5,7 @@ state: published
 collections: [premiers-pas/ddf-atddf-bde-personnel-de-direction]
 intercom_us_id: "12932944"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/12932944-1-comment-creer-un-compte-sur-bacastages-fr"
-intercom_us_updated_at: 1768299992
+intercom_us_updated_at: 1790850983
 ---
 ## Objectif
 

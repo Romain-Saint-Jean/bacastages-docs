@@ -1,11 +1,11 @@
 ---
 title: "Rédiger le compte rendu d'un élève"
 description: "Remplir le compte rendu d'un élève reçu en mini-stage : l'appréciation générale, votre texte, et, selon votre établissement, la ponctualité et les neuf critères."
-state: draft
+state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13635269"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302978
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635269-rediger-le-compte-rendu-d-un-eleve"
+intercom_us_updated_at: 1790851009
 ---
 ## Objectif
 

@@ -5,7 +5,7 @@ state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13375437"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13375437-1-creer-un-compte-professeur-sur-bacastages"
-intercom_us_updated_at: 1768300142
+intercom_us_updated_at: 1790851001
 ---
 ## Objectif
 

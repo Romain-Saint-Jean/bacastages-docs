@@ -1,11 +1,11 @@
 ---
 title: "Gérer plusieurs établissements"
 description: "Rattacher votre compte à plusieurs établissements, basculer de l'un à l'autre, et vous détacher de celui dont vous n'avez plus besoin."
-state: draft
+state: published
 collections: [compte-bacastages]
 intercom_us_id: "13635286"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302985
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635286-gerer-plusieurs-etablissements"
+intercom_us_updated_at: 1790850881
 ---
 ## Objectif
 

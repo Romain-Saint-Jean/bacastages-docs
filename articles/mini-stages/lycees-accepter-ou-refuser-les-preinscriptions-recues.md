@@ -1,11 +1,11 @@
 ---
 title: "Lycées : accepter ou refuser les préinscriptions reçues"
 description: "Traiter les demandes de préinscription arrivées sur vos offres, et revenir sur un refus tant que l'autre établissement n'a pas tranché."
-state: draft
+state: published
 collections: [mini-stages]
 intercom_us_id: "13635221"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302952
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635221-lycees-accepter-ou-refuser-les-preinscriptions-recues"
+intercom_us_updated_at: 1790850939
 ---
 ## Objectif
 

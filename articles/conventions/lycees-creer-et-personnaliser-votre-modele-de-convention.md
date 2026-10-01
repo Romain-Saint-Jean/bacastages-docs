@@ -1,11 +1,11 @@
 ---
 title: "Lycées : créer et personnaliser votre modèle de convention"
 description: "Ajouter un modèle de convention à votre établissement, y placer les champs qui se remplissent tout seuls, et l'affecter à vos filières."
-state: draft
+state: published
 collections: [conventions]
 intercom_us_id: "13635237"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302962
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635237-lycees-creer-et-personnaliser-votre-modele-de-convention"
+intercom_us_updated_at: 1790850896
 ---
 ## Objectif
 

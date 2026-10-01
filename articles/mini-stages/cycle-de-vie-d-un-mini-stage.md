@@ -1,11 +1,11 @@
 ---
 title: "Cycle de vie d'un mini-stage"
 description: "Les sept étapes d'un mini-stage, de la création de l'offre au compte rendu, et qui agit à chacune."
-state: draft
+state: published
 collections: [mini-stages]
 intercom_us_id: "13635234"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302960
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635234-cycle-de-vie-d-un-mini-stage"
+intercom_us_updated_at: 1790850929
 ---
 ## Objectif
 

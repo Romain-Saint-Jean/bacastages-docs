@@ -1,10 +1,11 @@
 ---
 title: "Lycées : les champs de votre modèle de convention restent vides"
 description: "Comprendre pourquoi une convention générée sort avec des champs vides ou faux, et où corriger chacune des quatre causes possibles."
-state: draft
+state: published
 collections: [resolution-de-problemes]
-intercom_us_id: ""
-intercom_us_url: ""
+intercom_us_id: "17279402"
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/17279402-lycees-les-champs-de-votre-modele-de-convention-restent-vides"
+intercom_us_updated_at: 1790851022
 ---
 ## Objectif
 

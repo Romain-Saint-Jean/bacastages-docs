@@ -1,11 +1,11 @@
 ---
 title: "Consulter le calendrier de ses mini-stages"
 description: "Voir la semaine des créneaux de mini-stages, naviguer d'une semaine à l'autre et ouvrir le détail d'un créneau."
-state: draft
+state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13635263"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302975
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635263-consulter-le-calendrier-de-ses-mini-stages"
+intercom_us_updated_at: 1790851006
 ---
 ## Objectif
 

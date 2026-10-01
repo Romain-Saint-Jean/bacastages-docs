@@ -1,11 +1,11 @@
 ---
 title: "1. Comment créer un compte parent sur Bacastages.fr"
 description: "Guide pas à pas pour créer un compte parent/famille sur la plateforme Bacastages."
-state: draft
+state: published
 collections: [premiers-pas/parents-familles-premiers-pas]
 intercom_us_id: "13635199"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302940
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635199-1-comment-creer-un-compte-parent-sur-bacastages-fr"
+intercom_us_updated_at: 1790850996
 ---
 ## Objectif
 

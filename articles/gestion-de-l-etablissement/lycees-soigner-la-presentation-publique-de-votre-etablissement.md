@@ -1,10 +1,11 @@
 ---
 title: "Lycées : soigner la présentation publique de votre établissement"
 description: "Rédiger la fiche que les familles voient en consultant vos offres : description, profil, logo et photos, avec un aperçu en direct."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
-intercom_us_id: ""
-intercom_us_url: ""
+intercom_us_id: "17279391"
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/17279391-lycees-soigner-la-presentation-publique-de-votre-etablissement"
+intercom_us_updated_at: 1790850925
 ---
 ## Objectif
 

@@ -1,11 +1,11 @@
 ---
 title: "Changer son mot de passe"
 description: "Définir un nouveau mot de passe depuis l'onglet « Sécurité » de votre compte, et connaître la règle complète que Bacastages applique."
-state: draft
+state: published
 collections: [compte-bacastages]
 intercom_us_id: "13635275"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302981
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635275-changer-son-mot-de-passe"
+intercom_us_updated_at: 1790850878
 ---
 ## Objectif
 

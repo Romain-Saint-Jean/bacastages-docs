@@ -4,8 +4,8 @@ description: "Faire correspondre la fiche d'un professeur et son compte Bacastag
 state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13612776"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13612776-relier-un-professeur-a-un-utilisateur"
-intercom_us_updated_at: 1770151627
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13612776-lycees-relier-une-fiche-professeur-a-un-compte-utilisateur"
+intercom_us_updated_at: 1790850923
 ---
 ## Objectif
 

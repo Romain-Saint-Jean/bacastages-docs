@@ -5,7 +5,7 @@ state: published
 collections: [premiers-pas/college-lycee-cio]
 intercom_us_id: "13317738"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13317738-2-configuration-de-votre-etablissement-sur-bacastages-fr"
-intercom_us_updated_at: 1767726576
+intercom_us_updated_at: 1790850980
 ---
 ## Objectif
 

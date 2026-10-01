@@ -5,7 +5,7 @@ state: published
 collections: [premiers-pas/ddf-atddf-bde-personnel-de-direction]
 intercom_us_id: "12942174"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/12942174-2-configuration-de-votre-etablissement-sur-bacastages-fr-partie-1"
-intercom_us_updated_at: 1764145589
+intercom_us_updated_at: 1790850986
 ---
 ## Objectif
 

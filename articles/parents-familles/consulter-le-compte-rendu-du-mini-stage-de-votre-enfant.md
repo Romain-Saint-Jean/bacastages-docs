@@ -1,11 +1,11 @@
 ---
 title: "Consulter le compte rendu du mini-stage de votre enfant"
 description: "Où lire le compte rendu rédigé par l'établissement d'accueil, et que faire tant qu'il n'est pas écrit."
-state: draft
+state: published
 collections: [parents-familles]
 intercom_us_id: "13635217"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302950
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635217-consulter-le-compte-rendu-du-mini-stage-de-votre-enfant"
+intercom_us_updated_at: 1790850957
 ---
 ## Objectif
 

@@ -1,11 +1,11 @@
 ---
 title: "Je ne reçois pas les emails de Bacastages"
 description: "Retrouver les emails de Bacastages quand ils n'arrivent pas : la bonne adresse d'expéditeur à autoriser, puis comment relancer l'email attendu."
-state: draft
+state: published
 collections: [resolution-de-problemes]
 intercom_us_id: "13635290"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302987
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635290-je-ne-recois-pas-les-emails-de-bacastages"
+intercom_us_updated_at: 1790851021
 ---
 ## Objectif
 

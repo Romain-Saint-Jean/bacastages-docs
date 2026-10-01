@@ -4,8 +4,8 @@ description: "Régler le mode de signature de votre établissement, déclarer le
 state: published
 collections: [conventions]
 intercom_us_id: "13673409"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673409-configurer-la-signature-electronique-ou-la-presignature-de-la-convention"
-intercom_us_updated_at: 1770651390
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673409-lycees-choisir-comment-vos-conventions-se-signent"
+intercom_us_updated_at: 1790850894
 ---
 ## Objectif
 

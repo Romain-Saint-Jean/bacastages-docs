@@ -1,11 +1,11 @@
 ---
 title: "Présentation de Bacastages"
 description: "Découvrez ce qu'est Bacastages, à qui s'adresse la plateforme et ce que vous pouvez y faire."
-state: draft
+state: published
 collections: [premiers-pas]
 intercom_us_id: "13635197"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302939
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635197-presentation-de-bacastages"
+intercom_us_updated_at: 1790850997
 ---
 ## Objectif
 

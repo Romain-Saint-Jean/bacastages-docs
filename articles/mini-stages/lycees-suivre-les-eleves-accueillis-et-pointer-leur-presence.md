@@ -1,11 +1,11 @@
 ---
 title: "Lycées : suivre les élèves accueillis et pointer leur présence"
 description: "Retrouver les élèves attendus dans votre établissement et enregistrer leur présence le jour du mini-stage."
-state: draft
+state: published
 collections: [mini-stages]
 intercom_us_id: "13635223"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302953
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635223-lycees-suivre-les-eleves-accueillis-et-pointer-leur-presence"
+intercom_us_updated_at: 1790850953
 ---
 ## Objectif
 

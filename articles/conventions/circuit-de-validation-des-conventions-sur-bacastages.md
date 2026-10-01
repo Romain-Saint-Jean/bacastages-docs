@@ -5,7 +5,7 @@ state: published
 collections: [conventions]
 intercom_us_id: "13673710"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673710-circuit-de-validation-des-conventions-sur-bacastages"
-intercom_us_updated_at: 1770651915
+intercom_us_updated_at: 1790850889
 ---
 ## Objectif
 

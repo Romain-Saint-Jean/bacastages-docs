@@ -5,7 +5,7 @@ state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13375463"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13375463-2-guide-gerer-vos-mini-stages-en-tant-que-professeur"
-intercom_us_updated_at: 1768300463
+intercom_us_updated_at: 1790851003
 ---
 ## Objectif
 

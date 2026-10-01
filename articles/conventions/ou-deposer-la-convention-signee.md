@@ -4,8 +4,8 @@ description: "Télécharger la convention, la faire signer, puis la déposer dan
 state: published
 collections: [conventions]
 intercom_us_id: "13428400"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13428400-deposer-une-convention-de-mini-stage-signee-sur-bacastages"
-intercom_us_updated_at: 1768818112
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13428400-familles-eleves-majeurs-et-etablissements-d-origine-ou-deposer-la-convention-signee"
+intercom_us_updated_at: 1790850901
 ---
 La convention signée se dépose sur Bacastages, dans le dossier de l'élève. Le lycée
 d'accueil la vérifie ensuite et la valide.

@@ -5,7 +5,7 @@ state: published
 collections: [premiers-pas/ddf-atddf-bde-personnel-de-direction]
 intercom_us_id: "12942463"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/12942463-4-ajouter-vos-premieres-offres-de-mini-stage"
-intercom_us_updated_at: 1764149006
+intercom_us_updated_at: 1790850993
 ---
 ## Objectif
 

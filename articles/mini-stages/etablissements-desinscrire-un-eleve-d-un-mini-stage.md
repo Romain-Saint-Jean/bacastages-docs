@@ -4,8 +4,8 @@ description: "Retirer un élève d'un mini-stage, prévenir les autres parties, 
 state: published
 collections: [mini-stages]
 intercom_us_id: "13430905"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13430905-desinscrire-un-eleve-d-un-mini-stage"
-intercom_us_updated_at: 1768839971
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13430905-etablissements-desinscrire-un-eleve-d-un-mini-stage"
+intercom_us_updated_at: 1790850936
 ---
 ## Objectif
 

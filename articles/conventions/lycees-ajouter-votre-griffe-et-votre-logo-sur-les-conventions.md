@@ -1,11 +1,11 @@
 ---
 title: "Lycées : ajouter votre griffe et votre logo sur les conventions"
 description: "Déposer l'image de la signature et le logo de votre établissement, et activer la pré-signature des conventions générées."
-state: draft
+state: published
 collections: [conventions]
 intercom_us_id: "13635247"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302966
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635247-lycees-ajouter-votre-griffe-et-votre-logo-sur-les-conventions"
+intercom_us_updated_at: 1790850893
 ---
 ## Objectif
 

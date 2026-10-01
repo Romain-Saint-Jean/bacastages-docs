@@ -1,11 +1,11 @@
 ---
 title: "Comprendre les statuts d'une convention"
 description: "Les quatre états d'une convention de mini-stage, les libellés qui les affichent, et qui doit agir à chacun."
-state: draft
+state: published
 collections: [conventions]
 intercom_us_id: "13635243"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302965
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635243-comprendre-les-statuts-d-une-convention"
+intercom_us_updated_at: 1790850891
 ---
 ## Objectif
 

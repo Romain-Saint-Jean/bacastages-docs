@@ -1,11 +1,11 @@
 ---
 title: "Lycées : constituer et tenir votre équipe de professeurs"
 description: "Créer les fiches de vos professeurs, leur donner accès à Bacastages par lien ou par compte, et retirer de l'équipe ceux qui partent."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13635249"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302968
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635249-lycees-constituer-et-tenir-votre-equipe-de-professeurs"
+intercom_us_updated_at: 1790850918
 ---
 ## Objectif
 

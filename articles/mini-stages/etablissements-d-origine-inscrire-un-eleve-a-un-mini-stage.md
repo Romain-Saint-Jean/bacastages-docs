@@ -1,11 +1,11 @@
 ---
 title: "Établissements d'origine : inscrire un élève à un mini-stage"
 description: "Trouver une offre de mini-stage, y inscrire un élève de votre établissement, et savoir pourquoi une offre dont on vous a parlé n'apparaît pas."
-state: draft
+state: published
 collections: [mini-stages]
 intercom_us_id: "13444641"
-intercom_us_url: ""
-intercom_us_updated_at: 1768957093
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13444641-etablissements-d-origine-inscrire-un-eleve-a-un-mini-stage"
+intercom_us_updated_at: 1790850933
 ---
 ## Objectif
 

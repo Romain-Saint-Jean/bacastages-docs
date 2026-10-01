@@ -4,8 +4,8 @@ description: "Produire la liste d'appel des mini-stages sur une période, au for
 state: published
 collections: [mini-stages]
 intercom_us_id: "13674453"
-intercom_us_url: "https://intercom.help/bacastages/fr/articles/13674453-telecharger-la-liste-d-appel-des-mini-stages"
-intercom_us_updated_at: 1770656994
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13674453-lycees-exporter-la-liste-des-eleves-accueillis"
+intercom_us_updated_at: 1790850941
 ---
 ## Objectif
 

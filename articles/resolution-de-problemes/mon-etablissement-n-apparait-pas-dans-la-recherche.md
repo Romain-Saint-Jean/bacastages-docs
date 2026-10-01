@@ -1,11 +1,11 @@
 ---
 title: "Mon établissement n'apparaît pas dans la recherche"
 description: "Retrouver son établissement dans la recherche Bacastages grâce au code UAI ou au code postal, et le faire ajouter s'il n'existe pas encore."
-state: draft
+state: published
 collections: [resolution-de-problemes]
 intercom_us_id: "13635296"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302990
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635296-mon-etablissement-n-apparait-pas-dans-la-recherche"
+intercom_us_updated_at: 1790851024
 ---
 ## Objectif
 

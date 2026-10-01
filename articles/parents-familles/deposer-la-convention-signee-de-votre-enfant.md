@@ -1,11 +1,11 @@
 ---
 title: "Déposer la convention signée de votre enfant"
 description: "Télécharger la convention, la faire signer, puis la déposer, depuis le lien reçu par e-mail ou depuis votre espace."
-state: draft
+state: published
 collections: [parents-familles]
 intercom_us_id: "13635215"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302949
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635215-deposer-la-convention-signee-de-votre-enfant"
+intercom_us_updated_at: 1790850967
 ---
 ## Objectif
 

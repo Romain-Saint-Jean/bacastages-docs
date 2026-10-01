@@ -1,11 +1,11 @@
 ---
 title: "Mot de passe oublié ou connexion impossible"
 description: "Réinitialiser son mot de passe et lever les causes les plus fréquentes d'un échec de connexion à Bacastages."
-state: draft
+state: published
 collections: [resolution-de-problemes]
 intercom_us_id: "13635292"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302988
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635292-mot-de-passe-oublie-ou-connexion-impossible"
+intercom_us_updated_at: 1790851026
 ---
 ## Objectif
 

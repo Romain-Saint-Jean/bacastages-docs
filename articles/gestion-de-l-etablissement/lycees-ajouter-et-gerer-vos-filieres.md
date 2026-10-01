@@ -1,11 +1,11 @@
 ---
 title: "Lycées : ajouter et gérer vos filières"
 description: "Créer une filière en quatre étapes, y déclarer ses débouchés, ses règles de préinscription et ses professeurs référents."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13635251"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302969
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635251-lycees-ajouter-et-gerer-vos-filieres"
+intercom_us_updated_at: 1790850914
 ---
 ## Objectif
 

@@ -1,11 +1,11 @@
 ---
 title: "J'ai sélectionné le mauvais rôle ou le mauvais établissement"
 description: "Corriger un établissement choisi par erreur à l'inscription, et demander le changement d'un rôle qui ne correspond pas à votre fonction."
-state: draft
+state: published
 collections: [resolution-de-problemes]
 intercom_us_id: "13635302"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302993
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635302-j-ai-selectionne-le-mauvais-role-ou-le-mauvais-etablissement"
+intercom_us_updated_at: 1790851019
 ---
 ## Objectif
 

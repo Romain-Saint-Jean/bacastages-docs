@@ -5,7 +5,7 @@ state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/sans-compte]
 intercom_us_id: "13375413"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13375413-guide-gerer-les-mini-stages-sans-compte-professeur"
-intercom_us_updated_at: 1768299865
+intercom_us_updated_at: 1790851016
 ---
 ## Objectif
 

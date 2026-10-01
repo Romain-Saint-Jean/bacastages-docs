@@ -5,7 +5,7 @@ state: published
 collections: [compte-bacastages]
 intercom_us_id: "13430146"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13430146-comment-supprimer-mon-compte-bacastages"
-intercom_us_updated_at: 1768833294
+intercom_us_updated_at: 1790850880
 ---
 ## Objectif
 

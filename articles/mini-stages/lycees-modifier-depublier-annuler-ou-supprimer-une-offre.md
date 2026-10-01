@@ -1,11 +1,11 @@
 ---
 title: "Lycées : modifier, dépublier, annuler ou supprimer une offre"
 description: "Reprendre une offre de mini-stage déjà créée, la retirer de la recherche, l'annuler, ou la supprimer définitivement, et savoir laquelle de ces quatre actions choisir."
-state: draft
+state: published
 collections: [mini-stages]
 intercom_us_id: "13635226"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302954
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635226-lycees-modifier-depublier-annuler-ou-supprimer-une-offre"
+intercom_us_updated_at: 1790850946
 ---
 ## Objectif
 

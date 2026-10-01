@@ -1,8 +1,11 @@
 ---
 title: "Lycées : ce que votre formule décompte"
 description: "Votre abonnement se compte en élèves inscrits sur l'année scolaire, pas en places proposées : où lire ce nombre, ce qui le fait bouger, et ce qui se bloque quand il est atteint."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
+intercom_us_id: "17279389"
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/17279389-lycees-ce-que-votre-formule-decompte"
+intercom_us_updated_at: 1790850916
 ---
 ## Objectif
 

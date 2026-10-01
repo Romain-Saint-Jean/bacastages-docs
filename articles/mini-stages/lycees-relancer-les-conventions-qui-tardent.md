@@ -1,11 +1,11 @@
 ---
 title: "Lycées : relancer les conventions qui tardent"
 description: "Envoyer une relance de dépôt de convention à un dossier ou à toute une sélection, et choisir qui la reçoit."
-state: draft
+state: published
 collections: [mini-stages]
 intercom_us_id: "13635231"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302958
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635231-lycees-relancer-les-conventions-qui-tardent"
+intercom_us_updated_at: 1790850949
 ---
 ## Objectif
 

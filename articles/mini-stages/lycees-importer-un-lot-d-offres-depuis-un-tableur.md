@@ -1,8 +1,11 @@
 ---
 title: "Lycées : importer un lot d'offres depuis un tableur"
 description: "Créer plusieurs dizaines d'offres de mini-stage en une fois, à partir du modèle Excel généré pour votre établissement : télécharger, remplir, analyser, créer."
-state: draft
+state: published
 collections: [mini-stages]
+intercom_us_id: "17279393"
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/17279393-lycees-importer-un-lot-d-offres-depuis-un-tableur"
+intercom_us_updated_at: 1790850943
 ---
 ## Objectif
 

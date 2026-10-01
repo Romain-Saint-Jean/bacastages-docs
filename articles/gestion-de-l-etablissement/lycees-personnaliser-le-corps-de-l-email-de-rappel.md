@@ -1,11 +1,11 @@
 ---
 title: "Lycées : personnaliser le corps de l'email de rappel"
 description: "Écrire le message qui accompagne tous vos e-mails de rappel, et se l'envoyer en test avant de le mettre en service."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13635260"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302974
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635260-lycees-personnaliser-le-corps-de-l-email-de-rappel"
+intercom_us_updated_at: 1790850921
 ---
 ## Objectif
 

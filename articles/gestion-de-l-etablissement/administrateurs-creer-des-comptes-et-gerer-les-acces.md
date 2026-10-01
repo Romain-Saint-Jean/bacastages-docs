@@ -1,11 +1,11 @@
 ---
 title: "Administrateurs : créer des comptes et gérer les accès"
 description: "Créer le compte d'un collègue, comprendre les cinq rôles, bloquer un accès et traiter les demandes de rattachement et de changement de rôle."
-state: draft
+state: published
 collections: [gestion-de-l-etablissement]
 intercom_us_id: "13635254"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302971
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635254-administrateurs-creer-des-comptes-et-gerer-les-acces"
+intercom_us_updated_at: 1790850905
 ---
 ## Objectif
 

@@ -1,11 +1,11 @@
 ---
 title: "Signaler l'absence d'un élève en mini-stage"
 description: "Marquer un élève absent le jour du mini-stage, et corriger un pointage fait trop vite."
-state: draft
+state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13635266"
-intercom_us_url: ""
-intercom_us_updated_at: 1770302977
+intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635266-signaler-l-absence-d-un-eleve-en-mini-stage"
+intercom_us_updated_at: 1790851013
 ---
 ## Objectif
 
