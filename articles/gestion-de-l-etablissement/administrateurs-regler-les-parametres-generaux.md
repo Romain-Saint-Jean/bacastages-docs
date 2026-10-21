@@ -46,6 +46,11 @@ Les réglages s'affichent, rangés en **trois sections**.
 
 > Sans adresse de parent, la famille ne reçoit **rien** : ni convention, ni rappel, ni compte rendu. L'activer, c'est refuser une inscription incomplète plutôt que de la découvrir trop tard.
 
+**Téléphone parent obligatoire** : *« Rendre le téléphone du responsable légal obligatoire lors de l'inscription d'un élève. »*
+*Désactivé par défaut.*
+
+> Utile pour joindre la famille pendant le mini-stage. Voyez l'article **« Lycées : rendre obligatoire le téléphone du responsable légal »**.
+
 ---
 
 ## Section « Présence et suivi »
