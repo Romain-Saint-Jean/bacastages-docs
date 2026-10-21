@@ -5,7 +5,7 @@ state: published
 collections: [conventions]
 intercom_us_id: "13673957"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13673957-familles-signer-la-convention-de-mini-stage-en-ligne"
-intercom_us_updated_at: 1792614199
+intercom_us_updated_at: 1792614575
 ---
 ## Objectif
 
@@ -17,7 +17,7 @@ Cet article s'adresse aux **familles** : le parent ou responsable légal, et l'�
 
 ## Ce qu'il vous faut
 
-- L'adresse e-mail que vous avez donnée lors de la préinscription
+- L'adresse e-mail enregistrée dans le dossier de l'élève : celle de votre compte si vous avez fait la préinscription vous-même
 - **Aucun compte Bacastages** si vous signez depuis l'e-mail
 
 ---
@@ -30,7 +30,7 @@ Une seule personne signe pour la famille :
 - **l'élève lui-même**, s'il est majeur le jour de l'envoi et que la préinscription a été faite par lui ou par son établissement ;
 - **le responsable légal** dans tous les autres cas.
 
-L'invitation part à **l'adresse e-mail du parent** enregistrée dans le dossier de l'élève.
+L'invitation part à **l'adresse e-mail du parent** enregistrée dans le dossier de l'élève. Quand l'élève majeur signe lui-même, elle part à **son adresse e-mail**, ou à défaut à celle du parent.
 
 ---
 

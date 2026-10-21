@@ -5,47 +5,46 @@ state: published
 collections: [premiers-pas]
 intercom_us_id: "13635197"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635197-presentation-de-bacastages"
-intercom_us_updated_at: 1790850997
+intercom_us_updated_at: 1792614586
 ---
 ## Objectif
 
-Comprendre ce qu'est Bacastages et comment la plateforme peut vous aider dans la gestion des mini-stages et immersions en établissement scolaire.
+Comprendre ce qu'est Bacastages, à qui la plateforme s'adresse et ce que chacun y fait.
 
 ---
 
 ## Qu'est-ce que Bacastages ?
 
-Bacastages est une plateforme en ligne dédiée à la **gestion des mini-stages** (aussi appelés immersions ou stages d'observation) dans les établissements scolaires français. Elle permet de centraliser, organiser et suivre l'ensemble du processus : de la publication d'une offre de mini-stage jusqu'au bilan de l'immersion, en passant par les inscriptions, les conventions et le suivi des présences.
+Bacastages est une plateforme en ligne dédiée aux **mini-stages** (aussi appelés immersions) : un élève passe une ou plusieurs journées dans un lycée pour découvrir une formation. Elle réunit tout le circuit, de la publication de l'offre au compte rendu du mini-stage, en passant par la préinscription, la convention et le pointage de présence.
 
 ## À qui s'adresse Bacastages ?
 
-La plateforme est conçue pour tous les acteurs impliqués dans les mini-stages :
+- **Lycées d'accueil** (lycées professionnels, généraux et technologiques) : vous publiez vos offres, acceptez ou refusez les préinscriptions, faites signer les conventions et pointez la présence des élèves accueillis.
+- **Établissements d'origine** (collèges, lycées, CIO) : vous inscrivez vos élèves aux mini-stages, validez les demandes faites par les familles et signez les conventions.
+- **Familles** : vous trouvez un mini-stage pour votre enfant, le préinscrivez, signez la convention et lisez le compte rendu.
+- **Professeurs des lycées d'accueil** : vous voyez les mini-stages reçus dans vos classes, signalez une absence et rédigez le compte rendu de chaque élève.
 
-- **Lycées et lycées professionnels** : publiez vos offres de mini-stages, recevez les inscriptions et gérez les conventions automatiquement.
-- **Collèges et CIO** : accédez aux offres disponibles, inscrivez vos élèves et suivez leurs immersions.
-- **Parents et familles** : recherchez des mini-stages pour votre enfant, inscrivez-le en ligne et suivez le déroulement.
-- **Enseignants et professeurs principaux** : gérez les mini-stages de vos classes, validez les inscriptions et consultez les bilans.
+> **Ce ne sont pas les professeurs qui acceptent les inscriptions.** Une préinscription est tranchée par **deux établissements** : celui de l'élève et le lycée d'accueil.
 
 ## Que pouvez-vous faire sur Bacastages ?
 
-- **Créer et publier des annonces de mini-stages** : définissez les dates, les formations concernées, le nombre de places disponibles et les informations pratiques.
-- **Inscrire des élèves** : les collèges, CIO et familles peuvent pré-inscrire des élèves directement depuis la plateforme.
-- **Gérer les conventions** : générez automatiquement les conventions de stage au format PDF, personnalisez les modèles et suivez les signatures.
-- **Suivre les présences** : enregistrez les arrivées et départs des élèves le jour du mini-stage.
-- **Rédiger des bilans** : complétez un compte-rendu à la fin de chaque immersion pour garder une trace et améliorer l'expérience.
-- **Consulter des statistiques** : accédez à un tableau de bord avec des données sur vos mini-stages (nombre d'inscrits, taux de présence, etc.).
+- **Publier des offres de mini-stage** : dates, filière, nombre de places, informations pratiques. Un tableur permet d'en importer plusieurs à la fois.
+- **Préinscrire et inscrire des élèves** : les familles et les établissements d'origine font la demande, les deux établissements y répondent.
+- **Gérer les conventions** : Bacastages génère la convention à partir de votre modèle. Elle se signe à la main et se dépose, ou **se signe en ligne** si le lycée d'accueil a activé la signature électronique.
+- **Suivre les élèves** : la rubrique **« Suivi »** réunit les préinscriptions, les conventions et les présences de chaque élève.
+- **Pointer la présence** des élèves le jour du mini-stage.
+- **Rédiger et lire les comptes rendus** : le professeur qui a encadré l'élève en rédige un, que la famille et l'établissement d'origine peuvent lire.
+- **Consulter des statistiques** sur vos mini-stages.
 
 ---
 
 ## Comment commencer ?
 
-Pour commencer à utiliser Bacastages, il vous suffit de créer un compte gratuit sur **bacastages.fr**. Choisissez le profil qui vous correspond : une famille, un établissement qui inscrit des élèves (collège, CIO…), un lycée qui accueille des mini-stagiaires, ou une autre structure éducative. Laissez-vous ensuite guider par la mise en place pas à pas. En quelques minutes, vous serez prêt à publier ou rechercher vos premiers mini-stages.
+Créez un compte gratuit sur **bacastages.fr** et choisissez le profil qui vous correspond : une famille, un établissement qui inscrit des élèves (collège, CIO…), un lycée qui accueille des mini-stagiaires, ou une autre structure éducative. Laissez-vous ensuite guider par la mise en place pas à pas.
 
 ---
 
 ## Besoin d'aide ?
 
-Si vous rencontrez un problème ou avez une question, vous pouvez :
-
-- **Envoyer un email** à support@bacastages.fr
-- **Utiliser le chat en ligne** via la bulle bleue en bas à droite de votre écran
+- **Par email :** [support@bacastages.fr](mailto:support@bacastages.fr)
+- **Par le chat :** la bulle en bas à droite de votre écran

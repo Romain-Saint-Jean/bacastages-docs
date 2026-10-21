@@ -5,7 +5,7 @@ state: published
 collections: [parents-familles]
 intercom_us_id: "13635203"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635203-creer-un-compte-famille-sur-bacastages"
-intercom_us_updated_at: 1790850960
+intercom_us_updated_at: 1792614579
 ---
 ## Objectif
 
@@ -37,6 +37,8 @@ L'écran **« Étape 1 sur 3 · Votre profil »** propose plusieurs cartes de pr
 ## Étape 1 : Profil
 
 L'écran s'intitule **« Créez votre compte famille »** : *« Vous pourrez ajouter vos enfants une fois connecté. »*
+
+> **Il n'y a pas d'enfant à ajouter à votre compte**, malgré ce que dit l'écran. Vous renseignez votre enfant à chaque demande de mini-stage, dans le formulaire d'inscription.
 
 ## 3. Renseigner votre nom
 
