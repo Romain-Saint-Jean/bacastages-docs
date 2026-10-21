@@ -5,13 +5,13 @@ state: published
 collections: [mini-stages]
 intercom_us_id: "13444641"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13444641-etablissements-d-origine-inscrire-un-eleve-a-un-mini-stage"
-intercom_us_updated_at: 1790850933
+intercom_us_updated_at: 1792614983
 ---
 ## Objectif
 
 Inscrire un élève de votre établissement à un mini-stage proposé par un lycée.
 
-Cet article s'adresse aux **établissements d'origine** : collèges, lycées, CIO et autres structures qui inscrivent des élèves, avec un **Compte Inscription**.
+Cet article s'adresse aux **établissements d'origine** : collèges, lycées, CIO et autres structures qui inscrivent des élèves, avec un **Compte Inscriptions**.
 
 ## Ce qu'il vous faut
 

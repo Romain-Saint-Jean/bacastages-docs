@@ -5,7 +5,7 @@ state: published
 collections: [professeurs-recevoir-un-mini-stage-dans-sa-classe/avec-un-compte-professeur]
 intercom_us_id: "13635269"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635269-rediger-le-compte-rendu-d-un-eleve"
-intercom_us_updated_at: 1790851009
+intercom_us_updated_at: 1792615122
 ---
 ## Objectif
 
@@ -101,6 +101,8 @@ Les commentaires des autres encadrants s'affichent sous le vôtre, dans une sect
 ## Vous y êtes
 
 Le compte rendu est enregistré. La famille et l'établissement d'origine de l'élève y ont accès depuis leur rubrique **« Comptes-rendus »**.
+
+> **Si votre lycée relit les comptes rendus avant envoi**, le vôtre attend d'abord la validation de l'administration : la famille et l'établissement d'origine n'y ont accès qu'ensuite.
 
 ---
 

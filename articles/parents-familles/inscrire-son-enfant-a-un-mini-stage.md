@@ -5,7 +5,7 @@ state: published
 collections: [parents-familles]
 intercom_us_id: "13635208"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635208-inscrire-son-enfant-a-un-mini-stage"
-intercom_us_updated_at: 1790850970
+intercom_us_updated_at: 1792614582
 ---
 ## Objectif
 
@@ -52,7 +52,7 @@ Sous **« Préinscription »**, le champ **« Email à notifier de la pré-inscr
 
 Sous **« Contacts »**, l'**e-mail** et le **téléphone** de l'élève.
 
-> **L'e-mail de l'élève n'est pas décoratif.** Un élève majeur le jour où la convention part en signature la signe lui-même : c'est à cette adresse qu'il la recevra. Sans elle, l'invitation part à l'adresse du responsable légal.
+> **C'est vous qui signerez la convention, même si votre enfant est majeur** : une demande faite depuis un compte famille fait toujours signer le responsable légal. L'élève majeur ne signe lui-même que si la demande vient de lui ou de son établissement.
 
 ![Le champ de l'adresse à notifier et les deux contacts de l'élève](../../assets/parents-familles/inscrire-son-enfant-a-un-mini-stage/3-l-email-a-notifier-et-les-contacts.png)
 
