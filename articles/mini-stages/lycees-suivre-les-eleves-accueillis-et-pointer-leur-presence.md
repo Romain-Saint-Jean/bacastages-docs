@@ -92,6 +92,14 @@ Le tiroir porte aussi le sélecteur de présence, dans un encadré qui rappelle 
 - **La colonne « Étape »** se trie **dans l'ordre du circuit**, et non par ordre alphabétique : c'est le moyen de remettre les dossiers dans leur fil.
 - **Le bouton « Affichage »** ouvre un menu : le mode **Tableau** ou **Cartes**, et **« Afficher les désinscrits »**.
 
+## Voir les professeurs de chaque élève
+
+Dans le menu **« Affichage »**, cochez **« Afficher les professeurs »**. Une colonne **« Professeur(s) »** s'ajoute au tableau, et chaque carte porte la même mention en mode Cartes : ce sont les professeurs de l'offre sur laquelle l'élève est inscrit.
+
+> **Ce choix est mémorisé** : la colonne est encore là quand vous revenez. Elle ne filtre rien et ne change aucun compteur.
+
+> Cliquez sur l'en-tête **« Professeur(s) »** pour trier par nom de famille. Une offre sans professeur affiche « – » et reste en fin de liste. Un professeur archivé reste nommé.
+
 ---
 
 ## Vous y êtes

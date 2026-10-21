@@ -56,6 +56,8 @@ Elle dit qui doit agir. Les mentions qui vous concernent :
 
 Les filtres **« Nom complet »**, **« Étape »**, **« Filière »**, **« Quand »** (passés, ce jour, à venir) et **« Date »** resserrent la liste.
 
+> Pour savoir quel professeur du lycée d'accueil encadre chaque élève, cochez **« Afficher les professeurs »** dans le menu **« Affichage »** : une colonne **« Professeur(s) »** s'ajoute à la liste.
+
 ## 5. Ouvrir le dossier d'un élève
 
 Cliquez sur la ligne : le dossier s'ouvre sur la droite. **« Ouvrir en pleine page »** l'affiche sur tout l'écran.
