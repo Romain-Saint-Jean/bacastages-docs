@@ -1,11 +1,11 @@
 ---
 title: "Lycées : accepter ou refuser les préinscriptions reçues"
-description: "Traiter les demandes de préinscription arrivées sur vos offres, et revenir sur un refus tant que l'autre établissement n'a pas tranché."
+description: "Traiter les demandes de préinscription arrivées sur vos offres, et revenir sur un refus tant que l'offre a de la place."
 state: published
 collections: [mini-stages]
 intercom_us_id: "13635221"
 intercom_us_url: "https://intercom.help/bacastages/fr/articles/13635221-lycees-accepter-ou-refuser-les-preinscriptions-recues"
-intercom_us_updated_at: 1790850939
+intercom_us_updated_at: 1792614988
 ---
 ## Objectif
 
@@ -22,7 +22,7 @@ Cet article s'adresse aux **lycées d'accueil** : administrateur d'établissemen
 
 ## Une préinscription se valide à deux
 
-Une demande n'est définitive que lorsque **l'établissement d'origine de l'élève et le vôtre** l'ont tous les deux acceptée. Votre décision ne clôt donc pas forcément le dossier : tant que l'autre partie n'a pas tranché, **vous pouvez revenir sur un refus**.
+Une demande n'est définitive que lorsque **l'établissement d'origine de l'élève et le vôtre** l'ont tous les deux acceptée. L'établissement d'origine tranche **en premier** : une demande n'arrive à votre décision qu'une fois qu'il l'a acceptée, sauf si vous avez activé le paramètre **« Validation directe à l'arrivée »**. Un refus de votre part n'est pas définitif : **vous pouvez revenir dessus** tant que l'offre est ouverte et qu'il y reste une place.
 
 ---
 
@@ -36,7 +36,7 @@ Les préinscriptions à traiter concernent les élèves que vous accueillez.
 
 ## 3. Rester sur l'onglet « À traiter »
 
-C'est l'onglet ouvert par défaut. Les dossiers en attente de votre décision y portent l'étape **« En attente de décision »**, et la colonne **« Action requise »** dit **« À valider : votre établissement »**.
+C'est l'onglet ouvert par défaut. Les dossiers en attente de votre décision y portent l'étape **« En attente de décision »**, et la colonne **« Action requise »** dit **« À valider · votre établissement »**.
 
 ![L'onglet À traiter du Suivi, avec trois dossiers à l'étape En attente de décision](../../assets/mini-stages/lycees-accepter-ou-refuser-les-preinscriptions-recues/1-les-dossiers-a-decider.png)
 
@@ -74,7 +74,7 @@ Cliquez sur **« Confirmer le refus »**.
 
 ## Revenir sur un refus
 
-Tant que **l'autre établissement n'a pas validé**, un bouton **« Revenir sur le refus »** apparaît sur la ligne du dossier. Il ouvre une confirmation, **« Revenir sur le refus »**, dont le bouton final est **« Accepter la préinscription »**.
+Tant que **l'offre est ouverte et qu'il y reste une place**, un bouton **« Revenir sur le refus »** apparaît sur la ligne du dossier. Il ouvre une confirmation, **« Revenir sur le refus »**, dont le bouton final est **« Accepter la préinscription »**.
 
 Le dossier se retrouve dans l'onglet **« Sans suite »**, à l'étape **« Refusée »**.
 
